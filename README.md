@@ -22,6 +22,8 @@ The goal is to help readers understand the mechanics of this operational system 
 |------|------|
 | [docs/zh-TW/README.md](docs/zh-TW/README.md) | 繁體中文版 |
 | [docs/en/README.md](docs/en/README.md) | English version |
+| [docs/zh-TW/VERIFICATION.md](docs/zh-TW/VERIFICATION.md) | 引用來源事實驗證報告 |
+| [docs/en/VERIFICATION.md](docs/en/VERIFICATION.md) | Citation fact-checking report |
 
 ## 結構 / Structure
 
@@ -30,9 +32,11 @@ The goal is to help readers understand the mechanics of this operational system 
 ├── README.md
 └── docs
     ├── en
-    │   └── README.md
+    │   ├── README.md
+    │   └── VERIFICATION.md
     └── zh-TW
-        └── README.md
+        ├── README.md
+        └── VERIFICATION.md
 ```
 
 ## 內容大綱 / Outline
