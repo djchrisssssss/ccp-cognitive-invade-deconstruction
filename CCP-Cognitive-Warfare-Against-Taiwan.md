@@ -148,13 +148,66 @@ Creating multiple seemingly independent fan pages (news commentary, lifestyle in
 
 ---
 
-## VII. KOL Co-optation: Full-Spectrum Infiltration Strategy
+## VII. Traditional Media Infiltration: Television, Newspapers, Radio & Online News
 
-### 7.1 Why KOLs Are High-Value Targets
+### 7.1 Television Stations & Political Talk Shows
+
+Taiwan's political talk shows command large, loyal audiences, with influence concentrated among middle-aged and elderly voters. Infiltration methods include:
+
+- **Direct control of TV stations**: Acquiring or investing in TV stations through pro-CCP capital, gaining ultimate control over editorial direction. Once a station is controlled, news topic selection, headline framing, and guest lists can all be systematically manipulated.
+- **Talk show pundit placement**: Political talk shows rely on rotating panels of regular "pundits." Through cultivating long-term relationships or paying appearance fees, operators ensure commentators with specific stances appear frequently on screen, creating the impression that "experts generally agree on this."
+- **Topic agenda-setting for talk shows**: Production teams receive external "suggestions," concentrating discussion on topics favorable to operators at specific moments, or diverting attention with other controversies when unfavorable topics arise.
+
+### 7.2 Newspapers & Print Media
+
+- **Newspaper acquisition & capital injection**: Acquiring newspaper equity through Chinese capital or pro-CCP businesspeople to shift editorial stance. The process may span years, with gradual adjustments rather than abrupt changes, to reduce public alertness.
+- **Advertorial content (paid placement)**: Purchasing news space under advertising partnership agreements, publishing promotional content packaged as journalism. Readers struggle to distinguish paid content from independent reporting.
+- **Story pipeline supply**: Providing "free" or low-cost press releases and feature materials to under-resourced local newspapers and online outlets. Content is packaged as neutral reporting but carries preset framing.
+
+### 7.3 Radio Stations
+
+Radio maintains high penetration among populations in central and southern Taiwan, including taxi drivers and market vendors. Operational methods:
+
+- **Program sponsorship**: Sponsoring specific hosts or shows under commercial advertising agreements, indirectly influencing program content direction.
+- **Local station acquisition**: Small local stations face significant financial pressure and are susceptible to external funding sources. Once accepted, editorial independence is compromised.
+- **Call-in manipulation**: Arranging personnel to flood call-in programs with calls, manufacturing the illusion of a specific public opinion trend.
+
+### 7.4 Online News & Content Farms
+
+- **Content farm matrices**: Mass-creating seemingly independent news websites actually controlled by the same source. These sites cross-reference each other, occupying multiple positions in search engine results and creating the impression that "multiple outlets are reporting the same thing."
+- **LINE group news dissemination**: Middle-aged and elderly Taiwanese users heavily rely on LINE groups for information. Fabricating sensationalist headline links for fake news, which spread virally through groups, achieving reach far exceeding traditional media.
+- **YouTube news channels**: Creating YouTube channels disguised as independent news stations, packaging preset-stance news commentary as "third-party perspectives."
+
+---
+
+## VIII. Capital Infiltration: Systematic Construction of Economic Dependency
+
+### 8.1 Media Advertising Revenue Control
+
+The Chinese market is one of the world's largest advertising markets. For Taiwanese media, advertising spending from Chinese companies may represent a critical share of revenue. Operational logic:
+
+- **Advertising contracts as leverage**: Once a media outlet develops dependency on Chinese advertising revenue, operators can influence editorial direction by threatening to withdraw advertising. Media self-censorship emerges from this — editorial desks proactively avoid reporting that might anger advertisers, without requiring explicit instructions.
+- **Indirect placement through agencies**: Chinese companies' advertising budgets are placed through Hong Kong or local Taiwanese agencies, making funding sources opaque. Media may accept unknowingly or with selective ignorance.
+
+### 8.2 Corporate Investment & Commercial Dependency
+
+- **Political conversion of repatriated Taiwanese business capital**: Taiwanese companies operating in China are constrained by the CCP's business environment controls. After returning to Taiwan, these companies may be required — or "volunteer" — to cooperate with specific political activities: sponsoring certain candidates, attending United Front events, or making public statements through media.
+- **Technology & supply chain dependency**: Some Taiwanese industries have structural dependency on Chinese supply chains or markets. Operators can exploit this dependency, pressuring business owners during politically sensitive periods to use their influence to align with desired narratives.
+
+### 8.3 Local Finance & Grassroots Economic Infiltration
+
+- **Temple & local organization donations**: Building relationships with local temples, associations, and hometown clubs through donations. These organizations have mobilization capacity in local elections; once financial dependency is established, political stances can be influenced.
+- **Agricultural & fishery product procurement**: Using bulk purchases of Taiwanese agricultural and fishery products to build specific regions' economic dependency on the Chinese market. This becomes a bargaining chip in political negotiations — purchasing or halting purchases directly impacts local economies, which in turn influences local public opinion.
+
+---
+
+## IX. KOL Co-optation: Full-Spectrum Infiltration Strategy
+
+### 9.1 Why KOLs Are High-Value Targets
 
 A single KOL with 100,000 followers may achieve a per-post reach exceeding the combined output of 10,000 account farm accounts. KOL content is actively trusted by followers, and its spread follows "trust networks" rather than "noise flooding." The return on investment is extremely high.
 
-### 7.2 The Co-optation Spectrum — Hard to Soft
+### 9.2 The Co-optation Spectrum — Hard to Soft
 
 KOL co-optation spans a **continuous spectrum from hard acquisition to soft influence**:
 
@@ -170,13 +223,14 @@ KOL co-optation spans a **continuous spectrum from hard acquisition to soft infl
 - Social engagement manipulation: Arranging large numbers of accounts to give high engagement (likes, comments, shares) to specific types of content from target KOLs, using positive reinforcement to guide their content direction. KOLs may unconsciously gravitate toward specific narratives.
 - Algorithm manipulation: Boosting specific content visibility through coordinated engagement, indirectly rewarding content output that aligns with operator interests.
 
-### 7.3 KOL Category Coverage
+### 9.3 KOL Category Coverage
 
 Co-optation targets span **all domains**:
 
 | KOL Type | Operational Purpose |
 |---|---|
 | Political commentators | Directly influence political narratives and policy debates |
+| TV political pundits | Repeatedly output specific stances on high-rating talk shows, influencing political judgment among middle-aged and elderly voters. Appearance fees and airtime frequency serve as economic incentives |
 | Finance/investment KOLs | Shape the economic narrative of "China's economy is strong, Taiwan depends on China" |
 | Travel/lifestyle KOLs | Beautify China's image, build cultural affinity |
 | Tech/gadget KOLs | Promote Chinese brands, build impressions of technological leadership |
@@ -190,13 +244,66 @@ Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily 
 
 ---
 
-## VIII. Sowing Discord: Systematically Amplifying Social Fractures
+## X. Co-opting Officials & Military Personnel: Infiltration Within the System
 
-### 8.1 Operational Principle
+### 10.1 Retired Military Officers & Generals
+
+Retired military officers carry professional credibility and media visibility. Operational methods:
+
+- **China visit & exchange delegations**: Inviting retired generals to visit China under the guise of "cross-strait military academic exchanges" or "retired generals' fellowship." Itineraries feature high-protocol receptions, building personal relationships and emotional bonds. After returning to Taiwan, these generals' media statements naturally carry a conciliatory tone.
+- **Regularizing talk show appearances**: Retired generals are placed as regular guests on political talk shows, providing commentary as "military experts." Their "professional analysis" embeds defeatist narratives — emphasizing the PLA's modernization achievements, the difficulty of Taiwan's defense — and audiences lower their guard under the wrapping of professional authority.
+- **Book publishing & speaking income**: Providing economic benefits through publishing partnerships and speaking invitations, reinforcing long-term cooperative intent.
+
+### 10.2 Active & Retired Government Officials and Civil Servants
+
+- **Retired officials as consultants**: Retired political appointees, diplomats, and intelligence officers are recruited as "consultants" or "independent directors" for Chinese companies at generous salaries. These arrangements create economic dependency during the post-retirement revolving door period, influencing their public statements and the direction in which they deploy their personal networks.
+- **Micro-infiltration of active civil servants**: Reaching active civil servants through non-political organizations such as hometown associations, alumni groups, and religious organizations to build personal relationships. Initially there are no explicit political demands; after long-term cultivation, small "favors" are gradually introduced — providing internal information, influencing administrative discretion, assisting with specific cases.
+- **Local representatives & neighborhood chiefs (li-zhang)**: Grassroots elected representatives and neighborhood chiefs hold pivotal positions in local communities. Through donations, favor exchanges, and election resource infusion, they become dissemination nodes for local public opinion.
+
+### 10.3 Academia & Think Tanks
+
+- **Academic cooperation programs**: Building long-term relationships with Taiwanese scholars through transnational academic cooperation, joint research programs, and conference invitations. The opacity of academic funding sources provides cover for infiltration.
+- **Think tank influence**: Sponsoring or funding think tank research with specific stances, turning "academic research" into a narrative tool in policy debates.
+
+---
+
+## XI. Cultivating Third Forces: Political Manipulation Disguised as Neutrality
+
+### 11.1 Operational Logic
+
+Taiwan's political spectrum has long been dominated by two major camps (Blue and Green). Operators cultivate "third force" parties or political groups to break the existing balance, serving multiple strategic objectives:
+
+- **Vote-splitting effect**: Splitting a specific camp's votes during elections, allowing the operator's preferred candidate to benefit as the third party gains.
+- **Illusion of neutrality**: Third forces campaign on platforms of "transcending Blue and Green," "rational neutrality," and "not taking sides," attracting voters disillusioned with both major parties. This "neutral" stance actually provides operators with greater narrative space — they can frame anti-CCP policies as "provocation" while packaging this as "rational pragmatism."
+- **Agenda-setting power**: Once third forces enter the legislature, they can exert leverage on key issues (defense budgets, foreign policy, cross-strait exchange legislation), using minority seats to influence majority decisions.
+
+### 11.2 Cultivation Methods
+
+- **Funding channels**: Injecting capital through multiple layers of local proxies, commercial investments, and political donations. Fund flows pass through multiple intermediaries, making them difficult to trace to the original source.
+- **Media exposure arrangement**: Using already-controlled media resources to give third force candidates disproportionate positive coverage and exposure opportunities.
+- **Online buzz manipulation**: Mobilizing account farms and bot networks to manufacture online support for third force candidates, creating the illusion of "organic grassroots support."
+- **Strategic advisor deployment**: Providing election strategy, polling analysis, communications design, and other professional support to enhance third force electoral competitiveness.
+
+### 11.3 Long-Term Positioning
+
+The value of third forces lies in **long-term positioning**. Even without achieving executive power in the short term, their critical minority status in the legislature is sufficient to:
+
+- Block defense strengthening legislation
+- Promote relaxation of cross-strait exchange regulations
+- Serve as kingmaker in critical votes
+- Continuously drain resources and votes from the primary anti-CCP party
+
+The essence of the entire operation: the supporters of these political forces mostly genuinely believe they support an independent "third way," with no awareness of the funding sources and strategic intentions behind them.
+
+---
+
+## XII. Sowing Discord: Systematically Amplifying Social Fractures
+
+### 12.1 Operational Principle
 
 The core objective of cognitive warfare is to **erode the target society's capacity for consensus formation**. The most efficient method: amplifying existing fractures.
 
-### 8.2 Operational Vectors
+### 12.2 Operational Vectors
 
 - **Unification vs. independence**: Simultaneously posting extreme rhetoric in both "pro-unification" and "pro-independence" communities, inflaming emotions on both sides, compressing the rational middle ground.
 - **Generational conflict**: Amplifying younger demographics' resentment toward older generations in youth communities, spreading negative narratives about younger generations in middle-aged and elderly communities.
@@ -205,13 +312,13 @@ The core objective of cognitive warfare is to **erode the target society's capac
 - **Economic anxiety**: Amplifying housing prices, wages, consumer prices, and other livelihood pressures, directing discontent toward the ruling party or the democratic system itself.
 - **Election interference**: Concentrating release of controversial content, fake polls, and fabricated negative candidate information during election cycles, disrupting voter judgment.
 
-### 8.3 Precision of Dual-Sided Operations
+### 12.3 Precision of Dual-Sided Operations
 
 The most threatening operation is **a single operations center simultaneously controlling extreme accounts on both opposing sides**. For example: Account A operated by the same team posts radical pro-unification rhetoric in pan-Blue communities, while Account B posts radical pro-independence rhetoric in pan-Green communities. The two sets of accounts screenshot and attack each other, manufacturing the impression that "society is experiencing extreme polarization." Real users are unknowingly swept into emotional spirals.
 
 ---
 
-## IX. Attack Chain Integration: The Full Lifecycle of a Single Operation
+## XIII. Attack Chain Integration: The Full Lifecycle of a Single Operation
 
 Integrating the elements above, a typical cognitive warfare operation follows this flow:
 
@@ -230,9 +337,9 @@ The entire process can be completed from design to large-scale deployment within
 
 ---
 
-## X. Structural Observations
+## XIV. Structural Observations
 
-This system's threat stems from the **systemic integration** across all elements. State-level resources provide direction and funding, tech enterprises provide the technology engine, gray market industries provide infrastructure, automation systems provide scalability, and KOLs provide trust channels — each layer is a replaceable, extensible module.
+This system's threat stems from the **systemic integration** across all elements. State-level resources provide direction and funding, tech enterprises provide the technology engine, gray market industries provide infrastructure, automation systems provide scalability, traditional media provides mass reach, capital infiltration provides economic leverage, KOLs provide trust channels, co-opted officials provide professional authority, and third forces provide political leverage — each layer is a replaceable, extensible module.
 
 For defenders, the key recognitions are:
 
@@ -240,6 +347,9 @@ For defenders, the key recognitions are:
 - **"International public opinion" can be fabricated.** The cost of accounts posing as foreign nationals is extremely low, yet the effect can influence psychological perception.
 - **The KOL you trust may have unconsciously become a conduit.** Soft influence is harder to detect than hard co-optation.
 - **Emotional response is the attack surface.** The primary weapon of cognitive warfare is emotional amplification. Fact-checking can address misinformation, but it cannot address amplified genuine emotions.
+- **The "military expert" or "retired general" on television may have been cultivated for years.** Defeatist narratives wrapped in professional authority are extremely difficult to identify.
+- **A "neutral third force" may have been a pawn from its inception.** Political forces with opaque funding sources — their "transcending Blue and Green" appeal may serve external strategic objectives.
+- **News media independence depends on funding sources.** When media revenue depends on a specific country's advertising and investment, self-censorship has already begun.
 
 Understanding the mechanism is the first step of defense. The second step is systematically applying metacognitive analysis to information sources, dissemination paths, and emotional inducement when receiving information.
 
