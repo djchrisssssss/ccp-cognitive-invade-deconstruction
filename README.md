@@ -56,6 +56,18 @@ The goal is to help readers understand the mechanics of this operational system 
 ## 引用研究 / Referenced Research
 
 - King, G., Pan, J., & Roberts, M. E. (2017). "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument." *American Political Science Review*, 111(3), 484–501.
+- Google Threat Analysis Group. (2024). DRAGONBRIDGE coordinated inauthentic activity reports.
+- Thomas, E., & Zhang, A. (2020). *Retweeting Through the Great Firewall*. ASPI.
+- Meta. (2019–2023). Coordinated Inauthentic Behavior Reports: Spamouflage Network.
+- Hille, K. (2019). "Taiwan primaries highlight fears over China's political influence." *Financial Times*.
+- Freedom House. (2022). *Beijing's Global Media Influence 2022: Taiwan Chapter*.
+- Grossman, S., Bush, D., & DiResta, R. (2020). *Telling China's Story*. Stanford Internet Observatory.
+- IORG. (2020–2024). 中國對台資訊操弄研究系列報告.
+- Doublethink Lab. (2024). 2024 Taiwan election monitoring reports.
+- MERICS. (2024). China's influence operations and the 2024 Taiwan election.
+- Brookings Institution. (2024). Lessons from Taiwan's 2024 election on countering foreign interference.
+
+完整引用清單請參閱各語言版文件底部。/ Full citations available at the bottom of each language version.
 
 ## 授權 / License
 
