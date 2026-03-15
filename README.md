@@ -22,8 +22,6 @@ The goal is to help readers understand the mechanics of this operational system 
 |------|------|
 | [docs/zh-TW/README.md](docs/zh-TW/README.md) | 繁體中文版 |
 | [docs/en/README.md](docs/en/README.md) | English version |
-| [docs/zh-TW/VERIFICATION.md](docs/zh-TW/VERIFICATION.md) | 引用來源事實驗證報告 |
-| [docs/en/VERIFICATION.md](docs/en/VERIFICATION.md) | Citation fact-checking report |
 
 ## 結構 / Structure
 
@@ -32,11 +30,12 @@ The goal is to help readers understand the mechanics of this operational system 
 ├── README.md
 └── docs
     ├── en
-    │   ├── README.md
-    │   └── VERIFICATION.md
-    └── zh-TW
-        ├── README.md
-        └── VERIFICATION.md
+    │   └── README.md
+    ├── zh-TW
+    │   └── README.md
+    └── verification
+        ├── zh-TW.md
+        └── en.md
 ```
 
 ## 內容大綱 / Outline
@@ -57,19 +56,34 @@ The goal is to help readers understand the mechanics of this operational system 
 14. **防禦導向** — 如何降低認知作戰的有效性 / Defense Orientation — How to reduce the effectiveness of cognitive warfare
 15. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
 
+## 數據驗證 / Data Verification
+
+文件中所有引用來源均經逐條事實驗證，方法為交叉比對原始學術論文、官方報告、平台公告與新聞報導。驗證過程中發現的錯誤已直接修正於文件中，修正前版本保留於 git 歷史。
+
+All citations in the document have been individually fact-checked by cross-referencing original academic papers, official reports, platform announcements, and news articles. Errors found during verification were corrected directly in the document; pre-correction versions are preserved in git history.
+
+| 驗證報告 | 說明 |
+|----------|------|
+| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 16 條引用逐條核實 |
+| [docs/verification/en.md](docs/verification/en.md) | English report — 16 citations verified line by line |
+
 ## 引用研究 / Referenced Research
 
 - King, G., Pan, J., & Roberts, M. E. (2017). "How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, Not Engaged Argument." *American Political Science Review*, 111(3), 484–501.
 - Google Threat Analysis Group. (2024). DRAGONBRIDGE coordinated inauthentic activity reports.
-- Thomas, E., & Zhang, A. (2020). *Retweeting Through the Great Firewall*. ASPI.
+- Wallis, J., Uren, T., Thomas, E., Zhang, A., Hoffman, S., Li, L., Pascoe, A., & Cave, D. (2020). *Retweeting Through the Great Firewall: A persistent and undeterred threat actor*. ASPI.
 - Meta. (2019–2023). Coordinated Inauthentic Behavior Reports: Spamouflage Network.
 - Hille, K. (2019). "Taiwan primaries highlight fears over China's political influence." *Financial Times*.
 - Freedom House. (2022). *Beijing's Global Media Influence 2022: Taiwan Chapter*.
-- Grossman, S., Bush, D., & DiResta, R. (2020). *Telling China's Story*. Stanford Internet Observatory.
-- IORG. (2020–2024). 中國對台資訊操弄研究系列報告.
+- DiResta, R., Miller, C., Molter, V., Pomfret, J., & Tiffert, G. (2020). *Telling China's Story*. Stanford Internet Observatory & Hoover Institution.
+- IORG (台灣資訊環境研究中心). (2020–2024). 中國對台資訊操弄研究系列報告.
 - Doublethink Lab. (2024). 2024 Taiwan election monitoring reports.
-- MERICS. (2024). China's influence operations and the 2024 Taiwan election.
-- Brookings Institution. (2024). Lessons from Taiwan's 2024 election on countering foreign interference.
+- Yang, K. (2024). "What lessons can Taiwan share with the world on election interference?" Brookings Institution.
+- Taipei Times. (2025). Taiwan espionage prosecution statistics; election interference statistics.
+- Jamestown Foundation. (2025). Taiwan military infiltration case analysis.
+- CEIAS. (2025). Chinese espionage in Taiwan analysis.
+- RFA. (2023). Taiwan Anti-Infiltration Act prosecution reports.
+- VOA. (2024). Taiwan propaganda prosecution reports.
 
 完整引用清單請參閱各語言版文件底部。/ Full citations available at the bottom of each language version.
 
