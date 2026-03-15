@@ -20,8 +20,20 @@ The goal is to help readers understand the mechanics of this operational system 
 
 | 文件 | 說明 |
 |------|------|
-| [中共對台網路認知作戰解構.md](中共對台網路認知作戰解構.md) | 繁體中文版 |
-| [CCP-Cognitive-Warfare-Against-Taiwan.md](CCP-Cognitive-Warfare-Against-Taiwan.md) | English version |
+| [docs/zh-TW/README.md](docs/zh-TW/README.md) | 繁體中文版 |
+| [docs/en/README.md](docs/en/README.md) | English version |
+
+## 結構 / Structure
+
+```text
+.
+├── README.md
+└── docs
+    ├── en
+    │   └── README.md
+    └── zh-TW
+        └── README.md
+```
 
 ## 內容大綱 / Outline
 
