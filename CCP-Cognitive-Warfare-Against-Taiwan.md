@@ -183,6 +183,7 @@ Co-optation targets span **all domains**:
 | Entertainment/meme accounts | Deliver specific frameworks wrapped in humor, lowering audience defenses |
 | Education/knowledge KOLs | Plant specific historical narratives and political frameworks |
 | Parenting/family KOLs | Influence parent demographics' political and social attitudes |
+| Military/defense analysis KOLs | Spread defeatist narratives such as "the PLA is unstoppable" and "resistance is futile," eroding the will to defend |
 | Religious/spiritual KOLs | Leverage trust structures within faith communities to transmit messages |
 
 Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life**.
