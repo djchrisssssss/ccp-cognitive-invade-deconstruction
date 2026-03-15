@@ -18,8 +18,6 @@ CCP cognitive warfare is driven by a **four-layer nested structure**:
 
 **Layer 2: Tech enterprise enablement.** Major Chinese tech companies — including but not limited to ByteDance, Tencent, Baidu, and Huawei — possess world-class big data analytics, natural language processing (NLP), and recommendation algorithm capabilities. These technologies serve precision advertising and public opinion monitoring in commercial contexts, but their underlying capabilities (user behavior modeling, sentiment analysis, social graph mapping) transfer directly to cognitive warfare scenarios. Under Article 7 of the National Intelligence Law, all Chinese organizations and citizens are obligated to "support, assist, and cooperate with" national intelligence work. This is a legally compulsory obligation.
 
-Of particular concern are **Chinese-operated platforms that directly face Taiwanese users**. ByteDance simultaneously operates Douyin (the Chinese domestic version) and TikTok (the international version, including Taiwan). Both share the same core recommendation algorithm technology, with algorithm tuning and data governance decisions made at Beijing headquarters, regardless of TikTok's nominal corporate structure. **Xiaohongshu (RED)** is operated by Xingyin Information Technology Co., also headquartered in China, with its recommendation engine, content moderation policies, and data storage subject to the same legal obligations. These platforms are not merely "Chinese-origin apps" — they are **closed algorithmic ecosystems** where the platform operator unilaterally controls what content is surfaced, suppressed, or recommended to specific user segments. This capability maps directly to cognitive warfare's core requirements for precision targeting and narrative control. By contrast, platforms such as Threads (Meta) and Discord also carry Chinese-operated bot activity, but their parent companies are not subject to PRC law, making the risk profile of TikTok and Xiaohongshu qualitatively different.
-
 **Layer 3: Outsourced contractors and astroturfing firms.** The bulk of concrete operations are executed by private marketing companies and public opinion manipulation teams. These firms operate under the guise of "online PR," "brand protection," and "public sentiment management," while actually fulfilling opinion manipulation contracts from government or military clients. This layer provides critical plausible deniability — when operations are exposed, authorities can characterize them as "private sector activities."
 
 **Layer 4: Gray and black market supply chains.** This includes Southeast Asian scam compounds, underground SIM card dealers, account farms, and hacker organizations. These entities provide infrastructure-layer support — phone numbers, virtual identities, proxy nodes — though they may not know the ultimate purpose.
@@ -52,9 +50,7 @@ The economic logic is clear: inmate labor costs approach zero, and the prison en
 
 ### 3.1 Core Issue: The Fragility of Platform Verification
 
-Account registration on Facebook, X (Twitter), Telegram, LINE, Instagram, TikTok, Xiaohongshu, Threads, Discord, and other platforms all rely on phone number or other identity verification mechanisms. This makes "identity verification credentials" a **critical raw material** in cognitive warfare infrastructure.
-
-Notably, TikTok and Xiaohongshu also support email registration and third-party OAuth login (WeChat, QQ, Apple ID, Google accounts), which **lowers** the barrier to bulk account creation compared to SMS-only platforms. Xiaohongshu's WeChat/QQ login pathway in particular allows operators to complete account creation entirely within the Chinese digital ecosystem, without obtaining a single Taiwanese phone number, while still producing content targeting Taiwanese users.
+Account registration on Facebook, X (Twitter), Telegram, LINE, Instagram, and other platforms all rely on phone number verification. This makes "phone numbers" a **critical raw material** in cognitive warfare infrastructure.
 
 ### 3.2 Number Sources: A Transnational Gray Market Supply Chain
 
@@ -110,20 +106,6 @@ Operators conduct **precision operations** based on big data analytics:
 - **Emotional hotspot detection**: Real-time monitoring of emotional fluctuations in Taiwanese social media discourse, intervening precisely at emotional peaks.
 - **A/B testing narrative effectiveness**: Publishing the same topic from different angles and wording, tracking spread rates and engagement rates, optimizing subsequent deployment strategies.
 
-### 4.4 Algorithm Recommendation Manipulation as Force Multiplier
-
-The automation methods described above (bot networks, LLM generation, big data analytics) are all **external** operations — operators build attack capabilities outside the platform. But when the platform itself is operated by a Chinese company, an entirely new attack dimension emerges: **internal algorithmic manipulation**.
-
-**TikTok's "For You Page" (FYP) mechanism.** Unlike Facebook or X, where content visibility depends partly on follower networks, TikTok's content exposure is almost entirely determined by its recommendation algorithm. A single video can reach millions of users even when the creator has zero followers. This means the platform operator is the **sole gatekeeper** of content reach. By adjusting recommendation weights — promoting certain content categories, hashtags, or emotional tones while suppressing others — the platform can shape Taiwanese users' information diet with **no visible censorship**. Users simply perceive that they "happen to be interested in this content."
-
-**The Douyin-TikTok content pipeline.** Viral content from Douyin (the Chinese domestic version) can be cross-posted or mirrored to TikTok with minor edits. Dramatic videos showcasing PLA military equipment, grand Chinese infrastructure, and "both sides of the strait are one family" lifestyle content are repackaged from the Chinese content ecosystem and injected into Taiwanese users' information feeds.
-
-**Xiaohongshu's "zhongcao" (seeding) mechanism.** Xiaohongshu's entire content culture revolves around "zhongcao" (种草, literally "planting grass" — creating desire through recommendation). This makes it a **natural soft-infiltration vector**: content that beautifies Chinese cities, lifestyles, consumer goods, and travel destinations continuously builds cultural affinity, normalizing the idea that China is an attractive, modern society. This is not incidental — it is structurally aligned with United Front objectives of building emotional proximity.
-
-**Platform-level A/B testing.** Compared to the external A/B testing described in Section 4.3 (which requires bot-simulated engagement to track effectiveness), TikTok and Xiaohongshu can run recommendation experiments **natively** — testing which narratives gain traction with which demographic segments, then automatically amplifying the most effective variants. This is orders of magnitude more efficient than external bot-driven testing.
-
-**Coordination hubs.** Discord servers and Telegram channels are increasingly used as **coordination hubs** for operations: distributing campaign instructions, content templates, and target lists. These platforms serve as the "back office" rather than the public-facing attack surface.
-
 ---
 
 ## V. VPN Proxies & Geographic Spoofing
@@ -135,8 +117,6 @@ Operations centers are located within China (or Southeast Asian compounds), but 
 - **Taiwan local IPs**: Making accounts appear to be from local Taiwanese users.
 - **Japan/US/Europe IPs**: Matching accounts posing as foreign nationals.
 - **Multi-country random hopping**: Increasing the technical cost of platform tracking and attribution.
-
-**Infrastructure difference for TikTok and Xiaohongshu.** For platforms like Facebook and X that are blocked in China, operators need VPNs to bypass the Great Firewall. But TikTok and Xiaohongshu are **directly accessible from within China** — operators do not need to circumvent any firewall to create and manage accounts, significantly reducing infrastructure costs. Geographic spoofing remains necessary — TikTok uses SIM card region detection and GPS positioning to determine which country's content pool a user accesses — but operators need only use region-spoofed SIM cards or GPS spoofing tools to place their accounts in Taiwan's content pool while physically operating from within China.
 
 ### 5.2 Residential Proxies
 
@@ -165,18 +145,6 @@ For existing groups with large memberships (local political forums, parent group
 ### 6.3 Facebook Fan Page Matrices
 
 Creating multiple seemingly independent fan pages (news commentary, lifestyle info, memes), forming a "content alliance." Pages cross-reference and share each other's content, manufacturing the illusion of information spread. When specific events occur, the entire matrix simultaneously outputs unified narratives.
-
-### 6.4 Beyond Facebook: TikTok, Xiaohongshu & Multi-Platform Community Building
-
-Facebook remains the highest-penetration platform for older Taiwanese demographics, but **younger Taiwanese users aged 18–35** are migrating en masse to TikTok, Xiaohongshu, Instagram, and Threads. The infiltration playbook has expanded accordingly.
-
-**TikTok community building.** Rather than relying on Facebook groups, operators build TikTok content clusters around lifestyle topics (food, travel, fashion, pets) to attract Taiwanese followers. Once an audience base is established, political narratives are gradually injected — the same "slow topic injection" pattern described in Section 6.1, adapted to short-video format. Due to TikTok's algorithmic recommendation mechanism, these accounts can achieve mass exposure without needing a large follower base.
-
-**Xiaohongshu trust building.** Xiaohongshu's user culture strongly favors "authentic personal experience" posts. Operators exploit this by creating fake accounts posing as Taiwanese travelers, students studying in China, or cross-strait couples, sharing idealized cross-strait narratives. The platform's credibility norms (users trust peer recommendations) make it an **ideal vector for soft narrative insertion** — content carries no explicit political messaging yet continuously builds positive sentiment toward China.
-
-**Cross-platform cascade operations.** A single operation may seed a narrative on Xiaohongshu as "organic" lifestyle content, amplify it via TikTok for mass reach, generate discussion in Threads or Discord communities, and ultimately flow back to mainstream media visibility through LINE groups or Facebook. This **cross-platform cascade** significantly increases the difficulty of attribution and detection.
-
-**Discord and Telegram community infiltration.** Discord servers popular among young Taiwanese users for gaming, anime, and tech communities are infiltrated using the same group-building playbook. Telegram serves simultaneously as an internal coordination channel for operators and as a content distribution channel targeting specific demographics.
 
 ---
 
@@ -209,9 +177,6 @@ Radio maintains high penetration among populations in central and southern Taiwa
 - **Content farm matrices**: Mass-creating seemingly independent news websites actually controlled by the same source. These sites cross-reference each other, occupying multiple positions in search engine results and creating the impression that "multiple outlets are reporting the same thing."
 - **LINE group news dissemination**: Middle-aged and elderly Taiwanese users heavily rely on LINE groups for information. Fabricating sensationalist headline links for fake news, which spread virally through groups, achieving reach far exceeding traditional media.
 - **YouTube news channels**: Creating YouTube channels disguised as independent news stations, packaging preset-stance news commentary as "third-party perspectives."
-- **TikTok news-style short videos**: Political commentary and "news analysis" are packaged into 60-second TikTok clips, bypassing traditional editorial standards and verification processes. The format's extreme brevity suppresses critical thinking — viewers absorb the emotional framing without having time to examine sources. This content reaches younger audiences who no longer consume conventional news.
-- **Xiaohongshu as a "soft news" vector**: Posts framed as personal experiences ("I visited Shenzhen on a business trip and was blown away by the development there") effectively function as implicit news narratives without triggering audiences' media literacy defenses. These posts are then screenshot-captured and shared on LINE groups and Facebook, entering the traditional media information ecosystem as "what people are saying."
-- **Threads as a text-based narrative platform**: Threads is emerging as a text-based social platform for younger Taiwanese users, where news-style short posts and commentary spread, complementing Instagram's visual narratives.
 
 ---
 
@@ -256,7 +221,7 @@ KOL co-optation spans a **continuous spectrum from hard acquisition to soft infl
 
 **Soft influence:**
 - Social engagement manipulation: Arranging large numbers of accounts to give high engagement (likes, comments, shares) to specific types of content from target KOLs, using positive reinforcement to guide their content direction. KOLs may unconsciously gravitate toward specific narratives.
-- Algorithm manipulation: Boosting specific content visibility through coordinated engagement, indirectly rewarding content output that aligns with operator interests. On TikTok and Xiaohongshu, this mechanism is even more powerful — the platform's own recommendation system can serve as the positive reinforcement tool. When a KOL's pro-China travel content "mysteriously" receives ten times the exposure of their other content, that KOL will naturally produce more of the same. **The platform itself becomes the manipulation mechanism**, eliminating the need for external bot intervention.
+- Algorithm manipulation: Boosting specific content visibility through coordinated engagement, indirectly rewarding content output that aligns with operator interests.
 
 ### 9.3 KOL Category Coverage
 
@@ -274,8 +239,6 @@ Co-optation targets span **all domains**:
 | Parenting/family KOLs | Influence parent demographics' political and social attitudes |
 | Military/defense analysis KOLs | Spread defeatist narratives such as "the PLA is unstoppable" and "resistance is futile," eroding the will to defend |
 | Religious/spiritual KOLs | Leverage trust structures within faith communities to transmit messages |
-| TikTok/short-video creators | Reach younger demographics unreachable through TV and Facebook. Short-form video normalizes specific narratives through entertainment and emotional resonance; high shareability enables organic amplification |
-| Xiaohongshu lifestyle bloggers | The "zhongcao" (seeding) culture is weaponized — travel, food, fashion, and shopping experience content continuously builds soft affinity toward China without explicit political messaging, while embedding deep cultural proximity |
 
 Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life**.
 
@@ -348,9 +311,6 @@ The core objective of cognitive warfare is to **erode the target society's capac
 - **Foreign relations**: Spreading narratives like "America is unreliable" and "Japan only serves its own interests," eroding Taiwan's trust in allies.
 - **Economic anxiety**: Amplifying housing prices, wages, consumer prices, and other livelihood pressures, directing discontent toward the ruling party or the democratic system itself.
 - **Election interference**: Concentrating release of controversial content, fake polls, and fabricated negative candidate information during election cycles, disrupting voter judgment.
-- **Platform tribalism**: Different age groups use different platforms, and operators exploit this structure for **segmented targeting**. TikTok delivers one set of narratives to younger users (e.g., "Taiwan's economy has no future," "life in China is actually quite good"), while LINE and Facebook deliver a different — even contradictory — set to older users (e.g., "young people are ungrateful," "today's education system has failed"). Each demographic sees a different "reality" on their respective platforms, and the resulting cognitive gaps are further amplified as generational conflict. TikTok's algorithm naturally creates information echo chambers, making this segmented operation virtually cost-free.
-- **Xiaohongshu cultural identity division**: The aspirational portrayal of Chinese lifestyle on Xiaohongshu creates a wedge between younger Taiwanese (who find it interesting, fashionable, and worth experiencing) and older generations (who view it as cultural infiltration and a security threat). This cultural attitude gap is further exploited by operators to deepen existing generational and political fractures.
-- **Cross-platform conflict manufacturing**: Arguments in Discord communities or heated debates on Threads can be screenshot-captured and amplified across other platforms as "evidence" that "society is tearing apart" — even when the original events may have been entirely manufactured by operators.
 
 ### 12.3 Precision of Dual-Sided Operations
 
@@ -367,9 +327,9 @@ Integrating the elements above, a typical cognitive warfare operation follows th
 3. **Account mobilization**: Extracting matching account clusters from account farms (by language, identity, interest tags).
 4. **Content production**: Generating multi-version, multi-angle content through AI generation or manual writing.
 5. **VPN deployment**: Connecting accounts to VPN nodes at corresponding geographic locations.
-6. **Coordinated deployment**: Bot systems coordinate accounts to post and interact intensively during target time windows. On TikTok, coordinated viewing, saving, and sharing triggers the recommendation algorithm to push content to wider audiences; on Xiaohongshu, coordinated collection and like actions achieve the same amplification effect.
+6. **Coordinated deployment**: Bot systems coordinate accounts to post and interact intensively during target time windows.
 7. **KOL activation**: KOLs with established cooperative relationships simultaneously publish related content.
-8. **Community amplification**: Facebook fake groups and fan page matrices repost and discuss; TikTok duets and stitches spread the narrative to younger audiences; Xiaohongshu notes referencing the same topic enter the platform's discovery feed; Discord and Telegram communities distribute content to vertical interest circles; Threads text-based commentary supplements visual narratives and feeds back into the Instagram ecosystem.
+8. **Community amplification**: Fake groups and fan page matrices repost and discuss.
 9. **Effect monitoring**: Real-time tracking of spread rates, engagement rates, and sentiment indicators.
 10. **Iterative optimization**: Adjusting narrative angles and deployment strategies based on data feedback.
 
@@ -387,7 +347,6 @@ Understanding the attack chain does not automatically create defensive capacity.
 - **Ask about origin before taking a side.** More important than whether something "looks true" is where it first appeared, who amplified it, and why it surfaced at that moment.
 - **Look for coordination signals.** If multiple accounts push highly similar wording, graphics, hashtags, and emotional framing across platforms within a short period, that is often not organic spread.
 - **Build a trusted information list before a crisis.** Pre-selecting credible media outlets, official agencies, subject-matter experts, and local reporters reduces the chance of being captured by improvised information flows when a crisis hits.
-- **Be aware of algorithmically curated reality.** TikTok and Xiaohongshu do not show you "what is happening in the world" — they show you what the algorithm predicts will maximize your engagement. If your feed is consistently dominated by content with a specific emotional orientation (anxiety about Taiwan's future, admiration for China's development, anger at a political figure), consider that this may be the result of algorithmic curation rather than an organic reflection of reality. Deliberately diversify your information sources, and do not let algorithm-driven platforms become your sole information gateway.
 
 ### 14.2 Communities, Media, and KOLs: Protect the Trust Channels
 
@@ -402,8 +361,6 @@ Understanding the attack chain does not automatically create defensive capacity.
 - **Build cross-platform threat-intelligence sharing.** Cognitive warfare rarely operates on only one platform. If Facebook, YouTube, LINE, X, forums, and news sites cannot share pattern-level signals, defenders will always lag behind.
 - **Increase transparency around funding, advertising, and political influence.** Without visibility into media funding, political ads, sponsorship of local organizations, and research funding, defenders cannot distinguish organic discourse from externally leveraged influence.
 - **Pre-bunk before the event instead of only debunking afterward.** The most effective defense is often pre-bunking: warning the public before elections, military crises, or major social incidents about common scripts and suspicious indicators.
-- **Treat Chinese-operated platforms as a distinct regulatory category.** Platforms whose parent companies are legally obligated to cooperate with Chinese intelligence services (under the National Intelligence Law) present fundamentally different risks from other foreign platforms. Regulatory frameworks should require algorithm transparency audits, data localization, and independent third-party oversight for such platforms.
-- **Investigate data exfiltration pathways.** TikTok and Xiaohongshu collect granular user data — geolocation, contact lists, browsing behavior, biometric data (facial and voiceprint data from videos), and device fingerprints. Under PRC law, this data is accessible to intelligence agencies on demand. Defenders should systematically inventory the data types these platforms collect from Taiwanese users and assess their intelligence value: social graph mapping of military personnel, government officials, journalists, and activists; behavioral profiling for future targeted operations; geolocation data near sensitive facilities.
 
 ### 14.4 The Real Objective of Defense: Break the Cost-Effectiveness Equation
 
@@ -415,7 +372,6 @@ The real defensive indicators, therefore, are not simply "whether falsehoods sti
 - major media outlets and KOLs are harder to capture
 - platforms can identify coordinated behavior more quickly
 - the public can separate "many people are saying this" from "this is true"
-- the public understands that algorithm-driven platforms can manufacture perceived reality through selective surfacing and suppression, **without any visible censorship or false content**
 
 Defense is not a single technical fix. It is an engineering problem of social resilience.
 
@@ -434,7 +390,6 @@ For defenders, the key recognitions are:
 - **The "military expert" or "retired general" on television may have been cultivated for years.** Defeatist narratives wrapped in professional authority are extremely difficult to identify.
 - **A "neutral third force" may have been a pawn from its inception.** Political forces with opaque funding sources — their "transcending Blue and Green" appeal may serve external strategic objectives.
 - **News media independence depends on funding sources.** When media revenue depends on a specific country's advertising and investment, self-censorship has already begun.
-- **The app you use for entertainment may be shaping your political reality without your knowledge.** TikTok and Xiaohongshu do not need fake accounts or bot networks to influence you — the recommendation algorithm itself is the weapon. Unlike misinformation that can be fact-checked, algorithmic curation operates by controlling what you see and what you never see. There is no "false claim" to debunk — only a subtly distorted information environment.
 
 Understanding the mechanism is the first step of defense. The second step is systematically applying metacognitive analysis to information sources, dissemination paths, and emotional inducement when receiving information.
 
