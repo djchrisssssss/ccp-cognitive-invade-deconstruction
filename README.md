@@ -40,9 +40,9 @@ The goal is to help readers understand the mechanics of this operational system 
 1. **指揮架構** — 黨、軍、企、灰的四層嵌套 / Command Structure — Four-layer nesting
 2. **人力引擎** — 網評員體系與監獄網路勞動 / Human Engine — Internet commentators & prison cyber labor
 3. **帳號工廠** — 手機號碼供應鏈與東南亞節點 / Account Factories — Phone number supply chains
-4. **自動化系統** — Bot 網路與 LLM 生成內容 / Automation — Botnets & AI-generated content
+4. **自動化系統** — Bot 網路、LLM 生成內容、平台演算法操縱 / Automation — Botnets, AI-generated content, platform algorithm manipulation
 5. **VPN 跳板** — 地理偽裝技術 / VPN Proxies — Geographic spoofing
-6. **Facebook 滲透** — 偽裝社團與社群劫持 / Facebook Infiltration — Fake groups & community hijacking
+6. **社群平台滲透** — Facebook、TikTok、小紅書與跨平台操作 / Social Platform Infiltration — Facebook, TikTok, Xiaohongshu & cross-platform operations
 7. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
 8. **資金滲透** — 廣告收入、企業投資、基層經濟依賴 / Capital Infiltration — Advertising revenue, corporate investment, grassroots economic dependency
 9. **KOL 收買** — 全光譜滲透（政論名嘴、政治、財經、軍武分析、旅遊、科技、娛樂、教育、親子、宗教）/ KOL Co-optation — Full-spectrum infiltration (TV pundits, politics, finance, military/defense, travel, tech, entertainment, education, parenting, religion)

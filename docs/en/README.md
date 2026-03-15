@@ -106,6 +106,16 @@ Operators conduct **precision operations** based on big data analytics:
 - **Emotional hotspot detection**: Real-time monitoring of emotional fluctuations in Taiwanese social media discourse, intervening precisely at emotional peaks.
 - **A/B testing narrative effectiveness**: Publishing the same topic from different angles and wording, tracking spread rates and engagement rates, optimizing subsequent deployment strategies.
 
+### 4.4 When the Platform Itself Is the Operator: TikTok, Douyin & Xiaohongshu
+
+The methods described above — bot networks, LLMs, big data — are all attack capabilities that operators apply from **outside** a platform. But when the platform itself is operated by a Chinese company, a structurally different attack dimension emerges.
+
+ByteDance simultaneously operates Douyin (the Chinese domestic version) and TikTok (the international version, including Taiwan), both sharing the same core recommendation algorithm. TikTok's "For You Page" determines content exposure almost entirely through algorithmic recommendation rather than follower relationships. This means the platform operator is the sole gatekeeper of content reach — by adjusting recommendation weights, it can shape the information diet of users in a specific region with no visible censorship. Users simply perceive that they "happen to be interested in this content." Viral content from Douyin — PLA equipment showcases, Chinese infrastructure achievements, "both sides of the strait are one family" lifestyle narratives — can be cross-posted to TikTok with minor edits, entering Taiwanese users' information feeds.
+
+Xiaohongshu (RED) operates on different logic but is equally noteworthy. Its entire content culture revolves around "zhongcao" (种草, "seeding") — creating desire for products, places, and lifestyles. Content that beautifies Chinese cities, consumer goods, and travel destinations continuously builds cultural affinity, normalizing the idea that China is a modern and attractive society. This is structurally aligned with United Front objectives of building emotional proximity.
+
+More critically, both platforms can run recommendation experiments **natively** — testing which narratives gain traction with which demographic segments, then automatically amplifying the most effective variants — far more efficiently than external bot-driven A/B testing. Under Article 7 of the National Intelligence Law, these platforms' parent companies are legally obligated to cooperate with national intelligence work. The granular user data these platforms simultaneously collect (geolocation, contact lists, browsing behavior, facial and voiceprint data from videos) carries independent intelligence value.
+
 ---
 
 ## V. VPN Proxies & Geographic Spoofing
@@ -145,6 +155,16 @@ For existing groups with large memberships (local political forums, parent group
 ### 6.3 Facebook Fan Page Matrices
 
 Creating multiple seemingly independent fan pages (news commentary, lifestyle info, memes), forming a "content alliance." Pages cross-reference and share each other's content, manufacturing the illusion of information spread. When specific events occur, the entire matrix simultaneously outputs unified narratives.
+
+### 6.4 Younger Demographics' Platform Migration & New Infiltration Paths
+
+Facebook remains the primary social platform for older Taiwanese demographics, but users aged 18–35 are migrating en masse to TikTok, Xiaohongshu, Instagram, Threads, and Discord. The infiltration playbook has expanded accordingly.
+
+On TikTok, operators build content accounts around lifestyle topics (food, travel, pets) to attract Taiwanese followers, then gradually inject political narratives — the same "slow topic injection" pattern described in Section 6.1, adapted to short-video format. Due to algorithmic recommendation, these accounts can achieve mass exposure without needing a large follower base.
+
+Xiaohongshu's user culture strongly favors "authentic personal experience" posts. Operators create accounts posing as Taiwanese travelers, students studying in China, or cross-strait couples, sharing idealized cross-strait narratives. The platform's credibility norms make it an ideal vector for soft narrative insertion — content carries no explicit political messaging yet continuously builds positive sentiment.
+
+These platforms also create **cascade effects**: Xiaohongshu lifestyle posts are screenshot-captured and shared in LINE groups; TikTok short videos are downloaded and re-uploaded to Facebook; Threads discussions are cited as "what young people think." A single narrative enters different generational information spheres through cross-platform transfer, making attribution and detection significantly harder. Discord servers and Telegram channels play a coordination hub role in this ecosystem — distributing operational instructions and content templates without directly facing the public.
 
 ---
 
@@ -239,6 +259,8 @@ Co-optation targets span **all domains**:
 | Parenting/family KOLs | Influence parent demographics' political and social attitudes |
 | Military/defense analysis KOLs | Spread defeatist narratives such as "the PLA is unstoppable" and "resistance is futile," eroding the will to defend |
 | Religious/spiritual KOLs | Leverage trust structures within faith communities to transmit messages |
+| Short-video creators | Reach younger demographics unreachable through TV and Facebook; normalize narratives through entertainment and emotional resonance |
+| Lifestyle bloggers | Weaponize seeding culture to build soft affinity — no political messaging, yet deep cultural proximity is embedded |
 
 Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life**.
 
@@ -390,6 +412,7 @@ For defenders, the key recognitions are:
 - **The "military expert" or "retired general" on television may have been cultivated for years.** Defeatist narratives wrapped in professional authority are extremely difficult to identify.
 - **A "neutral third force" may have been a pawn from its inception.** Political forces with opaque funding sources — their "transcending Blue and Green" appeal may serve external strategic objectives.
 - **News media independence depends on funding sources.** When media revenue depends on a specific country's advertising and investment, self-censorship has already begun.
+- **The app you use for entertainment may be shaping your political reality.** Algorithm-driven platforms do not need fake accounts or bots to influence you — the recommendation mechanism itself operates by controlling what you see and what you never see. There is no misinformation to fact-check, only a subtly adjusted information environment.
 
 Understanding the mechanism is the first step of defense. The second step is systematically applying metacognitive analysis to information sources, dissemination paths, and emotional inducement when receiving information.
 
