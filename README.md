@@ -50,7 +50,8 @@ The goal is to help readers understand the mechanics of this operational system 
 11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
 12. **挑撥離間** — 系統性放大社會裂縫 / Sowing Discord — Amplifying social fractures
 13. **攻擊鏈整合** — 完整操作生命週期 / Attack Chain — Full operational lifecycle
-14. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
+14. **防禦導向** — 如何降低認知作戰的有效性 / Defense Orientation — How to reduce the effectiveness of cognitive warfare
+15. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
 
 ## 引用研究 / Referenced Research
 
