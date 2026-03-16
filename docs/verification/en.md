@@ -473,6 +473,15 @@ The following sections contain factual claims without numbered citations, as the
 | Dcard uses university email verification | ✅ Correct | Dcard's official registration process requires .edu.tw email verification |
 | LINE group forwarding culture | ✅ Correct | Taiwan FactCheck Center and multiple studies have documented LINE groups as a primary channel for misinformation spread |
 
+### Chapter VI/VII New Content (Comment Section Astroturfing)
+
+| Claim | Status | Notes |
+|-------|--------|-------|
+| YouTube defaults to "Top Comments" sorting | ✅ Correct | YouTube comment section defaults to "Top Comments" ranking by engagement; this is a public YouTube setting |
+| Facebook provides "Haha," "Angry," "Sad" emoji reactions | ✅ Correct | Facebook Reactions launched in 2016; publicly available feature |
+| Bandwagon Effect, Spiral of Silence, Anchoring Effect, Social Proof | ✅ Correct | All are classic, well-validated social psychology theories: Bandwagon Effect (Asch, 1951), Spiral of Silence (Noelle-Neumann, 1974), Anchoring Effect (Tversky & Kahneman, 1974), Social Proof (Cialdini, 1984) |
+| Taiwan's major news websites have comment sections used for political discussion | ✅ Correct | Liberty Times Net, ETtoday, UDN, China Times Online, SET News, and others all feature public comment sections |
+
 ### Chapter X New Content (Military Parade Attendance, Former Presidents, CPPCC Participation)
 
 | Claim | Status | Notes |
