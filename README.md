@@ -50,14 +50,14 @@ The goal is to help readers understand the mechanics of this operational system 
 
 **第二部：滲透管道 / Part II: Infiltration Channels**
 
-6. **社群平台滲透** — Facebook、TikTok、小紅書與跨平台操作 / Social Platform Infiltration — Facebook, TikTok, Xiaohongshu & cross-platform operations
-7. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
+6. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
+7. **社群平台滲透** — Facebook、LINE、PTT、Dcard 與跨平台操作 / Social Platform Infiltration — Facebook, LINE, PTT, Dcard & cross-platform operations
 
 **第三部：槓桿與收編 / Part III: Leverage & Co-optation**
 
 8. **資金滲透** — 廣告收入、媒體收購、供應鏈武器化、農漁產貿易禁令、觀光與經貿協定 / Capital Infiltration — Advertising, media acquisition, supply chain weaponization, agricultural trade bans, tourism & trade agreements
 9. **公眾人物操控** — 從收買到脅迫的全光譜策略（KOL、體育、演藝） / Public Figure Manipulation — Full-spectrum from co-optation to coercion (KOLs, sports, entertainment)
-10. **收買官員與軍職人員** — 退休將領、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals, political appointees, civil servants, academia
+10. **收買官員與軍職人員** — 退休將領赴中參訪與閱兵觀禮、前總統訪中、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals' China visits & parade attendance, former presidents' visits, political appointees, civil servants, academia
 11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
 
 **第四部：效果與整合 / Part IV: Effects & Integration**

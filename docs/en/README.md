@@ -140,41 +140,11 @@ Leveraging data centers from public clouds like AWS, GCP, and Azure worldwide to
 
 ---
 
-## Part II: Infiltration Channels — Platforms & Media
+## Part II: Infiltration Channels — Media & Platforms
 
-## VI. Facebook Infiltration: Fake Groups & Community Hijacking
+## VI. Traditional Media Infiltration: Television, Newspapers, Radio & Online News
 
-### 6.1 Creating Fake Local Communities
-
-Facebook is one of the most penetrated social platforms in Taiwan. Operational methods include:
-
-- **Establishing local lifestyle groups**: Creating groups under names like "XX District Food & Fun" or "XX Hometown Reunion," initially posting large volumes of food, travel, and lifestyle content to attract genuine users.
-- **Gradual topic injection**: Once group membership reaches thousands to tens of thousands, gradually mixing in political content — typically disguised as neutral questions like "What does everyone think?" while actually steering toward specific narratives.
-- **Admin control**: Group administration is held by operators, enabling control over post approval, pinning, and deletion, creating information filtering capability.
-
-### 6.2 Infiltrating Existing Communities
-
-For existing groups with large memberships (local political forums, parent groups, hobby communities), operators arrange for large numbers of accounts to join, gradually increasing posting frequency and influence, and even attempting to acquire admin status.
-
-### 6.3 Facebook Fan Page Matrices
-
-Creating multiple seemingly independent fan pages (news commentary, lifestyle info, memes), forming a "content alliance." Pages cross-reference and share each other's content, manufacturing the illusion of information spread. When specific events occur, the entire matrix simultaneously outputs unified narratives. Since 2019, Meta has repeatedly disclosed and removed a Chinese state-linked coordinated inauthentic behavior (CIB) network known as Spamouflage, involving 7,704 Facebook accounts and 954 fan pages — the largest cross-platform covert influence operation Meta has ever exposed [4].
-
-### 6.4 Younger Demographics' Platform Migration & New Infiltration Paths
-
-Facebook remains the primary social platform for older Taiwanese demographics, but users aged 18–35 are migrating en masse to TikTok, Xiaohongshu, Instagram, Threads, and Discord. The infiltration playbook has expanded accordingly.
-
-On TikTok, operators build content accounts around lifestyle topics (food, travel, pets) to attract Taiwanese followers, then gradually inject political narratives — the same "slow topic injection" pattern described in Section 6.1, adapted to short-video format. Due to algorithmic recommendation, these accounts can achieve mass exposure without needing a large follower base.
-
-Xiaohongshu's user culture strongly favors "authentic personal experience" posts. Operators create accounts posing as Taiwanese travelers, students studying in China, or cross-strait couples, sharing idealized cross-strait narratives. The platform's credibility norms make it an ideal vector for soft narrative insertion — content carries no explicit political messaging yet continuously builds positive sentiment.
-
-These platforms also create **cascade effects**: Xiaohongshu lifestyle posts are screenshot-captured and shared in LINE groups; TikTok short videos are downloaded and re-uploaded to Facebook; Threads discussions are cited as "what young people think." A single narrative enters different generational information spheres through cross-platform transfer, making attribution and detection significantly harder. Discord servers and Telegram channels play a coordination hub role in this ecosystem — distributing operational instructions and content templates without directly facing the public.
-
----
-
-## VII. Traditional Media Infiltration: Television, Newspapers, Radio & Online News
-
-### 7.1 Television Stations & Political Talk Shows
+### 6.1 Television Stations & Political Talk Shows
 
 Taiwan's political talk shows command large, loyal audiences, with influence concentrated among middle-aged and elderly voters. Infiltration methods include:
 
@@ -184,13 +154,13 @@ Taiwan's political talk shows command large, loyal audiences, with influence con
 
 This infiltration has clear documented evidence. A 2019 *Financial Times* investigation cited anonymous journalists alleging that the editorial department of the *China Times*, owned by the Want Want Group, received daily instructions from China's Taiwan Affairs Office, influencing story selection and framing [5]. Separately, Want Want China Holdings' HKEX-filed annual report disclosed that the group received approximately 477 million RMB (roughly NT$2.19 billion) in government subsidies during its 2017–2018 fiscal year [5b].
 
-### 7.2 Newspapers & Print Media
+### 6.2 Newspapers & Print Media
 
 - **Newspaper acquisition & capital injection**: Acquiring newspaper equity through Chinese capital or pro-CCP businesspeople to shift editorial stance. The process may span years, with gradual adjustments rather than abrupt changes, to reduce public alertness.
 - **Advertorial content (paid placement)**: Purchasing news space under advertising partnership agreements, publishing promotional content packaged as journalism. Readers struggle to distinguish paid content from independent reporting.
 - **Story pipeline supply**: Providing "free" or low-cost press releases and feature materials to under-resourced local newspapers and online outlets. Content is packaged as neutral reporting but carries preset framing.
 
-### 7.3 Radio Stations
+### 6.3 Radio Stations
 
 Radio maintains high penetration among populations in central and southern Taiwan, including taxi drivers and market vendors. Operational methods:
 
@@ -198,11 +168,53 @@ Radio maintains high penetration among populations in central and southern Taiwa
 - **Local station acquisition**: Small local stations face significant financial pressure and are susceptible to external funding sources. Once accepted, editorial independence is compromised.
 - **Call-in manipulation**: Arranging personnel to flood call-in programs with calls, manufacturing the illusion of a specific public opinion trend.
 
-### 7.4 Online News & Content Farms
+### 6.4 Online News & Content Farms
 
 - **Content farm matrices**: Mass-creating seemingly independent news websites actually controlled by the same source. These sites cross-reference each other, occupying multiple positions in search engine results and creating the impression that "multiple outlets are reporting the same thing."
-- **LINE group news dissemination**: Middle-aged and elderly Taiwanese users heavily rely on LINE groups for information. Fabricating sensationalist headline links for fake news, which spread virally through groups, achieving reach far exceeding traditional media.
 - **YouTube news channels**: Creating YouTube channels disguised as independent news stations, packaging preset-stance news commentary as "third-party perspectives."
+
+---
+
+## VII. Social Platform Infiltration: Facebook, LINE, PTT, Dcard & Cross-Platform Operations
+
+### 7.1 Facebook: Fake Groups, Fan Page Matrices & Community Hijacking
+
+Facebook is the most heavily penetrated social platform among Taiwanese users aged 35 and above. Operational methods include:
+
+- **Creating fake local communities**: Establishing groups under names like "XX District Food & Fun" or "XX Hometown Reunion," initially posting large volumes of food, travel, and lifestyle content to attract genuine users. Once group membership reaches thousands to tens of thousands, gradually mixing in political content — typically disguised as neutral questions like "What does everyone think?" while actually steering toward specific narratives.
+- **Infiltrating existing communities**: For existing groups with large memberships (local political forums, parent groups, hobby communities), operators arrange for large numbers of accounts to join, gradually increasing posting frequency and influence, and even attempting to acquire admin status.
+- **Fan page matrices**: Creating multiple seemingly independent fan pages (news commentary, lifestyle info, memes), forming a "content alliance." Pages cross-reference and share each other's content, manufacturing the illusion of information spread. When specific events occur, the entire matrix simultaneously outputs unified narratives. Since 2019, Meta has repeatedly disclosed and removed a Chinese state-linked coordinated inauthentic behavior (CIB) network known as Spamouflage, involving 7,704 Facebook accounts and 954 fan pages — the largest cross-platform covert influence operation Meta has ever exposed [4].
+
+### 7.2 LINE Groups: Taiwan's Most Critical Closed Information Channel
+
+LINE's penetration rate in Taiwan exceeds 90%, making it the primary messaging app across all age groups — especially those over 40. The closed nature of LINE groups makes them a highly efficient cognitive warfare environment:
+
+- **Group content is beyond public scrutiny**: Unlike Facebook posts, which can be flagged by fact-checking organizations, misinformation in LINE groups faces virtually no external correction mechanism.
+- **Social trust amplification**: Group members are typically family, colleagues, classmates, and neighbors. Messages come from "people you know," significantly lowering recipients' psychological defenses.
+- **Weaponization of forwarding culture**: Taiwanese LINE users have strong forwarding habits — "good morning images + news links" is a typical pattern. Once a sensationalist headline article crafted by operators enters a key group, it can reach hundreds of thousands of people within hours through forwarding chains.
+- **Long-term sleeper infiltration**: Operator accounts join various groups (neighborhood groups, parent groups, religious groups, stock investment groups), sharing harmless information to build trust under normal circumstances, then intensively deploying pre-fabricated content at critical moments — before elections, during military tensions, during economic sanctions.
+- **LINE Official Accounts & LINE Today**: Official accounts established under names like "news channel" or "community services" push narrative content; LINE Today's news aggregation feature can also indirectly influence information flows through content partnerships.
+
+### 7.3 PTT & Dcard: Opinion Manipulation on Anonymous Forums
+
+PTT (Bulletin Board System of National Taiwan University) is Taiwan's most politically influential anonymous forum, long regarded as "Taiwan's online public opinion barometer." Dcard primarily serves college students, influencing the younger generation. The anonymity of both platforms makes them particularly vulnerable to manipulation:
+
+- **PTT account acquisition & aging**: PTT accounts require Taiwan Academic Network (TANet) IP registration, making them scarce. Operators obtain accounts by purchasing dormant ones or using proxy IPs, then invest in long-term aging — accumulating posting and upvoting history across various boards to build credibility.
+- **Upvote/downvote manipulation**: PTT's push/boo (upvote/downvote) mechanism directly affects post visibility and opinion direction. Coordinating dozens of accounts to concentrate upvotes or downvotes within a short window can make a specific viewpoint appear to be "mainstream consensus," or bury unfavorable information under a pile of downvotes.
+- **Gossiping & HatePolitics boards**: These two boards are the most active online spaces for political discussion in Taiwan. During elections, opinion-steering operations intensify markedly — specific narratives are posted and mutually upvoted by a small number of accounts in the early morning hours, then cited by news media after daybreak as "netizen reactions," completing the narrative migration from online to offline.
+- **Dcard infiltration**: Dcard uses university email verification, which raises the barrier for fake accounts, but operators can still gain entry by purchasing or borrowing accounts. "Current Events" and "Mood" boards are the primary venues for political narrative insertion — posts disguised as personal feelings or life experiences are particularly effective because readers expect to see "authentic sharing" rather than political propaganda.
+
+### 7.4 Younger Generation Platforms: TikTok, Xiaohongshu & Cross-Platform Cascade Effects
+
+Facebook remains the primary platform for older demographics, but users aged 18–35 are migrating en masse to TikTok, Xiaohongshu, Instagram, Threads, and Discord. The infiltration playbook has expanded accordingly.
+
+On TikTok, operators build content accounts around lifestyle topics (food, travel, pets) to attract Taiwanese followers, then gradually inject political narratives — the same "slow topic injection" pattern described in Section 7.1, adapted to short-video format. Due to algorithmic recommendation, these accounts can achieve mass exposure without needing a large follower base.
+
+Xiaohongshu's user culture strongly favors "authentic personal experience" posts. Operators create accounts posing as Taiwanese travelers, students studying in China, or cross-strait couples, sharing idealized cross-strait narratives. The platform's credibility norms make it an ideal vector for soft narrative insertion — content carries no explicit political messaging yet continuously builds positive sentiment.
+
+These platforms create **cascade effects**: Xiaohongshu lifestyle posts are screenshot-captured and shared in LINE groups; TikTok short videos are downloaded and re-uploaded to Facebook; viral posts from PTT's Gossiping board are cited by news media as "netizen perspectives"; Threads discussions are cited as "what young people think." A single narrative enters different generational information spheres through cross-platform transfer, making attribution and detection significantly harder. Discord servers and Telegram channels play a coordination hub role in this ecosystem — distributing operational instructions and content templates without directly facing the public.
+
+---
 
 ---
 
@@ -349,6 +361,7 @@ Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily 
 Retired military officers carry professional credibility and media visibility. Operational methods:
 
 - **China visit & exchange delegations**: Inviting retired generals to visit China under the guise of "cross-strait military academic exchanges" or "retired generals' fellowship." Itineraries feature high-protocol receptions, building personal relationships and emotional bonds. After returning to Taiwan, these generals' media statements naturally carry a conciliatory tone.
+- **Military parade & high-profile event attendance**: Inviting retired generals, former government officials, and even former presidents to attend major CCP ceremonial events — National Day military parades, WWII victory commemorations, CPPCC (Chinese People's Political Consultative Conference) sessions, Cross-Strait Forum, KMT-CPC Forum, and similar occasions. The function of these events is not "exchange" but **political endorsement**: when Taiwan's retired generals stand at Tiananmen to watch PLA military parades, the imagery itself is the most potent united front signal — "even Taiwan's own generals acknowledge China's military power." The deeper effect: attendees return to Taiwan as living advocates of "cross-strait peace" narratives, and their statements carry extra persuasive weight because they "saw it with their own eyes." Over the years, multiple Taiwanese retired major generals and lieutenant generals have attended parades or CPPCC events in China; some cases have been investigated by Taiwanese judicial authorities.
 - **Regularizing talk show appearances**: Retired generals are placed as regular guests on political talk shows, providing commentary as "military experts." Their "professional analysis" embeds defeatist narratives — emphasizing the PLA's modernization achievements, the difficulty of Taiwan's defense — and audiences lower their guard under the wrapping of professional authority.
 - **Book publishing & speaking income**: Providing economic benefits through publishing partnerships and speaking invitations, reinforcing long-term cooperative intent.
 
@@ -356,7 +369,9 @@ Taiwan's espionage prosecutions have surged dramatically in recent years. Accord
 
 ### 10.2 Active & Retired Government Officials and Civil Servants
 
+- **Former presidents & senior officials visiting China**: When former presidents, vice presidents, or premiers visit China, the political symbolism far exceeds "personal exchange." These visits typically receive head-of-state protocol — meetings with CCP top leaders, state banquets, military facility tours — and every image is broadcast extensively by Chinese state media, conveying the signal that "Taiwan's leaders also accept the one-China framework." Upon returning, these former heads of state become the highest-level spokespersons for the narrative that "cross-strait relations should warm up."
 - **Retired officials as consultants**: Retired political appointees, diplomats, and intelligence officers are recruited as "consultants" or "independent directors" for Chinese companies at generous salaries. These arrangements create economic dependency during the post-retirement revolving door period, influencing their public statements and the direction in which they deploy their personal networks.
+- **CPPCC members & Cross-Strait Forum participants**: Retired officials or political figures are invited to serve as specially invited members of the CPPCC, or regularly attend united front platform events such as the Cross-Strait Forum and KMT-CPC Forum. These positions provide honorary titles, travel subsidies, and networking opportunities; attendees effectively become peripheral members of the CCP's united front system — carrying out political tasks under the banner of "civilian exchange."
 - **Micro-infiltration of active civil servants**: Reaching active civil servants through non-political organizations such as hometown associations, alumni groups, and religious organizations to build personal relationships. Initially there are no explicit political demands; after long-term cultivation, small "favors" are gradually introduced — providing internal information, influencing administrative discretion, assisting with specific cases.
 - **Local representatives & neighborhood chiefs (li-zhang)**: Grassroots elected representatives and neighborhood chiefs hold pivotal positions in local communities. Through donations, favor exchanges, and election resource infusion, they become dissemination nodes for local public opinion.
 
