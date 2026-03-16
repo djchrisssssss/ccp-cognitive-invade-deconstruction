@@ -208,7 +208,7 @@ Radio maintains high penetration among populations in central and southern Taiwa
 
 ## Part III: Leverage & Co-optation — Economy, Culture & Individuals
 
-## VIII. Economic Leverage & Market Pressure: From Capital Infiltration to Transnational Coercion
+## VIII. Capital Infiltration: Systematic Construction of Economic Dependency
 
 ### 8.1 Media Advertising Revenue Control
 
@@ -229,51 +229,17 @@ Freedom House's 2022 report *Beijing's Global Media Influence* — Taiwan chapte
 - **Temple & local organization donations**: Building relationships with local temples, associations, and hometown clubs through donations. These organizations have mobilization capacity in local elections; once financial dependency is established, political stances can be influenced.
 - **Agricultural & fishery product procurement**: Using bulk purchases of Taiwanese agricultural and fishery products to build specific regions' economic dependency on the Chinese market. This becomes a bargaining chip in political negotiations — purchasing or halting purchases directly impacts local economies, which in turn influences local public opinion.
 
-### 8.4 Sports & Entertainment Pressure: Transnational Coercion and the Manufacturing of Self-Censorship
-
-#### The Strategic Logic of Pressure
-
-A single public statement by a sports star or entertainer can reach tens of millions to hundreds of millions of people. The CCP treats these figures as **high-leverage targets** — not for direct co-optation, but for **creating punitive precedents** that compel all public figures to self-silence on Taiwan, Tibet, Hong Kong, and Xinjiang. The core mechanism is the **weaponization of market access**: China possesses one of the world's largest box office markets, hundreds of millions of sports viewers, and massive music and gaming consumer markets. Any enterprise or individual dependent on the Chinese market must choose between freedom of expression and revenue. The strategic objective is not to win every conflict, but to make **self-censorship the default behavior**.
-
-#### Sports Cases
-
-**NBA / Morey Incident (2019).** After Houston Rockets GM Daryl Morey tweeted in support of Hong Kong's democracy movement, CCTV and Tencent suspended all Rockets broadcasts and all 11 Chinese partners severed ties, costing the NBA an estimated hundreds of millions of dollars. The NBA's Mandarin statement carried a more apologetic tone than the English version; an ESPN internal memo was revealed to have instructed staff to avoid discussing China/Hong Kong topics. Virtually no mainstream sports figure has publicly spoken on Chinese human rights issues since [17].
-
-**Peng Shuai Incident (2021).** After tennis player Peng Shuai accused former Vice Premier Zhang Gaoli of sexual assault on Weibo, her post was deleted within 30 minutes and she disappeared from public view. The WTA suspended all China tournaments, but the IOC chose "quiet diplomacy," facilitating controlled appearances at the 2022 Beijing Winter Olympics. The WTA returned to China in 2023 without independent safety verification [18]. The case sent a clear deterrent: even internationally famous athletes can be silenced.
-
-**The "Chinese Taipei" Framework.** Since 1981, the IOC has forced Taiwan to compete as "Chinese Taipei" with its flag and anthem banned — an identity erasure mechanism running for over 40 years. Every Olympic broadcast reinforces to billions of viewers the framing that Taiwan is not a sovereign nation [19].
-
-**Blitzchung / Blizzard Incident (2019).** After a Hong Kong player shouted "Liberate Hong Kong" during a Hearthstone Grandmasters stream hosted **in Taiwan**, Blizzard imposed a one-year ban, confiscated prize money, and fired two **Taiwanese** casters. Passive bystanders were punished for another person's political expression [20].
-
-#### Entertainment Cases
-
-**Chou Tzuyu Incident (2016).** Sixteen-year-old Taiwanese TWICE member Chou Tzuyu held a ROC flag on a variety show. After a Weibo report, Huawei pulled its endorsement and JYP Entertainment's stock plunged nearly 10%. On the night before Taiwan's general election, JYP released an apology video: Chou Tzuyu tearfully reading "There is only one China," likened by netizens to a hostage tape. Academic surveys showed the video influenced approximately 1.34 million young voters' decisions [21].
-
-**John Cena Apology Incident (2021).** During *Fast & Furious 9* promotion in Taiwan, Cena called Taiwan "the first country that can watch F9." He subsequently posted a Weibo apology in fluent Mandarin: "I made a mistake. I love China." He never specified the "mistake" nor mentioned Taiwan. Merely calling Taiwan a "country" triggered a public humiliation ritual [22].
-
-**Systematic Loyalty Pressure on Taiwanese Entertainers.** In 2000, A-mei was banned from China after singing at Taiwan's presidential inauguration; in 2019, 42 top artists congratulated the PRC while staying silent on the ROC's national day; in May 2024, over 70 artists reposted CCTV's "Taiwan independence is a dead end" statement, while those who did **not** repost (such as Hebe Tien, with 13 million followers) were publicly called out. Academic research found 85% of China's top 218 celebrities reposted official government messages at least once [23].
-
-**Hollywood Self-Censorship.** PEN America's 2020 report documented systematic patterns: the original *Top Gun: Maverick* trailer removed the Taiwan and Japan flags from the flight jacket (Tencent was a co-investor); the *Doctor Strange* screenwriter admitted changing a character's ethnicity from Tibetan to avoid angering China. Tibet, Taiwan, Hong Kong, and Xinjiang topics are systematically avoided [24].
-
-**South Korea THAAD Retaliation (2017–2025).** After South Korea deployed THAAD, China banned Korean cultural exports — 42 celebrities barred, K-pop concerts cancelled, content removed from streaming platforms. Estimated industry losses reached **22 trillion KRW (approximately US$15.3 billion)**, with the ban lasting approximately eight years [25]. This demonstrates the CCP's willingness to deploy sustained cultural-economic warfare against countries deepening U.S.–Taiwan security cooperation.
-
-#### Structural Significance
-
-The cases above reveal a recognizable combination of pressure mechanisms: **market denial** (NBA broadcast ban, Hallyu ban), **financial punishment** (hundreds of millions in losses, stock crashes), **nationalist mobilization** (Weibo mob targeting individuals), **forced loyalty statements** (Taiwanese artists compelled to repost official messaging), **hostage-style apologies** (Chou Tzuyu, Cena videos), **identity erasure** ("Chinese Taipei," flag removals), **institutional co-optation** (IOC accommodating Beijing's framework), and **bystander punishment** (Taiwanese casters fired for another's speech).
-
-For Taiwan cognitive warfare, these mechanisms produce three effects. **Globally**: when Hollywood removes the Taiwan flag and celebrities dare not call Taiwan a "country," billions of viewers receive the message that Taiwan's status is political taboo rather than fact — pushing international identity from normalization toward unspeakability. **Domestically**: when Taiwan's cultural icons are forced to declare "I am Chinese" or "Taiwan independence is a dead end," it erodes national identity from the inside — Taiwan's Mainland Affairs Council has explicitly described this as the CCP "extending its ideological work into the arts." **Chilling effect**: every punitive precedent reinforces the signal that challenging the CCP's position carries extreme costs, ensuring **preemptive silence** becomes the default for global corporations and public figures, progressively isolating Taiwan in the international opinion space.
-
 ---
 
-## IX. KOL Co-optation: Full-Spectrum Infiltration Strategy
+## IX. Public Figure Manipulation: Full-Spectrum Strategy from Co-optation to Coercion
 
-### 9.1 Why KOLs Are High-Value Targets
+### 9.1 Why Public Figures Are High-Value Targets
 
-A single KOL with 100,000 followers may achieve a per-post reach exceeding the combined output of 10,000 account farm accounts. KOL content is actively trusted by followers, and its spread follows "trust networks" rather than "noise flooding." The return on investment is extremely high.
+A single KOL with 100,000 followers may achieve a per-post reach exceeding the combined output of 10,000 account farm accounts. A single public statement by a sports star or entertainer can reach tens of millions to hundreds of millions. These figures' content is actively trusted by followers, spreading through "trust networks" rather than "noise flooding." The return on investment is extremely high — whether through co-optation to actively output narratives or through punishment to create chilling effects, both produce maximum impact at minimum cost.
 
-### 9.2 The Co-optation Spectrum — Hard to Soft
+### 9.2 The Co-optation Spectrum — The Carrot
 
-KOL co-optation spans a **continuous spectrum from hard acquisition to soft influence**:
+Public figure manipulation spans a **continuous spectrum from hard acquisition to soft influence**:
 
 **Hard acquisition:**
 - Direct paid partnerships: Paying for "sponsored content" or "advertising partnerships" to promote specific viewpoints or content.
@@ -287,26 +253,43 @@ KOL co-optation spans a **continuous spectrum from hard acquisition to soft infl
 - Social engagement manipulation: Arranging large numbers of accounts to give high engagement (likes, comments, shares) to specific types of content from target KOLs, using positive reinforcement to guide their content direction. KOLs may unconsciously gravitate toward specific narratives.
 - Algorithm manipulation: Boosting specific content visibility through coordinated engagement, indirectly rewarding content output that aligns with operator interests.
 
-### 9.3 KOL Category Coverage
+### 9.3 The Pressure Spectrum — The Stick
 
-Co-optation targets span **all domains**:
+Co-optation is the carrot; pressure is the stick. Both frequently target **the same individuals**. The core mechanism is the **weaponization of market access**: China possesses one of the world's largest box office markets, hundreds of millions of sports viewers, and massive music and gaming consumer markets. Any enterprise or individual dependent on the Chinese market must choose between freedom of expression and revenue. The strategic objective is not to win every conflict, but to make **self-censorship the default behavior**.
 
-| KOL Type | Operational Purpose |
-|---|---|
-| Political commentators | Directly influence political narratives and policy debates |
-| TV political pundits | Repeatedly output specific stances on high-rating talk shows, influencing political judgment among middle-aged and elderly voters. Appearance fees and airtime frequency serve as economic incentives |
-| Finance/investment KOLs | Shape the economic narrative of "China's economy is strong, Taiwan depends on China" |
-| Travel/lifestyle KOLs | Beautify China's image, build cultural affinity |
-| Tech/gadget KOLs | Promote Chinese brands, build impressions of technological leadership |
-| Entertainment/meme accounts | Deliver specific frameworks wrapped in humor, lowering audience defenses |
-| Education/knowledge KOLs | Plant specific historical narratives and political frameworks |
-| Parenting/family KOLs | Influence parent demographics' political and social attitudes |
-| Military/defense analysis KOLs | Spread defeatist narratives such as "the PLA is unstoppable" and "resistance is futile," eroding the will to defend |
-| Religious/spiritual KOLs | Leverage trust structures within faith communities to transmit messages |
-| Short-video creators | Reach younger demographics unreachable through TV and Facebook; normalize narratives through entertainment and emotional resonance |
-| Lifestyle bloggers | Weaponize seeding culture to build soft affinity — no political messaging, yet deep cultural proximity is embedded |
+**Sports.** After NBA GM Daryl Morey tweeted support for Hong Kong in 2019, CCTV and Tencent suspended broadcasts and all 11 Chinese partners severed ties, costing hundreds of millions; an ESPN internal memo instructed staff to avoid China/Hong Kong topics. Virtually no mainstream sports figure has spoken on Chinese human rights since [17]. Peng Shuai disappeared from public view in 2021 after accusing a former Vice Premier of sexual assault; the WTA suspended China tournaments but ultimately returned without independent safety verification [18]. The IOC has forced Taiwan to compete as "Chinese Taipei" since 1981 — an identity erasure mechanism running over 40 years [19]. Blizzard banned a Hong Kong player and fired two **Taiwanese** casters in 2019 after "Liberate Hong Kong" was shouted at a tournament hosted **in Taiwan** — bystanders punished for another's speech [20].
 
-Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life**.
+**Entertainment.** Sixteen-year-old Chou Tzuyu was forced to tearfully apologize "There is only one China" in 2016 after holding a ROC flag; academic research showed this influenced approximately 1.34 million young voters [21]. John Cena was forced to apologize in Mandarin in 2021 merely for calling Taiwan a "country" [22]. In 2024, over 70 Taiwanese artists reposted CCTV's "Taiwan independence is a dead end" statement, while those who did **not** repost were publicly called out; academic research found 85% of China's top 218 celebrities reposted official political messages at least once [23]. PEN America documented systematic Hollywood self-censorship: flag removals, character ethnicity changes, and systematic avoidance of sensitive topics [24]. After South Korea deployed THAAD, Korean cultural exports were banned for eight years, with estimated losses of **22 trillion KRW (approximately US$15.3 billion)** [25].
+
+The full combination of pressure mechanisms includes: **market denial**, **financial punishment**, **nationalist mobilization**, **forced loyalty statements**, **hostage-style apologies**, **identity erasure**, **institutional co-optation**, and **bystander punishment**.
+
+### 9.4 Carrot and Stick: The Compound Effect on Taiwan
+
+Co-optation and coercion do not operate independently — they **target the same groups simultaneously**: Taiwanese entertainers who comply gain Chinese market access (carrot); those who refuse face bans and public shaming (stick). This dual-track manipulation produces three effects. **Globally**: when Hollywood removes Taiwan's flag and celebrities dare not call Taiwan a "country," billions of viewers receive the message that Taiwan's status is political taboo — pushing international identity from normalization toward unspeakability. **Domestically**: when Taiwan's cultural icons are forced to declare "I am Chinese" while trusted KOLs continuously output pro-Beijing narratives, national identity is eroded from both sides simultaneously. **Chilling effect**: every punitive precedent ensures **preemptive silence** becomes the default for global corporations and public figures.
+
+### 9.5 Target Category Coverage
+
+Manipulation targets span **all domains**:
+
+| Type | Method | Operational Purpose |
+|---|---|---|
+| Political commentators | Co-optation | Directly influence political narratives and policy debates |
+| TV political pundits | Co-optation | Repeatedly output specific stances on high-rating talk shows, influencing political judgment among older voters |
+| Finance/investment KOLs | Co-optation | Shape the economic narrative of "China's economy is strong, Taiwan depends on China" |
+| Travel/lifestyle KOLs | Co-optation | Beautify China's image, build cultural affinity |
+| Tech/gadget KOLs | Co-optation | Promote Chinese brands, build impressions of technological leadership |
+| Education/knowledge KOLs | Co-optation | Plant specific historical narratives and political frameworks |
+| Parenting/family KOLs | Co-optation | Influence parent demographics' political and social attitudes |
+| Military/defense analysis KOLs | Co-optation | Spread defeatist narratives such as "resistance is futile," eroding the will to defend |
+| Religious/spiritual KOLs | Co-optation | Leverage trust structures within faith communities to transmit messages |
+| Short-video creators | Co-optation | Reach younger demographics; normalize narratives through entertainment and emotional resonance |
+| Lifestyle bloggers | Co-optation | Weaponize seeding culture to build soft affinity — no political messaging, yet deep cultural proximity is embedded |
+| Sports stars/organizations | Coercion | Create chilling effects through market denial and financial punishment, suppressing Taiwan-related speech |
+| Entertainers | Co-optation + Coercion | Market access for compliance (carrot); bans and public shaming for non-compliance (stick) |
+| Hollywood/international film & TV | Coercion | Force self-censorship through investment and market access, systematically avoiding Taiwan and other sensitive topics |
+| Entertainment/meme accounts | Co-optation | Deliver specific frameworks wrapped in humor, lowering audience defenses |
+
+Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life** — co-opted figures actively output, coerced figures actively self-censor, and both together shape the information environment.
 
 ---
 

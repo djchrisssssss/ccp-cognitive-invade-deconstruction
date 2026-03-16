@@ -55,8 +55,8 @@ The goal is to help readers understand the mechanics of this operational system 
 
 **第三部：槓桿與收編 / Part III: Leverage & Co-optation**
 
-8. **經濟槓桿與市場施壓** — 資金滲透、體育與演藝界跨國脅迫 / Economic Leverage & Market Pressure — Capital infiltration, sports & entertainment transnational coercion
-9. **KOL 收買** — 全光譜滲透 / KOL Co-optation — Full-spectrum infiltration
+8. **資金滲透** — 廣告收入、企業投資、基層經濟依賴 / Capital Infiltration — Advertising revenue, corporate investment, grassroots economic dependency
+9. **公眾人物操控** — 從收買到脅迫的全光譜策略（KOL、體育、演藝） / Public Figure Manipulation — Full-spectrum from co-optation to coercion (KOLs, sports, entertainment)
 10. **收買官員與軍職人員** — 退休將領、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals, political appointees, civil servants, academia
 11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
 
