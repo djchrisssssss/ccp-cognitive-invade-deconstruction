@@ -10,6 +10,8 @@ This operational system is already running.
 
 ---
 
+## Part I: The War Machine — Infrastructure & Capabilities
+
 ## I. Command Structure: The Four-Layer Nesting of Party–Military–Enterprise–Gray
 
 CCP cognitive warfare is driven by a **four-layer nested structure**:
@@ -138,6 +140,8 @@ Leveraging data centers from public clouds like AWS, GCP, and Azure worldwide to
 
 ---
 
+## Part II: Infiltration Channels — Platforms & Media
+
 ## VI. Facebook Infiltration: Fake Groups & Community Hijacking
 
 ### 6.1 Creating Fake Local Communities
@@ -202,7 +206,9 @@ Radio maintains high penetration among populations in central and southern Taiwa
 
 ---
 
-## VIII. Capital Infiltration: Systematic Construction of Economic Dependency
+## Part III: Leverage & Co-optation — Economy, Culture & Individuals
+
+## VIII. Economic Leverage & Market Pressure: From Capital Infiltration to Transnational Coercion
 
 ### 8.1 Media Advertising Revenue Control
 
@@ -223,15 +229,13 @@ Freedom House's 2022 report *Beijing's Global Media Influence* — Taiwan chapte
 - **Temple & local organization donations**: Building relationships with local temples, associations, and hometown clubs through donations. These organizations have mobilization capacity in local elections; once financial dependency is established, political stances can be influenced.
 - **Agricultural & fishery product procurement**: Using bulk purchases of Taiwanese agricultural and fishery products to build specific regions' economic dependency on the Chinese market. This becomes a bargaining chip in political negotiations — purchasing or halting purchases directly impacts local economies, which in turn influences local public opinion.
 
----
+### 8.4 Sports & Entertainment Pressure: Transnational Coercion and the Manufacturing of Self-Censorship
 
-## IX. Sports & Entertainment Pressure: Transnational Coercion and the Manufacturing of Self-Censorship
-
-### 9.1 The Strategic Logic of Pressure
+#### The Strategic Logic of Pressure
 
 A single public statement by a sports star or entertainer can reach tens of millions to hundreds of millions of people. The CCP treats these figures as **high-leverage targets** — not for direct co-optation, but for **creating punitive precedents** that compel all public figures to self-silence on Taiwan, Tibet, Hong Kong, and Xinjiang. The core mechanism is the **weaponization of market access**: China possesses one of the world's largest box office markets, hundreds of millions of sports viewers, and massive music and gaming consumer markets. Any enterprise or individual dependent on the Chinese market must choose between freedom of expression and revenue. The strategic objective is not to win every conflict, but to make **self-censorship the default behavior**.
 
-### 9.2 Sports Cases
+#### Sports Cases
 
 **NBA / Morey Incident (2019).** After Houston Rockets GM Daryl Morey tweeted in support of Hong Kong's democracy movement, CCTV and Tencent suspended all Rockets broadcasts and all 11 Chinese partners severed ties, costing the NBA an estimated hundreds of millions of dollars. The NBA's Mandarin statement carried a more apologetic tone than the English version; an ESPN internal memo was revealed to have instructed staff to avoid discussing China/Hong Kong topics. Virtually no mainstream sports figure has publicly spoken on Chinese human rights issues since [17].
 
@@ -241,7 +245,7 @@ A single public statement by a sports star or entertainer can reach tens of mill
 
 **Blitzchung / Blizzard Incident (2019).** After a Hong Kong player shouted "Liberate Hong Kong" during a Hearthstone Grandmasters stream hosted **in Taiwan**, Blizzard imposed a one-year ban, confiscated prize money, and fired two **Taiwanese** casters. Passive bystanders were punished for another person's political expression [20].
 
-### 9.3 Entertainment Cases
+#### Entertainment Cases
 
 **Chou Tzuyu Incident (2016).** Sixteen-year-old Taiwanese TWICE member Chou Tzuyu held a ROC flag on a variety show. After a Weibo report, Huawei pulled its endorsement and JYP Entertainment's stock plunged nearly 10%. On the night before Taiwan's general election, JYP released an apology video: Chou Tzuyu tearfully reading "There is only one China," likened by netizens to a hostage tape. Academic surveys showed the video influenced approximately 1.34 million young voters' decisions [21].
 
@@ -253,7 +257,7 @@ A single public statement by a sports star or entertainer can reach tens of mill
 
 **South Korea THAAD Retaliation (2017–2025).** After South Korea deployed THAAD, China banned Korean cultural exports — 42 celebrities barred, K-pop concerts cancelled, content removed from streaming platforms. Estimated industry losses reached **22 trillion KRW (approximately US$15.3 billion)**, with the ban lasting approximately eight years [25]. This demonstrates the CCP's willingness to deploy sustained cultural-economic warfare against countries deepening U.S.–Taiwan security cooperation.
 
-### 9.4 Structural Significance
+#### Structural Significance
 
 The cases above reveal a recognizable combination of pressure mechanisms: **market denial** (NBA broadcast ban, Hallyu ban), **financial punishment** (hundreds of millions in losses, stock crashes), **nationalist mobilization** (Weibo mob targeting individuals), **forced loyalty statements** (Taiwanese artists compelled to repost official messaging), **hostage-style apologies** (Chou Tzuyu, Cena videos), **identity erasure** ("Chinese Taipei," flag removals), **institutional co-optation** (IOC accommodating Beijing's framework), and **bystander punishment** (Taiwanese casters fired for another's speech).
 
@@ -261,13 +265,13 @@ For Taiwan cognitive warfare, these mechanisms produce three effects. **Globally
 
 ---
 
-## X. KOL Co-optation: Full-Spectrum Infiltration Strategy
+## IX. KOL Co-optation: Full-Spectrum Infiltration Strategy
 
-### 10.1 Why KOLs Are High-Value Targets
+### 9.1 Why KOLs Are High-Value Targets
 
 A single KOL with 100,000 followers may achieve a per-post reach exceeding the combined output of 10,000 account farm accounts. KOL content is actively trusted by followers, and its spread follows "trust networks" rather than "noise flooding." The return on investment is extremely high.
 
-### 10.2 The Co-optation Spectrum — Hard to Soft
+### 9.2 The Co-optation Spectrum — Hard to Soft
 
 KOL co-optation spans a **continuous spectrum from hard acquisition to soft influence**:
 
@@ -283,7 +287,7 @@ KOL co-optation spans a **continuous spectrum from hard acquisition to soft infl
 - Social engagement manipulation: Arranging large numbers of accounts to give high engagement (likes, comments, shares) to specific types of content from target KOLs, using positive reinforcement to guide their content direction. KOLs may unconsciously gravitate toward specific narratives.
 - Algorithm manipulation: Boosting specific content visibility through coordinated engagement, indirectly rewarding content output that aligns with operator interests.
 
-### 10.3 KOL Category Coverage
+### 9.3 KOL Category Coverage
 
 Co-optation targets span **all domains**:
 
@@ -306,9 +310,9 @@ Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily 
 
 ---
 
-## XI. Co-opting Officials & Military Personnel: Infiltration Within the System
+## X. Co-opting Officials & Military Personnel: Infiltration Within the System
 
-### 11.1 Retired Military Officers & Generals
+### 10.1 Retired Military Officers & Generals
 
 Retired military officers carry professional credibility and media visibility. Operational methods:
 
@@ -318,22 +322,22 @@ Retired military officers carry professional credibility and media visibility. O
 
 Taiwan's espionage prosecutions have surged dramatically in recent years. According to data released by Taiwan's National Security Bureau in January 2025, the number of prosecuted cases rose from 5 in 2022 to 14 in 2023 and 15 in 2024; the number of individuals prosecuted rose from 10 in 2022 to 48 in 2023 and 64 in 2024, with approximately two-thirds involving active or retired military personnel [7][8][9].
 
-### 11.2 Active & Retired Government Officials and Civil Servants
+### 10.2 Active & Retired Government Officials and Civil Servants
 
 - **Retired officials as consultants**: Retired political appointees, diplomats, and intelligence officers are recruited as "consultants" or "independent directors" for Chinese companies at generous salaries. These arrangements create economic dependency during the post-retirement revolving door period, influencing their public statements and the direction in which they deploy their personal networks.
 - **Micro-infiltration of active civil servants**: Reaching active civil servants through non-political organizations such as hometown associations, alumni groups, and religious organizations to build personal relationships. Initially there are no explicit political demands; after long-term cultivation, small "favors" are gradually introduced — providing internal information, influencing administrative discretion, assisting with specific cases.
 - **Local representatives & neighborhood chiefs (li-zhang)**: Grassroots elected representatives and neighborhood chiefs hold pivotal positions in local communities. Through donations, favor exchanges, and election resource infusion, they become dissemination nodes for local public opinion.
 
-### 11.3 Academia & Think Tanks
+### 10.3 Academia & Think Tanks
 
 - **Academic cooperation programs**: Building long-term relationships with Taiwanese scholars through transnational academic cooperation, joint research programs, and conference invitations. The opacity of academic funding sources provides cover for infiltration.
 - **Think tank influence**: Sponsoring or funding think tank research with specific stances, turning "academic research" into a narrative tool in policy debates.
 
 ---
 
-## XII. Cultivating Third Forces: Political Manipulation Disguised as Neutrality
+## XI. Cultivating Third Forces: Political Manipulation Disguised as Neutrality
 
-### 12.1 Operational Logic
+### 11.1 Operational Logic
 
 Taiwan's political spectrum has long been dominated by two major camps (Blue and Green). Operators cultivate "third force" parties or political groups to break the existing balance, serving multiple strategic objectives:
 
@@ -341,7 +345,7 @@ Taiwan's political spectrum has long been dominated by two major camps (Blue and
 - **Illusion of neutrality**: Third forces campaign on platforms of "transcending Blue and Green," "rational neutrality," and "not taking sides," attracting voters disillusioned with both major parties. This "neutral" stance actually provides operators with greater narrative space — they can frame anti-CCP policies as "provocation" while packaging this as "rational pragmatism."
 - **Agenda-setting power**: Once third forces enter the legislature, they can exert leverage on key issues (defense budgets, foreign policy, cross-strait exchange legislation), using minority seats to influence majority decisions.
 
-### 12.2 Cultivation Methods
+### 11.2 Cultivation Methods
 
 - **Funding channels**: Injecting capital through multiple layers of local proxies, commercial investments, and political donations. Fund flows pass through multiple intermediaries, making them difficult to trace to the original source.
 - **Media exposure arrangement**: Using already-controlled media resources to give third force candidates disproportionate positive coverage and exposure opportunities.
@@ -350,7 +354,7 @@ Taiwan's political spectrum has long been dominated by two major camps (Blue and
 
 These operations have judicial precedent. In October 2023, Lin De-wang, founder of the Taiwan People's Communist Party, and others were indicted under the Anti-Infiltration Act for collaborating with China's Taiwan Affairs Office to interfere in Taiwan's elections [10]. In a separate case in 2024, couple Chang Meng-chung and Hung Wen-ting were indicted for receiving approximately NT$74 million (roughly US$2.32 million) over more than a decade to conduct radio and digital media propaganda [11].
 
-### 12.3 Long-Term Positioning
+### 11.3 Long-Term Positioning
 
 The value of third forces lies in **long-term positioning**. Even without achieving executive power in the short term, their critical minority status in the legislature is sufficient to:
 
@@ -363,13 +367,15 @@ The essence of the entire operation: the supporters of these political forces mo
 
 ---
 
-## XIII. Sowing Discord: Systematically Amplifying Social Fractures
+## Part IV: Effects & Integration
 
-### 13.1 Operational Principle
+## XII. Sowing Discord: Systematically Amplifying Social Fractures
+
+### 12.1 Operational Principle
 
 The core objective of cognitive warfare is to **erode the target society's capacity for consensus formation**. The most efficient method: amplifying existing fractures.
 
-### 13.2 Operational Vectors
+### 12.2 Operational Vectors
 
 - **Unification vs. independence**: Simultaneously posting extreme rhetoric in both "pro-unification" and "pro-independence" communities, inflaming emotions on both sides, compressing the rational middle ground.
 - **Generational conflict**: Amplifying younger demographics' resentment toward older generations in youth communities, spreading negative narratives about younger generations in middle-aged and elderly communities.
@@ -380,13 +386,13 @@ The core objective of cognitive warfare is to **erode the target society's capac
 
 Taiwan's Information Operations Research Group (IORG) has systematically tracked Chinese information manipulation since 2019, documenting multiple case studies since the 2018 Kansai Airport incident. Their findings show that operational methods have evolved into "more diverse and more sophisticated" forms, and that "local collaborators" are key nodes in amplifying manipulated messages [12].
 
-### 13.3 Precision of Dual-Sided Operations
+### 12.3 Precision of Dual-Sided Operations
 
 The most threatening operation is **a single operations center simultaneously controlling extreme accounts on both opposing sides**. For example: Account A operated by the same team posts radical pro-unification rhetoric in pan-Blue communities, while Account B posts radical pro-independence rhetoric in pan-Green communities. The two sets of accounts screenshot and attack each other, manufacturing the impression that "society is experiencing extreme polarization." Real users are unknowingly swept into emotional spirals.
 
 ---
 
-## XIV. Attack Chain Integration: The Full Lifecycle of a Single Operation
+## XIII. Attack Chain Integration: The Full Lifecycle of a Single Operation
 
 Integrating the elements above, a typical cognitive warfare operation follows this flow:
 
@@ -405,25 +411,27 @@ The entire process can be completed from design to large-scale deployment within
 
 ---
 
-## XV. Defense Orientation: How to Reduce the Effectiveness of Cognitive Warfare
+## Part V: Defense
+
+## XIV. Defense Orientation: How to Reduce the Effectiveness of Cognitive Warfare
 
 Understanding the attack chain does not automatically create defensive capacity. The core of defense against cognitive warfare is not to "eliminate all falsehoods," but to **raise operating costs, slow dissemination, blunt emotional manipulation, and protect trusted nodes in society**. Effective defense has to happen simultaneously at the individual, community, media, platform, and institutional levels.
 
-### 15.1 Individual Level: Lower the Chance of Becoming a Relay Node
+### 14.1 Individual Level: Lower the Chance of Becoming a Relay Node
 
 - **Deliberately slow down high-emotion content.** Any content that triggers immediate anger, humiliation, panic, or despair should be paused before it is shared. Cognitive warfare seeks emotional reflex, not rational evaluation.
 - **Ask about origin before taking a side.** More important than whether something "looks true" is where it first appeared, who amplified it, and why it surfaced at that moment.
 - **Look for coordination signals.** If multiple accounts push highly similar wording, graphics, hashtags, and emotional framing across platforms within a short period, that is often not organic spread.
 - **Build a trusted information list before a crisis.** Pre-selecting credible media outlets, official agencies, subject-matter experts, and local reporters reduces the chance of being captured by improvised information flows when a crisis hits.
 
-### 15.2 Communities, Media, and KOLs: Protect the Trust Channels
+### 14.2 Communities, Media, and KOLs: Protect the Trust Channels
 
 - **Groups and pages should increase management transparency.** Who the admins are, whether external partnerships exist, how posts are reviewed, and whether there is paid placement or sponsorship should be disclosed as much as possible. Opaque governance is fertile ground for infiltration.
 - **Media should not treat engagement metrics as public opinion.** Sudden spikes in comments, shares, and trending topics may be the result of coordination; when newsrooms quote them uncritically, they complete a second wave of amplification for the operator.
 - **KOLs and commentators should disclose relationships of interest.** This includes hosted travel, commercial partnerships, consulting roles, content licensing, and recurring source relationships. The most effective conduit is often not an anonymous account, but a trusted person.
 - **Create abnormal-activity response procedures.** When communities, newsrooms, or KOLs see concentrated anomalies in comments, direct messages, submissions, or guest outreach, there should be an internal escalation and delay process instead of business-as-usual publication.
 
-### 15.3 Platforms, Researchers, and Government: Move from Fact-Checking Cases to Defending Systems
+### 14.3 Platforms, Researchers, and Government: Move from Fact-Checking Cases to Defending Systems
 
 - **The goal is not only to remove posts, but to map networks.** Defense should focus not only on whether a single post is true or false, but on account creation timing, interaction patterns, device or IP linkages, and cross-platform migration paths.
 - **Build cross-platform threat-intelligence sharing.** Cognitive warfare rarely operates on only one platform. If Facebook, YouTube, LINE, X, forums, and news sites cannot share pattern-level signals, defenders will always lag behind.
@@ -432,7 +440,7 @@ Understanding the attack chain does not automatically create defensive capacity.
 
 Stanford Internet Observatory's 2020 study *Telling China's Story* systematically analyzed the architecture of China's full-spectrum information operations, providing a methodological framework for cross-platform threat intelligence sharing [16]. Taiwan's civil society has also built a nascent defense ecosystem: IORG (Taiwan Information Environment Research Center), Doublethink Lab, Taiwan FactCheck Center, Cofacts, and MyGoPen continuously conduct monitoring and verification, forming an active civic defense capability.
 
-### 15.4 The Real Objective of Defense: Break the Cost-Effectiveness Equation
+### 14.4 The Real Objective of Defense: Break the Cost-Effectiveness Equation
 
 Cognitive warfare cannot be reduced to absolute zero, but its **return on investment can be degraded**. When an operation requires more accounts, more money, more time, and deeper infiltration while delivering less reach, less trust capture, and less political effect, its strategic value falls sharply.
 
@@ -447,7 +455,7 @@ Defense is not a single technical fix. It is an engineering problem of social re
 
 ---
 
-## XVI. Structural Observations
+## XV. Structural Observations
 
 This system's threat stems from the **systemic integration** across all elements. State-level resources provide direction and funding, tech enterprises provide the technology engine, gray market industries provide infrastructure, automation systems provide scalability, traditional media provides mass reach, capital infiltration provides economic leverage, KOLs provide trust channels, co-opted officials provide professional authority, and third forces provide political leverage — each layer is a replaceable, extensible module.
 

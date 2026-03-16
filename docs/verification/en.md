@@ -25,6 +25,15 @@ Verification date: 2026-03-16
 | [14] Election interference stats | ✅ Verified | 77 cases / 157 individuals (Dec) → 117 cases / 287 individuals (pre-election) confirmed |
 | [15] Brookings (2024) | ✅ Verified | Correct title and author confirmed |
 | [16] Stanford IO (2020) | ✅ Verified | DiResta et al. (5 authors), SIO + Hoover joint publication confirmed |
+| [17] NBA / Morey Incident (2019) | ✅ Verified | ESPN / NPR / CNBC coverage and Wang (2020) academic paper confirmed |
+| [18] Peng Shuai Incident (2021) | ✅ Verified | NPR report on WTA suspension and PBS report on 2023 return confirmed |
+| [19] IOC / Chinese Taipei Framework | ✅ Verified | Amnesty International and Human Rights Watch reports confirmed |
+| [20] Blitzchung / Blizzard Incident (2019) | ✅ Verified | Variety and TIME reporting confirmed |
+| [21] Chou Tzuyu Incident (2016) | ✅ Verified | Ahn & Lin (2019) academic paper and Quartz reporting confirmed |
+| [22] John Cena Apology (2021) | ✅ Verified | NBC News and Bloomberg reporting confirmed |
+| [23] Taiwanese Entertainer Loyalty Pressure | ✅ Verified | CNN, The Diplomat, and University of Richmond research confirmed |
+| [24] Hollywood Self-Censorship (2020) | ✅ Verified | PEN America report and Hollywood Reporter coverage confirmed |
+| [25] South Korea THAAD Retaliation (2017–2025) | ✅ Verified | The Diplomat and Korea Economic Institute research confirmed |
 
 ---
 
@@ -211,6 +220,114 @@ Verification date: 2026-03-16
 - **Publisher**: Stanford Internet Observatory and Hoover Institution (joint publication), 2020
 
 **Primary source**: [Stanford Cyber Policy Center](https://cyber.fsi.stanford.edu/io/publication/telling-chinas-story); [Stanford Digital Repository](https://purl.stanford.edu/pf306sw8941)
+
+---
+
+### [17] NBA / Morey Incident (2019)
+
+**Cited claim**: After Morey tweeted in support of Hong Kong, CCTV and Tencent suspended broadcasts, costing the NBA hundreds of millions.
+
+- **Event**: On October 4, 2019, Houston Rockets GM Daryl Morey tweeted "Fight for Freedom, Stand with Hong Kong"
+- **Consequences**: CCTV and Tencent suspended all Rockets broadcasts; all 11 Chinese partners severed ties
+- **ESPN memo**: Freedom House (2022) *Beijing's Global Media Influence* documented an ESPN internal memo instructing staff to avoid discussing China/Hong Kong political topics
+- **Academic source**: Wang, Y. (2020). "Sports in the Transnational Public Sphere." *The International Journal of the History of Sport*, 37(12)
+
+**Primary sources**: [ESPN](https://www.espn.com/nba/story/_/id/27792480/); [NPR](https://www.npr.org/2019/10/08/768334783)
+
+---
+
+### [18] Peng Shuai Incident (2021)
+
+**Cited claim**: WTA suspended all China tournaments; IOC chose "quiet diplomacy."
+
+- **Event**: On November 2, 2021, Peng Shuai accused former Vice Premier Zhang Gaoli of sexual assault on Weibo; post deleted within 30 minutes
+- **WTA response**: On December 1, 2021, WTA announced suspension of all China and Hong Kong tournaments
+- **Return**: WTA returned to China in 2023 without independent safety verification
+
+**Primary sources**: [NPR](https://www.npr.org/2021/12/02/1061032399/); [PBS](https://www.pbs.org/newshour/show/wta-returns-to-china)
+
+---
+
+### [19] IOC / Chinese Taipei Framework
+
+**Cited claim**: Since 1981, the IOC has forced Taiwan to compete as "Chinese Taipei."
+
+- **History**: 1981 Lausanne Agreement; Taiwan competes as "Chinese Taipei" with flag and anthem banned
+- **Duration**: Over 40 years
+
+**Primary sources**: [Amnesty International](https://www.amnesty.org/en/latest/news/2008/07/); [Human Rights Watch](https://www.hrw.org/news/2021/02/11/)
+
+---
+
+### [20] Blitzchung / Blizzard Incident (2019)
+
+**Cited claim**: Hong Kong player shouted "Liberate Hong Kong" at a Taiwan-hosted tournament and was banned by Blizzard.
+
+- **Event**: October 2019, Blitzchung shouted "Liberate Hong Kong, revolution of our times" during a post-match interview at the Hearthstone Grandmasters stream hosted in Taiwan
+- **Punishment**: One-year ban, prize money confiscated, two Taiwanese casters fired
+- **Aftermath**: Blizzard reduced the ban to six months and returned prize money under public pressure
+
+**Primary sources**: [Variety](https://variety.com/2019/gaming/news/blizzard-bans-hearthstone-player-blitzchung-1203369390/); [TIME](https://time.com/5702971/blizzard-esports-hearthstone-hong-kong-protests-blitzchung-china/)
+
+---
+
+### [21] Chou Tzuyu Incident (2016)
+
+**Cited claim**: 16-year-old Taiwanese TWICE member forced to apologize, influencing approximately 1.34 million young voters.
+
+- **Academic source**: Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*. SAGE Journals
+- **Event date**: January 15, 2016 (eve of Taiwan's presidential election)
+- **JYP stock impact**: Plunged nearly 10%
+
+**Primary sources**: [Quartz](https://qz.com/597400/); [SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/1748048518802947)
+
+---
+
+### [22] John Cena Apology Incident (2021)
+
+**Cited claim**: Cena called Taiwan a "country" during promotion and subsequently apologized in Mandarin.
+
+- **Event**: May 2021, Cena called Taiwan "the first country that can watch F9" during *Fast & Furious 9* promotion
+- **Apology**: Posted a Weibo apology in fluent Mandarin; did not mention Taiwan, only said "I made a mistake"
+
+**Primary sources**: [NBC News](https://www.nbcnews.com/news/world/john-cena-apologizes-chinese-audience-after-calling-taiwan-country-n1268600); [Bloomberg](https://www.bloomberg.com/news/articles/2021-05-25/)
+
+---
+
+### [23] Systematic Loyalty Pressure on Taiwanese Entertainers
+
+**Cited claim**: In 2024, over 70 artists reposted CCTV's "Taiwan independence is a dead end" statement.
+
+- **2019 National Day event**: 42 top artists congratulated the PRC while staying silent on the ROC's national day
+- **2024 event**: Over 70 artists reposted CCTV statement; those who did not (e.g., Hebe Tien) were publicly called out
+- **Academic source**: University of Richmond Political Science Faculty Publications found 85% of China's top 218 celebrities reposted official political messages at least once
+
+**Primary sources**: [CNN](https://edition.cnn.com/2024/06/03/); [The Diplomat](https://thediplomat.com/2019/12/star-wars-how-taiwans-celebrities-became-pawns/)
+
+---
+
+### [24] Hollywood Self-Censorship (2020)
+
+**Cited claim**: PEN America report documented systematic Hollywood self-censorship patterns.
+
+- **Report**: PEN America. (2020-09). *Made in Hollywood, Censored by Beijing*
+- **Cases**: Original *Top Gun: Maverick* trailer removed Taiwan and Japan flags (Tencent was co-investor); *Doctor Strange* screenwriter admitted changing a character's ethnicity to avoid angering China
+- **Note**: The theatrical release of *Top Gun: Maverick* ultimately restored the flags (after Tencent withdrew investment)
+
+**Primary sources**: [PEN America](https://pen.org/report/made-in-hollywood-censored-by-beijing/); [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/hollywood-self-censorship-china-report-1310078/)
+
+---
+
+### [25] South Korea THAAD Retaliation (2017–2025)
+
+**Cited claim**: China banned Korean cultural exports; estimated losses of 22 trillion KRW (approx. US$15.3 billion) over approximately eight years.
+
+- **Trigger**: South Korea's 2017 deployment of THAAD (Terminal High Altitude Area Defense)
+- **Measures**: 42 celebrities barred, K-pop concerts cancelled, content removed from streaming platforms
+- **Estimated losses**: 22 trillion KRW (approximately US$15.3 billion)
+- **Duration**: Approximately 2017–2025; some restrictions remain in effect
+
+**Primary sources**: [The Diplomat](https://thediplomat.com/2024/04/when-china-banned-korean-boy-bands/); [Korea Economic Institute of America](https://keia.org/)
 
 ---
 
