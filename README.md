@@ -40,22 +40,35 @@ The goal is to help readers understand the mechanics of this operational system 
 
 ## 內容大綱 / Outline
 
+**第一部：作戰機器 / Part I: The War Machine**
+
 1. **指揮架構** — 黨、軍、企、灰的四層嵌套 / Command Structure — Four-layer nesting
 2. **人力引擎** — 網評員體系與監獄網路勞動 / Human Engine — Internet commentators & prison cyber labor
 3. **帳號工廠** — 手機號碼供應鏈與東南亞節點 / Account Factories — Phone number supply chains
 4. **自動化系統** — Bot 網路、LLM 生成內容、平台演算法操縱 / Automation — Botnets, AI-generated content, platform algorithm manipulation
 5. **VPN 跳板** — 地理偽裝技術 / VPN Proxies — Geographic spoofing
+
+**第二部：滲透管道 / Part II: Infiltration Channels**
+
 6. **社群平台滲透** — Facebook、TikTok、小紅書與跨平台操作 / Social Platform Infiltration — Facebook, TikTok, Xiaohongshu & cross-platform operations
 7. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
-8. **資金滲透** — 廣告收入、企業投資、基層經濟依賴 / Capital Infiltration — Advertising revenue, corporate investment, grassroots economic dependency
-9. **體育與演藝界施壓** — 跨國脅迫、市場武器化、自我審查製造 / Sports & Entertainment Pressure — Transnational coercion, market weaponization, manufacturing self-censorship
-10. **KOL 收買** — 全光譜滲透（政論名嘴、政治、財經、軍武分析、旅遊、科技、娛樂、教育、親子、宗教）/ KOL Co-optation — Full-spectrum infiltration (TV pundits, politics, finance, military/defense, travel, tech, entertainment, education, parenting, religion)
-11. **收買官員與軍職人員** — 退休將領、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals, political appointees, civil servants, academia
-12. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
-13. **挑撥離間** — 系統性放大社會裂縫 / Sowing Discord — Amplifying social fractures
-14. **攻擊鏈整合** — 完整操作生命週期 / Attack Chain — Full operational lifecycle
-15. **防禦導向** — 如何降低認知作戰的有效性 / Defense Orientation — How to reduce the effectiveness of cognitive warfare
-16. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
+
+**第三部：槓桿與收編 / Part III: Leverage & Co-optation**
+
+8. **經濟槓桿與市場施壓** — 資金滲透、體育與演藝界跨國脅迫 / Economic Leverage & Market Pressure — Capital infiltration, sports & entertainment transnational coercion
+9. **KOL 收買** — 全光譜滲透 / KOL Co-optation — Full-spectrum infiltration
+10. **收買官員與軍職人員** — 退休將領、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals, political appointees, civil servants, academia
+11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
+
+**第四部：效果與整合 / Part IV: Effects & Integration**
+
+12. **挑撥離間** — 系統性放大社會裂縫 / Sowing Discord — Amplifying social fractures
+13. **攻擊鏈整合** — 完整操作生命週期 / Attack Chain — Full operational lifecycle
+
+**第五部：防禦 / Part V: Defense**
+
+14. **防禦導向** — 如何降低認知作戰的有效性 / Defense Orientation — How to reduce the effectiveness of cognitive warfare
+15. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
 
 ## 數據驗證 / Data Verification
 
@@ -65,8 +78,8 @@ All citations in the document have been individually fact-checked by cross-refer
 
 | 驗證報告 | 說明 |
 |----------|------|
-| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 16 條引用逐條核實 |
-| [docs/verification/en.md](docs/verification/en.md) | English report — 16 citations verified line by line |
+| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 25 條引用逐條核實 |
+| [docs/verification/en.md](docs/verification/en.md) | English report — 25 citations verified line by line |
 
 ## 引用研究 / Referenced Research
 

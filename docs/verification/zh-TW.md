@@ -25,6 +25,15 @@
 | [14] 選舉干預統計 | ✅ 正確 | 77 案 / 157 人（12 月）→ 117 案 / 287 人（選前）已確認 |
 | [15] Brookings (2024) | ✅ 正確 | 正確標題與作者已確認 |
 | [16] Stanford IO (2020) | ✅ 正確 | DiResta 等 5 位作者、SIO + Hoover 聯合出版已確認 |
+| [17] NBA / 莫雷事件 (2019) | ✅ 正確 | ESPN / NPR / CNBC 報導及 Wang (2020) 學術論文已確認 |
+| [18] 彭帥事件 (2021) | ✅ 正確 | NPR 報導 WTA 暫停中國賽事及 PBS 報導 2023 年復賽已確認 |
+| [19] IOC / 中華台北框架 | ✅ 正確 | Amnesty International 及 Human Rights Watch 報告已確認 |
+| [20] Blitzchung / 暴雪事件 (2019) | ✅ 正確 | Variety 及 TIME 報導已確認 |
+| [21] 周子瑜事件 (2016) | ✅ 正確 | Ahn & Lin (2019) 學術論文及 Quartz 報導已確認 |
+| [22] John Cena 道歉 (2021) | ✅ 正確 | NBC News 及 Bloomberg 報導已確認 |
+| [23] 台灣藝人表態壓力 | ✅ 正確 | CNN、The Diplomat 及 University of Richmond 研究已確認 |
+| [24] 好萊塢自我審查 (2020) | ✅ 正確 | PEN America 報告及 Hollywood Reporter 報導已確認 |
+| [25] 韓國 THAAD 報復 (2017–2025) | ✅ 正確 | The Diplomat 及 Korea Economic Institute 研究已確認 |
 
 ---
 
@@ -211,6 +220,114 @@
 - **出版者**：Stanford Internet Observatory 與 Hoover Institution 聯合出版，2020 年
 
 **原始來源**：[Stanford Cyber Policy Center](https://cyber.fsi.stanford.edu/io/publication/telling-chinas-story)；[Stanford Digital Repository](https://purl.stanford.edu/pf306sw8941)
+
+---
+
+### [17] NBA / 莫雷事件 (2019)
+
+**引用內容**：莫雷發推支持香港後，央視與騰訊暫停轉播，NBA 損失估達數億美元。
+
+- **事件**：2019 年 10 月 4 日，休士頓火箭隊總經理 Daryl Morey 發推文「Fight for Freedom, Stand with Hong Kong」
+- **後果**：央視與騰訊暫停轉播、11 家中國合作夥伴中止合作
+- **ESPN 備忘錄**：Freedom House (2022) *Beijing's Global Media Influence* 記錄 ESPN 內部指示員工避免討論中國/香港政治議題
+- **學術來源**：Wang, Y. (2020). "Sports in the Transnational Public Sphere." *The International Journal of the History of Sport*, 37(12)
+
+**原始來源**：[ESPN](https://www.espn.com/nba/story/_/id/27792480/); [NPR](https://www.npr.org/2019/10/08/768334783)
+
+---
+
+### [18] 彭帥事件 (2021)
+
+**引用內容**：WTA 暫停所有中國賽事，IOC 選擇「安靜外交」。
+
+- **事件**：2021 年 11 月 2 日，彭帥在微博指控前副總理張高麗性侵，貼文 30 分鐘內被刪
+- **WTA 回應**：2021 年 12 月 1 日，WTA 宣布暫停所有中國及香港賽事
+- **復賽**：2023 年 WTA 重返中國，未獲獨立安全驗證
+
+**原始來源**：[NPR](https://www.npr.org/2021/12/02/1061032399/); [PBS](https://www.pbs.org/newshour/show/wta-returns-to-china)
+
+---
+
+### [19] IOC / 中華台北框架
+
+**引用內容**：自 1981 年起 IOC 強制台灣以「Chinese Taipei」參賽。
+
+- **歷史**：1981 年洛桑協議，台灣以「Chinese Taipei」名義參加奧運，禁用國旗國歌
+- **持續時間**：超過 40 年
+
+**原始來源**：[Amnesty International](https://www.amnesty.org/en/latest/news/2008/07/); [Human Rights Watch](https://www.hrw.org/news/2021/02/11/)
+
+---
+
+### [20] Blitzchung / 暴雪事件 (2019)
+
+**引用內容**：香港選手在台灣舉辦的比賽中喊出「光復香港」後遭暴雪禁賽。
+
+- **事件**：2019 年 10 月，Blitzchung 在台灣舉辦的《爐石戰記》大師賽賽後訪談喊出「光復香港，時代革命」
+- **處分**：暴雪禁賽一年、沒收獎金、解僱兩名台灣播報員
+- **後續**：暴雪在輿論壓力下將禁賽縮短至六個月並歸還獎金
+
+**原始來源**：[Variety](https://variety.com/2019/gaming/news/blizzard-bans-hearthstone-player-blitzchung-1203369390/); [TIME](https://time.com/5702971/blizzard-esports-hearthstone-hong-kong-protests-blitzchung-china/)
+
+---
+
+### [21] 周子瑜事件 (2016)
+
+**引用內容**：16 歲台灣籍 TWICE 成員周子瑜因拿國旗被迫道歉，影響約 134 萬名年輕選民。
+
+- **學術來源**：Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*. SAGE Journals
+- **事件日期**：2016 年 1 月 15 日（台灣總統大選前夕）
+- **JYP 股價影響**：暴跌近 10%
+
+**原始來源**：[Quartz](https://qz.com/597400/); [SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/1748048518802947)
+
+---
+
+### [22] John Cena 道歉事件 (2021)
+
+**引用內容**：Cena 在台灣宣傳中稱「台灣是國家」後以中文道歉。
+
+- **事件**：2021 年 5 月，Cena 在《乃9》(Fast & Furious 9) 宣傳中稱台灣為「the first country that can watch F9」
+- **道歉**：在微博以流利中文發布道歉，未提及台灣，僅稱「I made a mistake」
+
+**原始來源**：[NBC News](https://www.nbcnews.com/news/world/john-cena-apologizes-chinese-audience-after-calling-taiwan-country-n1268600); [Bloomberg](https://www.bloomberg.com/news/articles/2021-05-25/)
+
+---
+
+### [23] 台灣藝人系統性表態壓力
+
+**引用內容**：2024 年超過 70 位藝人轉發央視「台獨是死路一條」聲明。
+
+- **2019 年國慶事件**：42 位一線藝人祝賀中華人民共和國國慶卻對中華民國國慶沉默
+- **2024 年事件**：超過 70 位藝人轉發央視聲明；未轉發者（如田馥甄）遭點名
+- **學術來源**：University of Richmond Political Science Faculty Publications 研究發現中國前 218 位名人中 85% 至少轉發過一次官方政治訊息
+
+**原始來源**：[CNN](https://edition.cnn.com/2024/06/03/); [The Diplomat](https://thediplomat.com/2019/12/star-wars-how-taiwans-celebrities-became-pawns/)
+
+---
+
+### [24] 好萊塢自我審查 (2020)
+
+**引用內容**：PEN America 報告記錄好萊塢系統性自我審查模式。
+
+- **報告**：PEN America. (2020-09). *Made in Hollywood, Censored by Beijing*
+- **案例**：《乃乃乃凡》(Top Gun: Maverick) 原始預告移除台灣與日本國旗（騰訊為投資方）；《奇異博士》(Doctor Strange) 編劇承認為避免激怒中國而改角色族裔
+- **備註**：《乃乃乃凡》正式上映版本最終恢復了國旗（騰訊退出投資後）
+
+**原始來源**：[PEN America](https://pen.org/report/made-in-hollywood-censored-by-beijing/); [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/hollywood-self-censorship-china-report-1310078/)
+
+---
+
+### [25] 韓國 THAAD 報復 (2017–2025)
+
+**引用內容**：中國封殺韓流，估計損失 22 兆韓元（約 153 億美元），禁令持續約八年。
+
+- **起因**：2017 年韓國部署 THAAD（終端高空區域防禦）系統
+- **措施**：42 名藝人被禁、K-pop 演唱會取消、內容從串流平台下架
+- **損失估計**：22 兆韓元（約 US$153 億）
+- **持續時間**：約 2017–2025，部分限制至今仍在
+
+**原始來源**：[The Diplomat](https://thediplomat.com/2024/04/when-china-banned-korean-boy-bands/); [Korea Economic Institute of America](https://keia.org/)
 
 ---
 
