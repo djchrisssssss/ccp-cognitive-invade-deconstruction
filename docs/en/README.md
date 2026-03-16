@@ -172,6 +172,7 @@ Radio maintains high penetration among populations in central and southern Taiwa
 
 - **Content farm matrices**: Mass-creating seemingly independent news websites actually controlled by the same source. These sites cross-reference each other, occupying multiple positions in search engine results and creating the impression that "multiple outlets are reporting the same thing."
 - **YouTube news channels**: Creating YouTube channels disguised as independent news stations, packaging preset-stance news commentary as "third-party perspectives."
+- **News website comment section manipulation**: The comment sections of Taiwan's major news websites (Liberty Times Net, ETtoday, UDN, China Times Online, SET News, etc.) are the first point of contact where readers "sense public opinion." Manipulation methods include: flooding unified talking points in comments under sensitive news articles so readers entering the comment section immediately see an already-formed "mainstream opinion"; attacking journalists, questioning sources, and diverting attention under news unfavorable to operators; and amplifying favorable news through likes and positive comments. The unique danger of news comment sections lies in the fact that the **first "public opinion feedback" readers encounter after reading an article is the comment section** — it shapes not factual perception, but the social perception of "how everyone else sees this issue." When comment sections are systematically manipulated, readers mistake pre-deployed narrative frameworks for organic public sentiment.
 
 ---
 
@@ -213,6 +214,34 @@ On TikTok, operators build content accounts around lifestyle topics (food, trave
 Xiaohongshu's user culture strongly favors "authentic personal experience" posts. Operators create accounts posing as Taiwanese travelers, students studying in China, or cross-strait couples, sharing idealized cross-strait narratives. The platform's credibility norms make it an ideal vector for soft narrative insertion — content carries no explicit political messaging yet continuously builds positive sentiment.
 
 These platforms create **cascade effects**: Xiaohongshu lifestyle posts are screenshot-captured and shared in LINE groups; TikTok short videos are downloaded and re-uploaded to Facebook; viral posts from PTT's Gossiping board are cited by news media as "netizen perspectives"; Threads discussions are cited as "what young people think." A single narrative enters different generational information spheres through cross-platform transfer, making attribution and detection significantly harder. Discord servers and Telegram channels play a coordination hub role in this ecosystem — distributing operational instructions and content templates without directly facing the public.
+
+### 7.5 Comment Section Astroturfing: Cross-Platform Invisible Opinion Engineering
+
+Comment sections are the **most underestimated manipulation arena** across all platforms. Whether beneath YouTube videos, Facebook posts, news website articles, PTT push/boo threads, or Dcard comment chains, comment sections share one common trait: after consuming the main content, readers **immediately enter the comment section to find out "what other people think"** — this social validation need makes comment sections a critical battleground for shaping perception.
+
+Operators' comment section manipulation constitutes a systematic "astroturfing" operation:
+
+**YouTube comment sections.** YouTube is Taiwan's most-used video platform, and comment sections under political commentary, news, and current affairs channels are significant arenas for political discussion. Manipulation methods include:
+
+- **Early occupation of comment positions**: Within a short window after a video is uploaded, multiple accounts flood the comment section with pre-set talking points. YouTube defaults to "Top Comments" sorting, so early high-engagement comments occupy top positions permanently, becoming the "first impression" for all subsequent viewers.
+- **Like/dislike manipulation**: Concentrating likes on comments aligned with operators' positions to push them up, and concentrating dislikes on opposing comments to fold or bury them. Viewers see "high-like comments = mainstream opinion" — an illusion.
+- **Comment thread steering**: Beneath popular comments, several accounts role-play different personas in replies (questioner, supporter, "data provider"), manufacturing the appearance of organic, multi-faceted consensus.
+- **Attacking non-compliant creators**: For YouTubers who publish content unfavorable to operators, comment sections are flooded with personal attacks, smears, or harassment — the goal is not only to influence viewers, but to **make creators self-censor their future content direction**.
+
+**Facebook comment sections.** Facebook comment sections are attached to both page posts and shared news links. Manipulation methods parallel YouTube's but have platform-specific features:
+
+- **Instant opinion steering under news links**: When news links are shared on Facebook, the comment section becomes a simulated "real-time public opinion feedback" space. Operator accounts rapidly flood unified talking points, creating the illusion that "everyone thinks this way."
+- **Emoji reaction manipulation**: Facebook's "Haha," "Angry," and "Sad" reaction buttons provide low-cost emotional signal manipulation — concentrating "Angry" reactions on government policy news, and "Like" reactions on pro-Beijing narratives, shapes the emotional atmosphere without leaving any text.
+- **Comment section "battlefieldization"**: Under controversial posts, operator accounts simultaneously play radical and "rational centrist" roles — radical accounts launch attacks, "centrist" accounts step in to "mediate" and guide conclusions, and real users are unknowingly steered toward preset positions.
+
+**The systematic logic of astroturfing.** Comment section manipulation is one of the most cost-effective tools in cognitive warfare because of its unique psychological mechanisms:
+
+1. **Bandwagon Effect**: Humans naturally tend to "stand with the majority." When a comment section presents an overwhelming single narrative, even readers who originally held different views tend to doubt their own judgment, stay silent, or gradually accept the "majority opinion."
+2. **Spiral of Silence**: Those holding minority views perceive themselves as "the minority" and choose not to speak, causing the comment section's surface consensus to further solidify, while genuine diverse opinions are suppressed.
+3. **Anchoring Effect**: The first few comments readers see upon entering a comment section become the "anchor" for their subsequent judgment. The tactical value of occupying early comment positions lies here — it sets the framework for the entire discussion.
+4. **Social Proof**: High-like comments are instinctively perceived by readers as "validated viewpoints," even when the like counts themselves are manipulated.
+
+The precision of this mechanism lies in the fact that **those affected are nearly incapable of recognizing they are being manipulated**. They have not seen fake news, they have not been tricked into clicking malicious links — they simply "read the comments and felt that everyone thinks this way." And this is precisely the highest-order effect that cognitive warfare seeks: not to change the facts, but to change your perception of "how other people see the facts."
 
 ---
 
