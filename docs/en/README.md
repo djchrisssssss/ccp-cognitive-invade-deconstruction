@@ -172,7 +172,7 @@ Radio maintains high penetration among populations in central and southern Taiwa
 
 - **Content farm matrices**: Mass-creating seemingly independent news websites actually controlled by the same source. These sites cross-reference each other, occupying multiple positions in search engine results and creating the impression that "multiple outlets are reporting the same thing."
 - **YouTube news channels**: Creating YouTube channels disguised as independent news stations, packaging preset-stance news commentary as "third-party perspectives."
-- **News website comment section manipulation**: The comment sections of Taiwan's major news websites (Liberty Times Net, ETtoday, UDN, China Times Online, SET News, etc.) are the first point of contact where readers "sense public opinion." Manipulation methods include: flooding unified talking points in comments under sensitive news articles so readers entering the comment section immediately see an already-formed "mainstream opinion"; attacking journalists, questioning sources, and diverting attention under news unfavorable to operators; and amplifying favorable news through likes and positive comments. The unique danger of news comment sections lies in the fact that the **first "public opinion feedback" readers encounter after reading an article is the comment section** — it shapes not factual perception, but the social perception of "how everyone else sees this issue." When comment sections are systematically manipulated, readers mistake pre-deployed narrative frameworks for organic public sentiment.
+- **Comment section manipulation**: News website comment sections are also a key astroturfing arena; see Section 7.5 for cross-platform comment manipulation analysis.
 
 ---
 
@@ -220,6 +220,8 @@ These platforms create **cascade effects**: Xiaohongshu lifestyle posts are scre
 Comment sections are the **most underestimated manipulation arena** across all platforms. Whether beneath YouTube videos, Facebook posts, news website articles, PTT push/boo threads, or Dcard comment chains, comment sections share one common trait: after consuming the main content, readers **immediately enter the comment section to find out "what other people think"** — this social validation need makes comment sections a critical battleground for shaping perception.
 
 Operators' comment section manipulation constitutes a systematic "astroturfing" operation:
+
+**News website comment sections.** The comment sections of Taiwan's major news websites (Liberty Times Net, ETtoday, UDN, China Times Online, SET News, etc.) are the first point of contact where readers "sense public opinion." Manipulation methods include: flooding unified talking points in comments under sensitive news articles so readers entering the comment section immediately see an already-formed "mainstream opinion"; attacking journalists, questioning sources, and diverting attention under news unfavorable to operators; and amplifying favorable news through likes and positive comments. The unique danger of news comment sections lies in the fact that the **first "public opinion feedback" readers encounter after reading an article is the comment section** — it shapes not factual perception, but the social perception of "how everyone else sees this issue."
 
 **YouTube comment sections.** YouTube is Taiwan's most-used video platform, and comment sections under political commentary, news, and current affairs channels are significant arenas for political discussion. Manipulation methods include:
 
