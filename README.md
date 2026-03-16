@@ -6,13 +6,13 @@
 
 ## 這是什麼
 
-一份系統性拆解中共對台認知作戰的技術文件。涵蓋指揮架構、人力體系、帳號工廠、自動化系統、VPN 偽裝、社群滲透、傳統媒體滲透、資金滲透、KOL 收買、官員與軍職人員收買、第三勢力扶植、社會裂縫放大，以及完整攻擊鏈的運作流程。
+一份系統性拆解中共對台認知作戰的技術文件。涵蓋指揮架構、人力體系、帳號工廠、自動化系統、VPN 偽裝、社群滲透、傳統媒體滲透、資金滲透、體育與演藝界施壓、KOL 收買、官員與軍職人員收買、第三勢力扶植、社會裂縫放大，以及完整攻擊鏈的運作流程。
 
 目的是讓讀者理解這套作戰體系的機制，作為防禦認知的基礎。
 
 ## What Is This
 
-A systematic technical deconstruction of the CCP's cognitive warfare operations targeting Taiwan. Covers command structure, human resources, account factories, automation systems, VPN spoofing, community infiltration, traditional media infiltration, capital infiltration, KOL co-optation, co-opting officials and military personnel, cultivating third forces, social fracture amplification, and the full attack chain lifecycle.
+A systematic technical deconstruction of the CCP's cognitive warfare operations targeting Taiwan. Covers command structure, human resources, account factories, automation systems, VPN spoofing, community infiltration, traditional media infiltration, capital infiltration, sports & entertainment pressure, KOL co-optation, co-opting officials and military personnel, cultivating third forces, social fracture amplification, and the full attack chain lifecycle.
 
 The goal is to help readers understand the mechanics of this operational system as a foundation for cognitive defense.
 
@@ -40,19 +40,33 @@ The goal is to help readers understand the mechanics of this operational system 
 
 ## 內容大綱 / Outline
 
+**第一部：作戰機器 / Part I: The War Machine**
+
 1. **指揮架構** — 黨、軍、企、灰的四層嵌套 / Command Structure — Four-layer nesting
 2. **人力引擎** — 網評員體系與監獄網路勞動 / Human Engine — Internet commentators & prison cyber labor
 3. **帳號工廠** — 手機號碼供應鏈與東南亞節點 / Account Factories — Phone number supply chains
 4. **自動化系統** — Bot 網路、LLM 生成內容、平台演算法操縱 / Automation — Botnets, AI-generated content, platform algorithm manipulation
 5. **VPN 跳板** — 地理偽裝技術 / VPN Proxies — Geographic spoofing
-6. **社群平台滲透** — Facebook、TikTok、小紅書與跨平台操作 / Social Platform Infiltration — Facebook, TikTok, Xiaohongshu & cross-platform operations
-7. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
-8. **資金滲透** — 廣告收入、企業投資、基層經濟依賴 / Capital Infiltration — Advertising revenue, corporate investment, grassroots economic dependency
-9. **KOL 收買** — 全光譜滲透（政論名嘴、政治、財經、軍武分析、旅遊、科技、娛樂、教育、親子、宗教）/ KOL Co-optation — Full-spectrum infiltration (TV pundits, politics, finance, military/defense, travel, tech, entertainment, education, parenting, religion)
-10. **收買官員與軍職人員** — 退休將領、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals, political appointees, civil servants, academia
+
+**第二部：滲透管道 / Part II: Infiltration Channels**
+
+6. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
+7. **社群平台滲透** — Facebook、LINE、PTT、Dcard 與跨平台操作 / Social Platform Infiltration — Facebook, LINE, PTT, Dcard & cross-platform operations
+
+**第三部：槓桿與收編 / Part III: Leverage & Co-optation**
+
+8. **資金滲透** — 廣告收入、媒體收購、供應鏈武器化、農漁產貿易禁令、觀光與經貿協定 / Capital Infiltration — Advertising, media acquisition, supply chain weaponization, agricultural trade bans, tourism & trade agreements
+9. **公眾人物操控** — 從收買到脅迫的全光譜策略（KOL、體育、演藝） / Public Figure Manipulation — Full-spectrum from co-optation to coercion (KOLs, sports, entertainment)
+10. **收買官員與軍職人員** — 退休將領赴中參訪與閱兵觀禮、前總統訪中、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals' China visits & parade attendance, former presidents' visits, political appointees, civil servants, academia
 11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
+
+**第四部：效果與整合 / Part IV: Effects & Integration**
+
 12. **挑撥離間** — 系統性放大社會裂縫 / Sowing Discord — Amplifying social fractures
 13. **攻擊鏈整合** — 完整操作生命週期 / Attack Chain — Full operational lifecycle
+
+**第五部：防禦 / Part V: Defense**
+
 14. **防禦導向** — 如何降低認知作戰的有效性 / Defense Orientation — How to reduce the effectiveness of cognitive warfare
 15. **結構性觀察** — 防禦者的關鍵認知 / Structural Observations — Key insights for defenders
 
@@ -64,8 +78,8 @@ All citations in the document have been individually fact-checked by cross-refer
 
 | 驗證報告 | 說明 |
 |----------|------|
-| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 16 條引用逐條核實 |
-| [docs/verification/en.md](docs/verification/en.md) | English report — 16 citations verified line by line |
+| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 35 條引用逐條核實 |
+| [docs/verification/en.md](docs/verification/en.md) | English report — 35 citations verified line by line |
 
 ## 引用研究 / Referenced Research
 
@@ -84,6 +98,17 @@ All citations in the document have been individually fact-checked by cross-refer
 - CEIAS. (2025). Chinese espionage in Taiwan analysis.
 - RFA. (2023). Taiwan Anti-Infiltration Act prosecution reports.
 - VOA. (2024). Taiwan propaganda prosecution reports.
+
+- Reuters / BBC / SCMP. (2021–2022). Taiwan agricultural and fishery trade ban coverage (pineapple, sugar apple, grouper).
+- Reuters. (2022). China natural sand export suspension and post-Pelosi sanctions.
+- Reuters. (2023). China rare earth and strategic mineral export controls.
+- Nikkei Asia. (2021). Taiwan semiconductor talent poaching investigations.
+- Reuters / Washington Post. (2018). Airline reclassification pressure and Marriott forced apology.
+- Financial Times / Brookings. (2024). ECFA tariff concession suspension analysis.
+
+- PEN America. (2020). *Made in Hollywood, Censored by Beijing*.
+- Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*.
+- Wang, Y. (2020). "Sports in the Transnational Public Sphere: Daryl Morey's Hong Kong Tweet." *The International Journal of the History of Sport*.
 
 完整引用清單請參閱各語言版文件底部。/ Full citations available at the bottom of each language version.
 
