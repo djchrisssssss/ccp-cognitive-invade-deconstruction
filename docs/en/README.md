@@ -225,13 +225,83 @@ Freedom House's 2022 report *Beijing's Global Media Influence* — Taiwan chapte
 
 ---
 
-## IX. KOL Co-optation: Full-Spectrum Infiltration Strategy
+## IX. Sports & Entertainment Pressure: Transnational Coercion and the Manufacturing of Self-Censorship
 
-### 9.1 Why KOLs Are High-Value Targets
+### 9.1 The Strategic Logic of Pressure
+
+Sports stars and entertainers are among the most transnationally influential individuals in modern society. A single public statement by an NBA player, a Hollywood actor, or a K-pop idol can reach tens of millions to hundreds of millions of people. For this reason, the CCP treats these figures as **high-leverage targets** — not for direct co-optation, but for **creating punitive precedents** that compel all public figures to self-silence on Taiwan, Tibet, Hong Kong, Xinjiang, and related topics.
+
+The core mechanism of this pressure system is the **weaponization of market access**. China possesses one of the world's largest box office markets, hundreds of millions of sports viewers, and massive music and gaming consumer markets. Any enterprise or individual dependent on the Chinese market must choose between "freedom of expression" and "revenue source." The operator's strategic objective is not to win every conflict, but to make **self-censorship the default behavior**.
+
+### 9.2 Sports: Systematic Pressure from the NBA to the Olympics
+
+**NBA / Morey Incident (2019).** In October 2019, Houston Rockets General Manager Daryl Morey tweeted in support of Hong Kong's democracy movement. China Central Television (CCTV) and Tencent immediately suspended all Rockets broadcasts, and all 11 of the NBA's official Chinese partners severed ties. The NBA's estimated losses reached hundreds of millions of dollars. Notably, the NBA's initial statement in Mandarin carried a more apologetic tone than the English version; an internal ESPN memo was revealed to have instructed staff to avoid discussing China/Hong Kong political topics [17]. The chilling effect extended across the entire sports industry — virtually no mainstream sports figure has publicly spoken on Chinese human rights issues since.
+
+**Peng Shuai Incident (2021).** After Chinese tennis player Peng Shuai posted on Weibo accusing former Vice Premier Zhang Gaoli of sexual assault, her post was deleted within 30 minutes and she disappeared from public view. The WTA (Women's Tennis Association) suspended all tournaments in China, estimated to cost hundreds of millions of dollars — a rare principled stand by an international sports body. However, the International Olympic Committee (IOC) chose "quiet diplomacy" — arranging video calls and facilitating controlled public appearances at the 2022 Beijing Winter Olympics. The WTA ultimately returned to the Chinese market in 2023 without obtaining independent verification of Peng's safety. As of 2025, Peng Shuai's condition remains independently unconfirmed [18]. This case sent a clear deterrent message to all athletes within the system: even internationally famous athletes can be silenced.
+
+**The "Chinese Taipei" Framework.** Since 1981, the IOC has forced Taiwan to compete under the name "Chinese Taipei," with its national flag and anthem banned from all Olympic venues. This is one of the longest-running identity erasure mechanisms in existence. Every Olympic broadcast displaying "Chinese Taipei" reinforces the framing to billions of global viewers that Taiwan is not a sovereign nation. The IOC defends this arrangement in the name of "political neutrality," but that "neutrality" is itself a political position that serves Beijing [19].
+
+**Blitzchung / Blizzard Incident (2019).** In October 2019, Hong Kong player Ng Wai Chung ("Blitzchung") shouted "Liberate Hong Kong, revolution of our times" during a Hearthstone Grandmasters stream hosted **in Taiwan**. Blizzard Entertainment immediately imposed a one-year ban, confiscated $10,000 in prize money, and fired two **Taiwanese** casters who were conducting the interview. Blizzard's Chinese partner NetEase promptly issued a condemnation on Weibo. This case demonstrates that even passive bystanders — Taiwanese media workers — face punishment for others' political expression [20].
+
+### 9.3 Entertainment: The Coercion Spectrum from Hollywood to Taiwanese Artists
+
+**Chou Tzuyu Incident (2016).** Sixteen-year-old Taiwanese member of K-pop group TWICE, Chou Tzuyu, held a Republic of China flag during a variety show. Pro-unification Taiwanese entertainer Huang An reported her on Weibo, triggering a wave of Chinese nationalism: Huawei pulled its endorsement deal, and JYP Entertainment's stock plunged nearly 10%. On January 15, 2016 — the night before Taiwan's general election — JYP released an apology video: Chou Tzuyu in a black sweater, tearfully reading "There is only one China." Netizens compared the video to a hostage tape. Taiwanese academic surveys showed the video influenced the voting decisions of approximately 1.34 million young voters [21].
+
+**John Cena Apology Incident (2021).** Professional wrestler and actor John Cena, during promotional interviews for *Fast & Furious 9* in Taiwan, told TVBS that "Taiwan is the first country that can watch F9." Weibo nationalist backlash erupted immediately. Days later, Cena posted a video on Weibo in fluent Mandarin: "I made a mistake. I love China, I respect the Chinese people. I'm very, very sorry." He never specified what the "mistake" was, nor mentioned Taiwan. Even so, the most-liked Chinese netizen comment (8,000+ likes) demanded he explicitly state "Taiwan is part of China." For global audiences, the video delivered a clear signal: merely referring to Taiwan as a "country" is sufficient to trigger a public humiliation ritual [22].
+
+**Systematic Loyalty Pressure on Taiwanese Entertainers.** This is not a single incident but a continuously operating systemic pattern:
+
+- **2000**: A-mei (Chang Hui-mei) was completely banned from China after singing at President Chen Shui-bian's inauguration.
+- **2019 PRC National Day**: 42 top Taiwanese entertainers publicly congratulated the People's Republic of China while remaining silent on the ROC's National Day.
+- **August 2022 Pelosi visit**: A wave of Taiwan-born entertainers rushed to repost CCTV's "There is only one China" graphic on Weibo.
+- **May 2024**: Over 70 Taiwanese artists — including Patty Hou, Ouyang Nana, and Dee Hsu — reposted CCTV's statement that Taiwan independence is "a dead end." Artists who did **not** repost (such as Hebe Tien, with 13 million followers) were publicly called out for their silence.
+
+Since 2014, China's State Administration of Press, Publication, Radio, Film and Television has explicitly required broadcast platforms to block "tainted artists," including those guilty of "political incorrectness" — defined as supporting Hong Kong or Taiwan independence. Academic research found that 85% of the top 218 celebrities in China reposted official government messages on their social media at least once during the second half of 2021 [23].
+
+**Hollywood's Preemptive Self-Censorship.** PEN America's 2020 report *Made in Hollywood, Censored by Beijing* systematically documented the Hollywood industry's self-censorship patterns: the original *Top Gun: Maverick* trailer removed the Taiwan and Japan flags from Tom Cruise's flight jacket (Tencent was a co-investor); the *Doctor Strange* screenwriter publicly admitted changing a character from Tibetan to Celtic to avoid angering China; *World War Z* removed dialogue about the virus originating in China; *Red Dawn* spent approximately $1 million in post-production to change the invaders from Chinese to North Korean. "Hollywood is increasingly normalizing preemptive self-censorship" — Tibet, Taiwan, Hong Kong, Xinjiang, and LGBTQ topics are systematically avoided [24].
+
+### 9.4 South Korea THAAD Retaliation: Cultural Industry as Punishment Tool
+
+After South Korea deployed the U.S. THAAD missile defense system in 2017, China imposed a comprehensive ban on Korean cultural exports — despite officially denying its existence. Forty-two Korean celebrities were banned from Chinese media, all K-pop concerts exceeding 10,000 seats were cancelled, and Korean content was removed from streaming platforms. The KDB Future Strategy Research Institute estimated that related industry losses in 2017 reached **22 trillion KRW (approximately US$15.3 billion)**. SM Entertainment's stock fell 18%, and YG Entertainment's fell 32%.
+
+The ban lasted approximately eight years (2017–2025), only gradually lifting as China's diplomatic strategy shifted from "Wolf Warrior Diplomacy" to "Smile Diplomacy" [25]. This case demonstrates the CCP's willingness to deploy comprehensive cultural and economic warfare against any country that deepens security cooperation with the U.S. or Taiwan. The eight-year duration proves this is not a momentary impulse but sustained strategic punishment.
+
+### 9.5 Taxonomy of Pressure Mechanisms
+
+Synthesizing the cases above, CCP pressure mechanisms deployed across sports and entertainment can be classified as follows:
+
+| Mechanism | How It Operates | Representative Cases |
+|---|---|---|
+| Market access denial | Threatening or actually blocking products/broadcasts from the Chinese market | NBA broadcast ban, THAAD Hallyu ban |
+| Financial punishment | Causing direct financial losses to compel compliance | NBA losses of hundreds of millions, JYP stock crash |
+| Nationalist mobilization | Weaponizing online nationalism to pressure individuals | Chou Tzuyu, John Cena, Peng Shuai |
+| Preemptive self-censorship | Companies preemptively self-censoring to protect market access | Hollywood script changes, ESPN internal memo |
+| Forced loyalty statements | Compelling public figures to issue political declarations | 70+ Taiwanese artists reposting CCTV, Ouyang Nana |
+| Identity erasure | Systematically removing Taiwan's symbols and references | "Chinese Taipei," flag removals |
+| Hostage-style apology videos | Public humiliation rituals to deter others | Chou Tzuyu apology video, John Cena Weibo video |
+| Institutional co-optation | Enlisting international organizations to enforce CCP framing | IOC "Chinese Taipei" formula, IOC accommodation of Peng Shuai |
+| Disappearance / silencing | Making individuals vanish from public life | Peng Shuai |
+| Bystander punishment | Punishing uninvolved parties adjacent to "offenders" | Two Taiwanese casters fired in Blitzchung case |
+
+### 9.6 Structural Significance for Taiwan Cognitive Warfare
+
+This pressure system serves three functions in cognitive warfare against Taiwan:
+
+**First, global-level identity erasure.** When Hollywood films remove the Taiwan flag, international sports bodies mandate "Chinese Taipei," and global celebrities dare not call Taiwan a "country," billions of viewers receive the message that Taiwan's status is "politically sensitive" rather than simply factual. This pushes Taiwan's international identity from normalization toward taboo.
+
+**Second, internal erosion of domestic identity.** When Taiwan's most beloved cultural icons are forced to publicly declare "I am Chinese" or "Taiwan independence is a dead end," it produces profound psychological effects on Taiwanese society. These are not anonymous accounts but trusted figures — their statements normalize the CCP's political narrative and erode national identity from the inside. Taiwan's Mainland Affairs Council has explicitly described this as the CCP "extending its ideological work into the arts."
+
+**Third, establishing a global chilling effect.** Every successful punitive precedent — whether the NBA's hundreds of millions in losses, John Cena's apology video, or South Korea's eight-year cultural ban — reinforces the same signal: the cost of challenging the CCP's position is extremely high. This ensures that **preemptive silence** becomes the default behavior for global corporations and public figures, progressively isolating Taiwan in the international opinion space.
+
+---
+
+## X. KOL Co-optation: Full-Spectrum Infiltration Strategy
+
+### 10.1 Why KOLs Are High-Value Targets
 
 A single KOL with 100,000 followers may achieve a per-post reach exceeding the combined output of 10,000 account farm accounts. KOL content is actively trusted by followers, and its spread follows "trust networks" rather than "noise flooding." The return on investment is extremely high.
 
-### 9.2 The Co-optation Spectrum — Hard to Soft
+### 10.2 The Co-optation Spectrum — Hard to Soft
 
 KOL co-optation spans a **continuous spectrum from hard acquisition to soft influence**:
 
@@ -247,7 +317,7 @@ KOL co-optation spans a **continuous spectrum from hard acquisition to soft infl
 - Social engagement manipulation: Arranging large numbers of accounts to give high engagement (likes, comments, shares) to specific types of content from target KOLs, using positive reinforcement to guide their content direction. KOLs may unconsciously gravitate toward specific narratives.
 - Algorithm manipulation: Boosting specific content visibility through coordinated engagement, indirectly rewarding content output that aligns with operator interests.
 
-### 9.3 KOL Category Coverage
+### 10.3 KOL Category Coverage
 
 Co-optation targets span **all domains**:
 
@@ -270,9 +340,9 @@ Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily 
 
 ---
 
-## X. Co-opting Officials & Military Personnel: Infiltration Within the System
+## XI. Co-opting Officials & Military Personnel: Infiltration Within the System
 
-### 10.1 Retired Military Officers & Generals
+### 11.1 Retired Military Officers & Generals
 
 Retired military officers carry professional credibility and media visibility. Operational methods:
 
@@ -282,22 +352,22 @@ Retired military officers carry professional credibility and media visibility. O
 
 Taiwan's espionage prosecutions have surged dramatically in recent years. According to data released by Taiwan's National Security Bureau in January 2025, the number of prosecuted cases rose from 5 in 2022 to 14 in 2023 and 15 in 2024; the number of individuals prosecuted rose from 10 in 2022 to 48 in 2023 and 64 in 2024, with approximately two-thirds involving active or retired military personnel [7][8][9].
 
-### 10.2 Active & Retired Government Officials and Civil Servants
+### 11.2 Active & Retired Government Officials and Civil Servants
 
 - **Retired officials as consultants**: Retired political appointees, diplomats, and intelligence officers are recruited as "consultants" or "independent directors" for Chinese companies at generous salaries. These arrangements create economic dependency during the post-retirement revolving door period, influencing their public statements and the direction in which they deploy their personal networks.
 - **Micro-infiltration of active civil servants**: Reaching active civil servants through non-political organizations such as hometown associations, alumni groups, and religious organizations to build personal relationships. Initially there are no explicit political demands; after long-term cultivation, small "favors" are gradually introduced — providing internal information, influencing administrative discretion, assisting with specific cases.
 - **Local representatives & neighborhood chiefs (li-zhang)**: Grassroots elected representatives and neighborhood chiefs hold pivotal positions in local communities. Through donations, favor exchanges, and election resource infusion, they become dissemination nodes for local public opinion.
 
-### 10.3 Academia & Think Tanks
+### 11.3 Academia & Think Tanks
 
 - **Academic cooperation programs**: Building long-term relationships with Taiwanese scholars through transnational academic cooperation, joint research programs, and conference invitations. The opacity of academic funding sources provides cover for infiltration.
 - **Think tank influence**: Sponsoring or funding think tank research with specific stances, turning "academic research" into a narrative tool in policy debates.
 
 ---
 
-## XI. Cultivating Third Forces: Political Manipulation Disguised as Neutrality
+## XII. Cultivating Third Forces: Political Manipulation Disguised as Neutrality
 
-### 11.1 Operational Logic
+### 12.1 Operational Logic
 
 Taiwan's political spectrum has long been dominated by two major camps (Blue and Green). Operators cultivate "third force" parties or political groups to break the existing balance, serving multiple strategic objectives:
 
@@ -305,7 +375,7 @@ Taiwan's political spectrum has long been dominated by two major camps (Blue and
 - **Illusion of neutrality**: Third forces campaign on platforms of "transcending Blue and Green," "rational neutrality," and "not taking sides," attracting voters disillusioned with both major parties. This "neutral" stance actually provides operators with greater narrative space — they can frame anti-CCP policies as "provocation" while packaging this as "rational pragmatism."
 - **Agenda-setting power**: Once third forces enter the legislature, they can exert leverage on key issues (defense budgets, foreign policy, cross-strait exchange legislation), using minority seats to influence majority decisions.
 
-### 11.2 Cultivation Methods
+### 12.2 Cultivation Methods
 
 - **Funding channels**: Injecting capital through multiple layers of local proxies, commercial investments, and political donations. Fund flows pass through multiple intermediaries, making them difficult to trace to the original source.
 - **Media exposure arrangement**: Using already-controlled media resources to give third force candidates disproportionate positive coverage and exposure opportunities.
@@ -314,7 +384,7 @@ Taiwan's political spectrum has long been dominated by two major camps (Blue and
 
 These operations have judicial precedent. In October 2023, Lin De-wang, founder of the Taiwan People's Communist Party, and others were indicted under the Anti-Infiltration Act for collaborating with China's Taiwan Affairs Office to interfere in Taiwan's elections [10]. In a separate case in 2024, couple Chang Meng-chung and Hung Wen-ting were indicted for receiving approximately NT$74 million (roughly US$2.32 million) over more than a decade to conduct radio and digital media propaganda [11].
 
-### 11.3 Long-Term Positioning
+### 12.3 Long-Term Positioning
 
 The value of third forces lies in **long-term positioning**. Even without achieving executive power in the short term, their critical minority status in the legislature is sufficient to:
 
@@ -327,13 +397,13 @@ The essence of the entire operation: the supporters of these political forces mo
 
 ---
 
-## XII. Sowing Discord: Systematically Amplifying Social Fractures
+## XIII. Sowing Discord: Systematically Amplifying Social Fractures
 
-### 12.1 Operational Principle
+### 13.1 Operational Principle
 
 The core objective of cognitive warfare is to **erode the target society's capacity for consensus formation**. The most efficient method: amplifying existing fractures.
 
-### 12.2 Operational Vectors
+### 13.2 Operational Vectors
 
 - **Unification vs. independence**: Simultaneously posting extreme rhetoric in both "pro-unification" and "pro-independence" communities, inflaming emotions on both sides, compressing the rational middle ground.
 - **Generational conflict**: Amplifying younger demographics' resentment toward older generations in youth communities, spreading negative narratives about younger generations in middle-aged and elderly communities.
@@ -344,13 +414,13 @@ The core objective of cognitive warfare is to **erode the target society's capac
 
 Taiwan's Information Operations Research Group (IORG) has systematically tracked Chinese information manipulation since 2019, documenting multiple case studies since the 2018 Kansai Airport incident. Their findings show that operational methods have evolved into "more diverse and more sophisticated" forms, and that "local collaborators" are key nodes in amplifying manipulated messages [12].
 
-### 12.3 Precision of Dual-Sided Operations
+### 13.3 Precision of Dual-Sided Operations
 
 The most threatening operation is **a single operations center simultaneously controlling extreme accounts on both opposing sides**. For example: Account A operated by the same team posts radical pro-unification rhetoric in pan-Blue communities, while Account B posts radical pro-independence rhetoric in pan-Green communities. The two sets of accounts screenshot and attack each other, manufacturing the impression that "society is experiencing extreme polarization." Real users are unknowingly swept into emotional spirals.
 
 ---
 
-## XIII. Attack Chain Integration: The Full Lifecycle of a Single Operation
+## XIV. Attack Chain Integration: The Full Lifecycle of a Single Operation
 
 Integrating the elements above, a typical cognitive warfare operation follows this flow:
 
@@ -369,25 +439,25 @@ The entire process can be completed from design to large-scale deployment within
 
 ---
 
-## XIV. Defense Orientation: How to Reduce the Effectiveness of Cognitive Warfare
+## XV. Defense Orientation: How to Reduce the Effectiveness of Cognitive Warfare
 
 Understanding the attack chain does not automatically create defensive capacity. The core of defense against cognitive warfare is not to "eliminate all falsehoods," but to **raise operating costs, slow dissemination, blunt emotional manipulation, and protect trusted nodes in society**. Effective defense has to happen simultaneously at the individual, community, media, platform, and institutional levels.
 
-### 14.1 Individual Level: Lower the Chance of Becoming a Relay Node
+### 15.1 Individual Level: Lower the Chance of Becoming a Relay Node
 
 - **Deliberately slow down high-emotion content.** Any content that triggers immediate anger, humiliation, panic, or despair should be paused before it is shared. Cognitive warfare seeks emotional reflex, not rational evaluation.
 - **Ask about origin before taking a side.** More important than whether something "looks true" is where it first appeared, who amplified it, and why it surfaced at that moment.
 - **Look for coordination signals.** If multiple accounts push highly similar wording, graphics, hashtags, and emotional framing across platforms within a short period, that is often not organic spread.
 - **Build a trusted information list before a crisis.** Pre-selecting credible media outlets, official agencies, subject-matter experts, and local reporters reduces the chance of being captured by improvised information flows when a crisis hits.
 
-### 14.2 Communities, Media, and KOLs: Protect the Trust Channels
+### 15.2 Communities, Media, and KOLs: Protect the Trust Channels
 
 - **Groups and pages should increase management transparency.** Who the admins are, whether external partnerships exist, how posts are reviewed, and whether there is paid placement or sponsorship should be disclosed as much as possible. Opaque governance is fertile ground for infiltration.
 - **Media should not treat engagement metrics as public opinion.** Sudden spikes in comments, shares, and trending topics may be the result of coordination; when newsrooms quote them uncritically, they complete a second wave of amplification for the operator.
 - **KOLs and commentators should disclose relationships of interest.** This includes hosted travel, commercial partnerships, consulting roles, content licensing, and recurring source relationships. The most effective conduit is often not an anonymous account, but a trusted person.
 - **Create abnormal-activity response procedures.** When communities, newsrooms, or KOLs see concentrated anomalies in comments, direct messages, submissions, or guest outreach, there should be an internal escalation and delay process instead of business-as-usual publication.
 
-### 14.3 Platforms, Researchers, and Government: Move from Fact-Checking Cases to Defending Systems
+### 15.3 Platforms, Researchers, and Government: Move from Fact-Checking Cases to Defending Systems
 
 - **The goal is not only to remove posts, but to map networks.** Defense should focus not only on whether a single post is true or false, but on account creation timing, interaction patterns, device or IP linkages, and cross-platform migration paths.
 - **Build cross-platform threat-intelligence sharing.** Cognitive warfare rarely operates on only one platform. If Facebook, YouTube, LINE, X, forums, and news sites cannot share pattern-level signals, defenders will always lag behind.
@@ -396,7 +466,7 @@ Understanding the attack chain does not automatically create defensive capacity.
 
 Stanford Internet Observatory's 2020 study *Telling China's Story* systematically analyzed the architecture of China's full-spectrum information operations, providing a methodological framework for cross-platform threat intelligence sharing [16]. Taiwan's civil society has also built a nascent defense ecosystem: IORG (Taiwan Information Environment Research Center), Doublethink Lab, Taiwan FactCheck Center, Cofacts, and MyGoPen continuously conduct monitoring and verification, forming an active civic defense capability.
 
-### 14.4 The Real Objective of Defense: Break the Cost-Effectiveness Equation
+### 15.4 The Real Objective of Defense: Break the Cost-Effectiveness Equation
 
 Cognitive warfare cannot be reduced to absolute zero, but its **return on investment can be degraded**. When an operation requires more accounts, more money, more time, and deeper infiltration while delivering less reach, less trust capture, and less political effect, its strategic value falls sharply.
 
@@ -411,7 +481,7 @@ Defense is not a single technical fix. It is an engineering problem of social re
 
 ---
 
-## XV. Structural Observations
+## XVI. Structural Observations
 
 This system's threat stems from the **systemic integration** across all elements. State-level resources provide direction and funding, tech enterprises provide the technology engine, gray market industries provide infrastructure, automation systems provide scalability, traditional media provides mass reach, capital infiltration provides economic leverage, KOLs provide trust channels, co-opted officials provide professional authority, and third forces provide political leverage — each layer is a replaceable, extensible module.
 
@@ -467,5 +537,23 @@ Understanding the mechanism is the first step of defense. The second step is sys
 [15] Yang, K.-S. (2024). "What lessons can Taiwan share with the world on election interference?" Brookings Institution, 11 June 2024. See also MERICS. (2024). "In a savvy disinformation offensive, China takes aim at Taiwan election."
 
 [16] DiResta, R., Miller, C., Molter, V., Pomfret, J., & Tiffert, G. (2020). *Telling China's Story: The Chinese Communist Party's Campaign to Shape Global Narratives*. Stanford Internet Observatory & Hoover Institution.
+
+[17] ESPN / NPR / CNBC. (2019–2020). NBA-China controversy coverage. See also Wang, Y. (2020). "Sports in the Transnational Public Sphere: Findings from the Case of Daryl Morey's Hong Kong Tweet." *The International Journal of the History of Sport*, 37(12). See also Freedom House. (2022). *Beijing's Global Media Influence* — documenting the ESPN internal memo instructing staff to avoid discussing China/Hong Kong political topics.
+
+[18] NPR. (2021-12-02). "WTA suspends tournaments in China over concern about Peng Shuai." See also PBS News Weekend. (2023). "WTA returns to China despite unresolved questions about tennis star Peng Shuai."
+
+[19] Amnesty International. (2008-07-30). "IOC caves in to China's demands on internet censorship." See also Human Rights Watch. (2021-02-11). "As 2022 Olympics host, China escalated human rights abuses."
+
+[20] Variety. (2019-10-08). "Blizzard Bans 'Hearthstone' Player Blitzchung for Hong Kong Statement." See also TIME. (2019). "What to Know About Blizzard, Hong Kong and the Controversy Over Politics in Esports."
+
+[21] Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*. SAGE Journals. See also Quartz. (2016-01-16). "A 16-year-old pop star was forced to apologize to China for waving Taiwan's flag."
+
+[22] NBC News. (2021-05-25). "Actor John Cena apologizes to Chinese audience after calling Taiwan a country." See also Bloomberg. (2021-05-25). "'Fast & Furious' Star John Cena Apologizes for Calling Taiwan a Country."
+
+[23] CNN. (2024-06-03). "Taiwan celebrities Mayday, Jolin Tsai in crossfire of political battle as tensions with China rise." See also The Diplomat. (2019-12). "Star Wars: How Taiwan's Celebrities Became Pawns in the Cross-Strait Struggle." See also University of Richmond Political Science Faculty Publications, "Chinese Celebrities' Political Signaling on Weibo."
+
+[24] PEN America. (2020-09). *Made in Hollywood, Censored by Beijing*. See also Hollywood Reporter. (2020-09). "Hollywood Is 'Increasingly Normalizing' Self-Censorship for China, Report Finds."
+
+[25] The Diplomat. (2024-04). "When China Banned Korean Boy Bands." See also Korea Economic Institute of America. "Turning Out the Lights?: The Impact of THAAD on Hallyu Exports to China."
 
 ---
