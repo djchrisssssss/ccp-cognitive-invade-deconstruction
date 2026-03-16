@@ -229,6 +229,44 @@ Freedom House's 2022 report *Beijing's Global Media Influence* — Taiwan chapte
 - **Temple & local organization donations**: Building relationships with local temples, associations, and hometown clubs through donations. These organizations have mobilization capacity in local elections; once financial dependency is established, political stances can be influenced.
 - **Agricultural & fishery product procurement**: Using bulk purchases of Taiwanese agricultural and fishery products to build specific regions' economic dependency on the Chinese market. This becomes a bargaining chip in political negotiations — purchasing or halting purchases directly impacts local economies, which in turn influences local public opinion.
 
+### 8.4 Media Ownership Acquisition: From Advertising Influence to Editorial Control
+
+Where advertising contracts provide indirect influence, media ownership provides **direct control**. The landmark case is the Want Want Group's 2008 acquisition of the China Times Group (including the *China Times*, CtiTV, and CTV) for approximately US$661 million, placing a major Taiwanese media conglomerate's editorial direction under direct pro-CCP capital control [26]. CtiTV ultimately had its broadcast license revoked by the NCC in December 2020 after repeated failures to meet fact-checking standards — the first Taiwanese TV station to lose its license over news quality issues [27]. Another case is TVBS, which came under the management of HTC founder Cher Wang from 2011 to 2016; her extensive Chinese business interests raised public concerns about editorial independence [28].
+
+The pattern these cases reveal: advertising revenue control is the entry point, equity acquisition is the escalation, and the ultimate objective is to **transform media institutions from watchdogs into narrative vehicles**.
+
+### 8.5 Supply Chain Weaponization: Rare Earths, Semiconductors & Strategic Materials
+
+China's control over critical raw materials and technologies turns the supply chain itself into a coercion tool:
+
+- **Rare earth export controls**: China controls approximately 60% of global rare earth mining and 90% of processing capacity. Beginning in 2023, China imposed export licensing requirements on strategic minerals including gallium, germanium, antimony, and graphite; in 2025, controls expanded to rare earth processing technology, directly impacting Taiwan's semiconductor, defense, and electronics industry supply chains [29].
+- **Semiconductor talent poaching**: Chinese firms have systematically recruited Taiwanese semiconductor engineers. Reporting in 2021 indicated at least 16 Chinese companies were under investigation for suspected violations of Taiwan's trade secrets laws, using strategies including establishing "shell" R&D centers in Taiwan or third countries and offering two to three times the prevailing salary to recruit key talent [30].
+- **Natural sand export suspension**: Following Nancy Pelosi's visit to Taiwan in August 2022, China announced the suspension of natural sand exports to Taiwan. Natural sand is a basic construction industry material. While Taiwan had already diversified its import sources, the **signaling value** — a precision strike against everyday economic activity — was the core purpose [31].
+
+### 8.6 Agricultural & Fishery Trade Weaponization: Precision Strikes on Electoral Bases
+
+The logic of agricultural and fishery trade sanctions lies not in the trade figures themselves, but in their **political precision** — the targeted farmers and fishers are often core voters in specific party strongholds:
+
+- **Pineapple ban (March 2021)**: All Taiwanese pineapple imports were suspended, citing "quarantine pests." Taiwan's pineapple exports were 90–95% dependent on the Chinese market, and the ban directly hit southern agricultural districts [32].
+- **Sugar apple & wax apple ban (September 2021)**: Imports banned on the same quarantine grounds. Approximately 97% of Taiwan's sugar apple and 98% of wax apple exports went to China [32].
+- **Grouper ban (June 2022)**: Imports suspended citing "banned drug residues." Approximately 91% of Taiwan's grouper exports went to China, with primary production concentrated in Kaohsiung and Pingtung [32].
+- **Post-Pelosi expanded sanctions (August 2022)**: Citrus fruits and chilled hairtail fish imports banned, and over 100 Taiwanese food product categories suspended — a scale far exceeding what any "quarantine" rationale could justify [31].
+
+Each ban was precisely calculated: the targeted products were concentrated in specific regions, and the political leanings of affected farmers and fishers correlated closely with the timing of each ban.
+
+### 8.7 Tourism & Trade Agreement Weaponization
+
+- **Individual travel permit suspension (August 2019)**: China suspended individual travel permits from 47 cities to Taiwan, causing Chinese tourist numbers to drop by approximately 60%. Taiwan's tourism industry — particularly destinations dependent on Chinese tourists like Sun Moon Lake and Alishan — suffered severely, with losses estimated at approximately US$900 million [33].
+- **Airline reclassification pressure (2018)**: China's Civil Aviation Administration wrote to 44 international airlines demanding that "Taiwan" be renamed to "Taiwan, China" or "Taiwan, Province of China," using market access as leverage. Virtually all airlines complied before the deadline [34].
+- **Forced corporate apologies**: In 2018, after Marriott listed Taiwan as a "country" in a website survey, the Chinese government ordered its Chinese website and app shut down. Marriott was forced to issue a public apology. The case became a template for coercing international corporations [34].
+- **ECFA tariff weapon (2023–2024)**: In late 2023, China launched a trade barrier investigation against Taiwan; in 2024, it successively suspended ECFA tariff concessions on 134 Taiwanese products. Since its signing in 2010, ECFA had been criticized as an "economic united front tool" rather than a straightforward trade agreement — its design created gradual dependency on preferential tariffs in specific Taiwanese industries, enabling the "valve" to be shut when political relations soured [35].
+
+### 8.8 Pattern Summary: The Systemic Logic of Economic Coercion
+
+The cases above reveal not isolated incidents but a **systematic economic coercion architecture**. Its operational logic unfolds in three phases: **dependency creation** (through market opening, procurement contracts, investment, and trade agreements, inducing structural dependency on the Chinese market) → **dependency weaponization** (converting economic relationships into coercion tools when politically needed — bans, tariffs, market denial) → **internalized self-censorship** (once punitive precedents are sufficiently numerous, enterprises, media, and individuals preemptively avoid actions that might anger Beijing, even without direct pressure).
+
+The ultimate effect: economic coercion does not need to be executed every time — **it only requires enough people to believe it will be executed**, and self-censorship operates automatically.
+
 ---
 
 ## IX. Public Figure Manipulation: Full-Spectrum Strategy from Co-optation to Coercion
@@ -514,5 +552,25 @@ Understanding the mechanism is the first step of defense. The second step is sys
 [24] PEN America. (2020-09). *Made in Hollywood, Censored by Beijing*. See also Hollywood Reporter. (2020-09). "Hollywood Is 'Increasingly Normalizing' Self-Censorship for China, Report Finds."
 
 [25] The Diplomat. (2024-04). "When China Banned Korean Boy Bands." See also Korea Economic Institute of America. "Turning Out the Lights?: The Impact of THAAD on Hallyu Exports to China."
+
+[26] *Financial Times*. (2008-11). "Want Want Group acquires China Times Group for approximately US$661 million." See also RSF (Reporters Without Borders). (2012). "The Want Want Group's media acquisitions raise press freedom concerns in Taiwan."
+
+[27] NCC (National Communications Commission, Taiwan). (2020-11-18). CtiTV news channel license renewal review decision. See also *Taipei Times*. (2020-12-12). "CtiTV news channel goes off air after license revocation."
+
+[28] *Taipei Times*. (2011). "HTC chairwoman Cher Wang acquires TVBS stake." See also *CommonWealth Magazine*. (2016). Reporting on TVBS ownership changes.
+
+[29] Reuters. (2023-07-04). "China curbs exports of chipmaking metals gallium and germanium." See also Bloomberg. (2025-01). "China expands rare earth export controls to include processing technology." See also USGS. (2024). *Mineral Commodity Summaries: Rare Earths*.
+
+[30] *Nikkei Asia*. (2021-09). "Taiwan investigates 16 Chinese companies for poaching chip talent." See also Taiwan Ministry of Justice Investigation Bureau press releases (2021–2023).
+
+[31] Reuters. (2022-08-03). "China suspends natural sand exports to Taiwan." See also *BBC News*. (2022-08-05). "China suspends food imports and sand exports to Taiwan after Pelosi visit."
+
+[32] *BBC News*. (2021-02-26). "China suspends Taiwan pineapple imports." See also *Reuters*. (2021-09-19). "China bans imports of Taiwan sugar apples and wax apples." See also *South China Morning Post*. (2022-06-10). "China suspends grouper imports from Taiwan." See also Council of Agriculture (Taiwan) statistical data.
+
+[33] *Reuters*. (2019-07-31). "China suspends individual travel permits to Taiwan." See also Taiwan Tourism Bureau (2020) annual tourism statistics.
+
+[34] *Reuters*. (2018-04-26). "China demands airlines change Taiwan references." See also *Washington Post*. (2018-01-12). "Marriott apologizes to China after listing Tibet, Taiwan as separate countries."
+
+[35] *Financial Times*. (2024). "China suspends ECFA tariff concessions on 134 Taiwan products." See also *Brookings Institution*. (2024). "ECFA as economic statecraft: origins and implications." See also Taiwan Ministry of Economic Affairs ECFA-related statements (2023–2024).
 
 ---

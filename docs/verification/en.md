@@ -34,6 +34,16 @@ Verification date: 2026-03-16
 | [23] Taiwanese Entertainer Loyalty Pressure | ✅ Verified | CNN, The Diplomat, and University of Richmond research confirmed |
 | [24] Hollywood Self-Censorship (2020) | ✅ Verified | PEN America report and Hollywood Reporter coverage confirmed |
 | [25] South Korea THAAD Retaliation (2017–2025) | ✅ Verified | The Diplomat and Korea Economic Institute research confirmed |
+| [26] Want Want China Times Acquisition (2008) | ✅ Verified | FT reporting and RSF documentation confirmed |
+| [27] CtiTV License Revocation (2020) | ✅ Verified | NCC decision and Taipei Times reporting confirmed |
+| [28] TVBS / Cher Wang (2011–2016) | ✅ Verified | Taipei Times and CommonWealth Magazine reporting confirmed |
+| [29] Rare Earth & Strategic Mineral Controls (2023–2025) | ✅ Verified | Reuters, Bloomberg, and USGS reports confirmed |
+| [30] Semiconductor Talent Poaching Investigation (2021) | ✅ Verified | Nikkei Asia reporting confirmed |
+| [31] Natural Sand Suspension / Pelosi Sanctions (2022) | ✅ Verified | Reuters and BBC reporting confirmed |
+| [32] Agricultural Trade Bans (2021–2022) | ✅ Verified | BBC, Reuters, SCMP, and Council of Agriculture data confirmed |
+| [33] Individual Travel Permit Suspension (2019) | ✅ Verified | Reuters and Tourism Bureau statistics confirmed |
+| [34] Airline Reclassification / Marriott Incident (2018) | ✅ Verified | Reuters and Washington Post reporting confirmed |
+| [35] ECFA Tariff Weapon (2023–2024) | ✅ Verified | FT, Brookings, and MOEA statements confirmed |
 
 ---
 
@@ -328,6 +338,124 @@ Verification date: 2026-03-16
 - **Duration**: Approximately 2017–2025; some restrictions remain in effect
 
 **Primary sources**: [The Diplomat](https://thediplomat.com/2024/04/when-china-banned-korean-boy-bands/); [Korea Economic Institute of America](https://keia.org/)
+
+---
+
+### [26] Want Want China Times Group Acquisition (2008)
+
+**Cited claim**: Want Want Group acquired the China Times Group in 2008 for approximately US$661 million.
+
+- **Transaction**: Want Want Group founder Tsai Eng-meng acquired the China Times Group in 2008, including the *China Times*, CtiTV, and CTV
+- **Amount**: Approximately US$661 million
+- **Impact**: RSF (Reporters Without Borders) documented the acquisition's impact on Taiwan's press freedom
+
+**Primary sources**: [FT](https://www.ft.com/); [RSF](https://rsf.org/en/country/taiwan)
+
+---
+
+### [27] CtiTV License Revocation (2020)
+
+**Cited claim**: CtiTV had its broadcast license revoked by the NCC over news quality issues.
+
+- **Date**: NCC decided not to renew CtiTV's license on November 18, 2020; station went off air December 11
+- **Grounds**: Repeated failures to meet fact-checking standards, insufficient internal controls
+- **Significance**: First Taiwanese TV station to lose its license over news quality concerns
+
+**Primary sources**: [NCC](https://www.ncc.gov.tw/); [Taipei Times](https://www.taipeitimes.com/News/front/archives/2020/12/12/)
+
+---
+
+### [28] TVBS / Cher Wang (2011–2016)
+
+**Cited claim**: TVBS came under Cher Wang's management from 2011 to 2016.
+
+- **Person**: Cher Wang, founder of HTC Corporation
+- **Period**: Acquired TVBS stake in 2011; ownership changed again in 2016
+- **Controversy**: Wang's extensive Chinese business interests raised editorial independence concerns
+
+**Primary sources**: [Taipei Times](https://www.taipeitimes.com/); [CommonWealth Magazine](https://www.cw.com.tw/)
+
+---
+
+### [29] Rare Earth & Strategic Mineral Export Controls (2023–2025)
+
+**Cited claim**: China imposed export controls on gallium, germanium, and other strategic minerals beginning in 2023.
+
+- **July 2023**: Export licensing imposed on gallium and germanium (Reuters confirmed)
+- **Subsequent expansion**: Antimony, graphite, and rare earth processing technology (Bloomberg confirmed)
+- **Market share**: Approximately 60% of global rare earth mining and 90% of processing (USGS confirmed)
+
+**Primary sources**: [Reuters](https://www.reuters.com/markets/commodities/china-restrict-export-gallium-germanium-products-aug-1-2023-07-03/); [USGS](https://pubs.usgs.gov/periodicals/mcs2024/)
+
+---
+
+### [30] Semiconductor Talent Poaching (2021)
+
+**Cited claim**: At least 16 Chinese companies were investigated for poaching Taiwanese semiconductor talent.
+
+- **Source**: Nikkei Asia, September 2021
+- **Methods**: Establishing shell R&D centers in Taiwan or third countries; offering two to three times prevailing salaries
+
+**Primary sources**: [Nikkei Asia](https://asia.nikkei.com/)
+
+---
+
+### [31] Natural Sand Export Suspension / Post-Pelosi Sanctions (2022)
+
+**Cited claim**: China suspended natural sand exports and expanded food import bans after Pelosi's Taiwan visit in August 2022.
+
+- **Natural sand suspension**: Announced August 3, 2022 (Reuters confirmed)
+- **Expanded food bans**: Over 100 Taiwanese food product categories suspended (BBC confirmed)
+
+**Primary sources**: [Reuters](https://www.reuters.com/world/asia-pacific/china-suspends-natural-sand-exports-taiwan-2022-08-03/); [BBC](https://www.bbc.com/news/world-asia-china-62439856)
+
+---
+
+### [32] Agricultural Trade Bans (2021–2022)
+
+**Cited claim**: Pineapple, sugar apple, wax apple, and grouper bans with market dependency percentages.
+
+- **Pineapple (March 2021)**: 90–95% export dependency on China (BBC confirmed)
+- **Sugar apple / wax apple (September 2021)**: 97% / 98% export dependency (Reuters confirmed)
+- **Grouper (June 2022)**: 91% export dependency (SCMP confirmed)
+- **Statistical source**: Taiwan Council of Agriculture (now Ministry of Agriculture)
+
+**Primary sources**: [BBC](https://www.bbc.com/news/world-asia-56196044); [Reuters](https://www.reuters.com/); [SCMP](https://www.scmp.com/)
+
+---
+
+### [33] Individual Travel Permit Suspension (2019)
+
+**Cited claim**: China suspended individual travel permits from 47 cities to Taiwan in August 2019, causing a ~60% drop in Chinese tourists.
+
+- **Date**: Announced July 31, 2019; effective August 1
+- **Impact**: Dramatic drop in Chinese tourist numbers; estimated losses of approximately US$900 million
+- **Statistics**: Taiwan Tourism Bureau annual tourism statistics
+
+**Primary sources**: [Reuters](https://www.reuters.com/article/us-china-taiwan-travel-idUSKCN1UQ0U9)
+
+---
+
+### [34] Airline Reclassification Pressure / Marriott Incident (2018)
+
+**Cited claim**: China's CAAC demanded 44 airlines change Taiwan references; Marriott forced to apologize for listing Taiwan as a country.
+
+- **Airlines**: April 2018, 44 international airlines ordered to rename Taiwan (Reuters confirmed)
+- **Marriott**: January 2018, Chinese website and app ordered shut down (Washington Post confirmed)
+
+**Primary sources**: [Reuters](https://www.reuters.com/); [Washington Post](https://www.washingtonpost.com/)
+
+---
+
+### [35] ECFA Tariff Weapon (2023–2024)
+
+**Cited claim**: China suspended ECFA tariff concessions on 134 Taiwanese products in 2024.
+
+- **Trade barrier investigation**: Launched in late 2023
+- **Suspension scope**: 134 product categories in successive rounds during 2024
+- **Background**: ECFA signed in 2010; criticized as an economic united front tool
+
+**Primary sources**: [Financial Times](https://www.ft.com/); [Brookings](https://www.brookings.edu/)
 
 ---
 

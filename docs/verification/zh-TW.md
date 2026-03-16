@@ -34,6 +34,16 @@
 | [23] 台灣藝人表態壓力 | ✅ 正確 | CNN、The Diplomat 及 University of Richmond 研究已確認 |
 | [24] 好萊塢自我審查 (2020) | ✅ 正確 | PEN America 報告及 Hollywood Reporter 報導已確認 |
 | [25] 韓國 THAAD 報復 (2017–2025) | ✅ 正確 | The Diplomat 及 Korea Economic Institute 研究已確認 |
+| [26] 旺旺收購中時集團 (2008) | ✅ 正確 | FT 報導及 RSF 記錄已確認 |
+| [27] 中天新聞台撤照 (2020) | ✅ 正確 | NCC 決議及 Taipei Times 報導已確認 |
+| [28] TVBS / 王雪紅 (2011–2016) | ✅ 正確 | Taipei Times 及天下雜誌報導已確認 |
+| [29] 稀土與戰略礦物管制 (2023–2025) | ✅ 正確 | Reuters、Bloomberg 及 USGS 報告已確認 |
+| [30] 半導體人才挖角調查 (2021) | ✅ 正確 | Nikkei Asia 報導已確認 |
+| [31] 天然砂出口暫停 / 裴洛西制裁 (2022) | ✅ 正確 | Reuters 及 BBC 報導已確認 |
+| [32] 農產品貿易禁令 (2021–2022) | ✅ 正確 | BBC、Reuters、SCMP 及農委會統計已確認 |
+| [33] 陸客自由行暫停 (2019) | ✅ 正確 | Reuters 及觀光局統計已確認 |
+| [34] 航空正名施壓 / 萬豪事件 (2018) | ✅ 正確 | Reuters 及 Washington Post 報導已確認 |
+| [35] ECFA 關稅武器 (2023–2024) | ✅ 正確 | FT、Brookings 及經濟部聲明已確認 |
 
 ---
 
@@ -328,6 +338,124 @@
 - **持續時間**：約 2017–2025，部分限制至今仍在
 
 **原始來源**：[The Diplomat](https://thediplomat.com/2024/04/when-china-banned-korean-boy-bands/); [Korea Economic Institute of America](https://keia.org/)
+
+---
+
+### [26] 旺旺收購中時集團 (2008)
+
+**引用內容**：旺旺集團 2008 年以約 US$6.61 億收購中國時報集團。
+
+- **交易**：旺旺集團創辦人蔡衍明於 2008 年收購中國時報集團，包含中國時報、中天電視（CtiTV）、中視（CTV）
+- **金額**：約 US$6.61 億
+- **影響**：RSF（無國界記者）記錄此收購對台灣新聞自由的影響
+
+**原始來源**：[FT](https://www.ft.com/)；[RSF](https://rsf.org/en/country/taiwan)
+
+---
+
+### [27] 中天新聞台撤照 (2020)
+
+**引用內容**：中天電視因新聞品質問題遭 NCC 不予換照。
+
+- **日期**：NCC 於 2020 年 11 月 18 日決議不予中天新聞台換照，12 月 11 日停播
+- **理由**：多次違反事實查核標準、內控機制不足
+- **意義**：台灣首例因新聞品質問題被撤照的電視台
+
+**原始來源**：[NCC](https://www.ncc.gov.tw/)；[Taipei Times](https://www.taipeitimes.com/News/front/archives/2020/12/12/)
+
+---
+
+### [28] TVBS / 王雪紅 (2011–2016)
+
+**引用內容**：2011–2016 年間 TVBS 由王雪紅取得經營權。
+
+- **人物**：王雪紅，宏達電（HTC）創辦人
+- **期間**：2011 年取得 TVBS 股權，2016 年經營權變動
+- **爭議**：王雪紅大量中國商業利益引發編輯獨立性疑慮
+
+**原始來源**：[Taipei Times](https://www.taipeitimes.com/)；[天下雜誌](https://www.cw.com.tw/)
+
+---
+
+### [29] 稀土與戰略礦物管制 (2023–2025)
+
+**引用內容**：中國自 2023 年起對鎵、鍺等戰略礦物實施出口管制。
+
+- **2023 年 7 月**：對鎵、鍺實施出口許可制（Reuters 確認）
+- **後續擴大**：銻、石墨及稀土加工技術（Bloomberg 確認）
+- **市場佔比**：全球約 60% 稀土開採、90% 加工產能（USGS 確認）
+
+**原始來源**：[Reuters](https://www.reuters.com/markets/commodities/china-restrict-export-gallium-germanium-products-aug-1-2023-07-03/)；[USGS](https://pubs.usgs.gov/periodicals/mcs2024/)
+
+---
+
+### [30] 半導體人才挖角 (2021)
+
+**引用內容**：至少 16 間中國企業因涉嫌挖角台灣半導體人才遭調查。
+
+- **來源**：Nikkei Asia 2021 年 9 月報導
+- **手法**：在台灣或第三地設立空殼研發中心、二至三倍薪資挖角
+
+**原始來源**：[Nikkei Asia](https://asia.nikkei.com/)
+
+---
+
+### [31] 天然砂出口暫停 / 裴洛西後制裁 (2022)
+
+**引用內容**：2022 年 8 月裴洛西訪台後中國暫停天然砂出口及擴大食品禁令。
+
+- **天然砂暫停**：2022 年 8 月 3 日宣布（Reuters 確認）
+- **食品擴大禁令**：超過 100 項台灣食品進口暫停（BBC 確認）
+
+**原始來源**：[Reuters](https://www.reuters.com/world/asia-pacific/china-suspends-natural-sand-exports-taiwan-2022-08-03/)；[BBC](https://www.bbc.com/news/world-asia-china-62439856)
+
+---
+
+### [32] 農產品貿易禁令 (2021–2022)
+
+**引用內容**：鳳梨、釋迦、蓮霧、石斑魚禁令及其市場依賴比例。
+
+- **鳳梨（2021 年 3 月）**：90–95% 出口依賴中國（BBC 確認）
+- **釋迦/蓮霧（2021 年 9 月）**：97%/98% 出口依賴中國（Reuters 確認）
+- **石斑魚（2022 年 6 月）**：91% 出口依賴中國（SCMP 確認）
+- **統計來源**：行政院農業委員會（現農業部）
+
+**原始來源**：[BBC](https://www.bbc.com/news/world-asia-56196044)；[Reuters](https://www.reuters.com/)；[SCMP](https://www.scmp.com/)
+
+---
+
+### [33] 陸客自由行暫停 (2019)
+
+**引用內容**：2019 年 8 月中國暫停 47 城市赴台自由行，陸客下滑約 60%。
+
+- **日期**：2019 年 7 月 31 日宣布，8 月 1 日生效
+- **影響**：陸客人次大幅下滑，損失估約 US$9 億
+- **統計**：交通部觀光局年度觀光統計
+
+**原始來源**：[Reuters](https://www.reuters.com/article/us-china-taiwan-travel-idUSKCN1UQ0U9)
+
+---
+
+### [34] 航空正名施壓 / 萬豪事件 (2018)
+
+**引用內容**：中國民航局要求 44 家航空公司更改台灣名稱，萬豪因列台灣為國家被迫道歉。
+
+- **航空公司**：2018 年 4 月，44 家國際航空公司被要求更名（Reuters 確認）
+- **萬豪**：2018 年 1 月，中文網站與 App 遭勒令關閉（Washington Post 確認）
+
+**原始來源**：[Reuters](https://www.reuters.com/)；[Washington Post](https://www.washingtonpost.com/)
+
+---
+
+### [35] ECFA 關稅武器 (2023–2024)
+
+**引用內容**：中國 2024 年對 134 項台灣產品中止 ECFA 關稅減讓。
+
+- **貿易壁壘調查**：2023 年底啟動
+- **中止範圍**：2024 年先後中止 134 項產品關稅減讓
+- **背景**：ECFA 自 2010 年簽署，被批評為經濟統戰工具
+
+**原始來源**：[Financial Times](https://www.ft.com/)；[Brookings](https://www.brookings.edu/)
 
 ---
 

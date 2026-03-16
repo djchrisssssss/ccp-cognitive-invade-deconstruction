@@ -55,7 +55,7 @@ The goal is to help readers understand the mechanics of this operational system 
 
 **第三部：槓桿與收編 / Part III: Leverage & Co-optation**
 
-8. **資金滲透** — 廣告收入、企業投資、基層經濟依賴 / Capital Infiltration — Advertising revenue, corporate investment, grassroots economic dependency
+8. **資金滲透** — 廣告收入、媒體收購、供應鏈武器化、農漁產貿易禁令、觀光與經貿協定 / Capital Infiltration — Advertising, media acquisition, supply chain weaponization, agricultural trade bans, tourism & trade agreements
 9. **公眾人物操控** — 從收買到脅迫的全光譜策略（KOL、體育、演藝） / Public Figure Manipulation — Full-spectrum from co-optation to coercion (KOLs, sports, entertainment)
 10. **收買官員與軍職人員** — 退休將領、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals, political appointees, civil servants, academia
 11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
@@ -78,8 +78,8 @@ All citations in the document have been individually fact-checked by cross-refer
 
 | 驗證報告 | 說明 |
 |----------|------|
-| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 25 條引用逐條核實 |
-| [docs/verification/en.md](docs/verification/en.md) | English report — 25 citations verified line by line |
+| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 35 條引用逐條核實 |
+| [docs/verification/en.md](docs/verification/en.md) | English report — 35 citations verified line by line |
 
 ## 引用研究 / Referenced Research
 
@@ -98,6 +98,13 @@ All citations in the document have been individually fact-checked by cross-refer
 - CEIAS. (2025). Chinese espionage in Taiwan analysis.
 - RFA. (2023). Taiwan Anti-Infiltration Act prosecution reports.
 - VOA. (2024). Taiwan propaganda prosecution reports.
+
+- Reuters / BBC / SCMP. (2021–2022). Taiwan agricultural and fishery trade ban coverage (pineapple, sugar apple, grouper).
+- Reuters. (2022). China natural sand export suspension and post-Pelosi sanctions.
+- Reuters. (2023). China rare earth and strategic mineral export controls.
+- Nikkei Asia. (2021). Taiwan semiconductor talent poaching investigations.
+- Reuters / Washington Post. (2018). Airline reclassification pressure and Marriott forced apology.
+- Financial Times / Brookings. (2024). ECFA tariff concession suspension analysis.
 
 - PEN America. (2020). *Made in Hollywood, Censored by Beijing*.
 - Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*.
