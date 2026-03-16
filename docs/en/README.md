@@ -269,27 +269,29 @@ Co-optation and coercion do not operate independently — they **target the same
 
 ### 9.5 Target Category Coverage
 
-Manipulation targets span **all domains**:
+Manipulation targets span **all domains**, and operational methods are almost always **deployed in combination** — a single target may simultaneously face co-optation, pressure, entrapment, and coercion:
 
-| Type | Method | Operational Purpose |
+| Type | Method Combination | Operational Purpose |
 |---|---|---|
-| Political commentators | Co-optation | Directly influence political narratives and policy debates |
-| TV political pundits | Co-optation | Repeatedly output specific stances on high-rating talk shows, influencing political judgment among older voters |
-| Finance/investment KOLs | Co-optation | Shape the economic narrative of "China's economy is strong, Taiwan depends on China" |
-| Travel/lifestyle KOLs | Co-optation | Beautify China's image, build cultural affinity |
-| Tech/gadget KOLs | Co-optation | Promote Chinese brands, build impressions of technological leadership |
-| Education/knowledge KOLs | Co-optation | Plant specific historical narratives and political frameworks |
-| Parenting/family KOLs | Co-optation | Influence parent demographics' political and social attitudes |
-| Military/defense analysis KOLs | Co-optation | Spread defeatist narratives such as "resistance is futile," eroding the will to defend |
-| Religious/spiritual KOLs | Co-optation | Leverage trust structures within faith communities to transmit messages |
-| Short-video creators | Co-optation | Reach younger demographics; normalize narratives through entertainment and emotional resonance |
-| Lifestyle bloggers | Co-optation | Weaponize seeding culture to build soft affinity — no political messaging, yet deep cultural proximity is embedded |
-| Sports stars/organizations | Coercion | Create chilling effects through market denial and financial punishment, suppressing Taiwan-related speech |
-| Entertainers | Co-optation + Coercion | Market access for compliance (carrot); bans and public shaming for non-compliance (stick) |
-| Hollywood/international film & TV | Coercion | Force self-censorship through investment and market access, systematically avoiding Taiwan and other sensitive topics |
-| Entertainment/meme accounts | Co-optation | Deliver specific frameworks wrapped in humor, lowering audience defenses |
+| Political commentators | Co-optation, information feeding, interest binding | Directly influence political narratives and policy debates |
+| TV political pundits | Co-optation, interest binding, pressure (appearance scheduling) | Repeatedly output specific stances on high-rating talk shows, influencing older voters' political judgment |
+| Finance/investment KOLs | Co-optation, information feeding, entrapment (providing "insider tips" to create leverage) | Shape the economic narrative of "China's economy is strong, Taiwan depends on China" |
+| Travel/lifestyle KOLs | Hosted travel, co-optation, algorithm manipulation | Beautify China's image, build cultural affinity |
+| Tech/gadget KOLs | Co-optation, interest binding (products & market access) | Promote Chinese brands, build impressions of technological leadership |
+| Education/knowledge KOLs | Co-optation, academic partnership binding, information feeding | Plant specific historical narratives and political frameworks |
+| Parenting/family KOLs | Co-optation, algorithm manipulation | Influence parent demographics' political and social attitudes |
+| Military/defense analysis KOLs | Co-optation, information feeding, entrapment (China visits build relationships, then pressure) | Spread defeatist narratives such as "resistance is futile," eroding the will to defend |
+| Religious/spiritual KOLs | Co-optation, organizational infiltration, religious exchange binding | Leverage trust structures within faith communities to transmit messages |
+| Short-video creators | Co-optation, algorithm manipulation, platform traffic incentives | Reach younger demographics; normalize narratives through entertainment |
+| Lifestyle bloggers | Hosted travel, co-optation, algorithm manipulation | Weaponize seeding culture to build soft affinity and deep cultural proximity |
+| Sports stars/organizations | Pressure, market denial, economic coercion, nationalist mobilization | Create chilling effects, suppress Taiwan-related speech |
+| Entertainers | Co-optation, pressure, coercion, entrapment (market dependency → forced statements) | Market access for compliance; bans, public shaming, hostage-style apologies for non-compliance |
+| Hollywood/international film & TV | Pressure, entrapment (investment binding → censorship insertion), market access coercion | Force self-censorship, systematically avoid Taiwan and other sensitive topics |
+| Entertainment/meme accounts | Co-optation, algorithm manipulation | Deliver specific frameworks wrapped in humor, lowering audience defenses |
 
-Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life** — co-opted figures actively output, coerced figures actively self-censor, and both together shape the information environment.
+Six basic operational modes: **co-optation** (direct payment or interest exchange), **pressure** (market denial, economic punishment), **coercion** (threats of exposure, nationalist mob attacks), **entrapment** (first create dependency or leverage, then apply pressure), **information feeding** (provide exclusive information to build framework dependency), and **algorithm manipulation** (reward or punish content direction through platform mechanisms). In practice, these methods are almost never used in isolation — a single target typically faces the crossfire of multiple methods simultaneously, and operators dynamically adjust the combination based on the target's response.
+
+Full-spectrum coverage ensures narratives **penetrate every touchpoint of daily life** — co-opted figures actively output, pressured figures actively self-censor, entrapped figures have no choice, and all three together shape the information environment.
 
 ---
 
