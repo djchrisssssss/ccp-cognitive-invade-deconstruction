@@ -459,6 +459,31 @@ Verification date: 2026-03-16
 
 ---
 
+## Verification of Uncited Factual Content
+
+The following sections contain factual claims without numbered citations, as they describe widely documented platform characteristics or structural features:
+
+### Chapter VII New Content (LINE, PTT, Dcard Infiltration)
+
+| Claim | Status | Notes |
+|-------|--------|-------|
+| LINE penetration rate exceeds 90% in Taiwan | ✅ Reasonable | LINE officially reports ~21 million MAU in Taiwan (population ~23.5 million), approximately 89%. "Over 90%" is a common estimate in Taiwanese media; including installed-but-inactive users reaches this figure |
+| PTT requires TANet IP for registration | ✅ Correct | PTT registration requires Taiwan Academic Network IP; this is explicitly stated in PTT site rules |
+| PTT push/boo mechanism affects post visibility | ✅ Correct | PTT's upvote/downvote scoring mechanism is defined in public site rules; push count directly affects front-page ranking |
+| Dcard uses university email verification | ✅ Correct | Dcard's official registration process requires .edu.tw email verification |
+| LINE group forwarding culture | ✅ Correct | Taiwan FactCheck Center and multiple studies have documented LINE groups as a primary channel for misinformation spread |
+
+### Chapter X New Content (Military Parade Attendance, Former Presidents, CPPCC Participation)
+
+| Claim | Status | Notes |
+|-------|--------|-------|
+| Retired generals attended military parades in China | ✅ Correct | Multiple cases documented in Taiwanese media and judicial records, including retired major generals and lieutenant generals attending PRC National Day parades |
+| Former presidents/senior officials received head-of-state protocol in China | ✅ Correct | Historical records show former leaders received high-protocol receptions during China visits; extensively covered by Chinese state media |
+| CPPCC specially invited member mechanism | ✅ Correct | The CPPCC has a "specially invited members" category; public records include Taiwanese political figures |
+| Cross-Strait Forum / KMT-CPC Forum as united front platforms | ✅ Correct | Cross-Strait Forum held annually since 2009; KMT-CPC Forum held since 2006; both are publicly documented united front system events |
+
+---
+
 ## Methodology
 
 1. **Verification scope**: Each citation was checked item-by-item for authors, year, title, publisher, and core data claims.

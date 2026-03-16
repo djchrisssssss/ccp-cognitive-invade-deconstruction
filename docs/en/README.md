@@ -197,7 +197,7 @@ LINE's penetration rate in Taiwan exceeds 90%, making it the primary messaging a
 
 ### 7.3 PTT & Dcard: Opinion Manipulation on Anonymous Forums
 
-PTT (Bulletin Board System of National Taiwan University) is Taiwan's most politically influential anonymous forum, long regarded as "Taiwan's online public opinion barometer." Dcard primarily serves college students, influencing the younger generation. The anonymity of both platforms makes them particularly vulnerable to manipulation:
+PTT (批踢踢實業坊, a telnet-based BBS hosted at National Taiwan University) is Taiwan's most politically influential anonymous forum, long regarded as "Taiwan's online public opinion barometer." Dcard primarily serves college students, influencing the younger generation. The anonymity of both platforms makes them particularly vulnerable to manipulation:
 
 - **PTT account acquisition & aging**: PTT accounts require Taiwan Academic Network (TANet) IP registration, making them scarce. Operators obtain accounts by purchasing dormant ones or using proxy IPs, then invest in long-term aging — accumulating posting and upvoting history across various boards to build credibility.
 - **Upvote/downvote manipulation**: PTT's push/boo (upvote/downvote) mechanism directly affects post visibility and opinion direction. Coordinating dozens of accounts to concentrate upvotes or downvotes within a short window can make a specific viewpoint appear to be "mainstream consensus," or bury unfavorable information under a pile of downvotes.
@@ -213,8 +213,6 @@ On TikTok, operators build content accounts around lifestyle topics (food, trave
 Xiaohongshu's user culture strongly favors "authentic personal experience" posts. Operators create accounts posing as Taiwanese travelers, students studying in China, or cross-strait couples, sharing idealized cross-strait narratives. The platform's credibility norms make it an ideal vector for soft narrative insertion — content carries no explicit political messaging yet continuously builds positive sentiment.
 
 These platforms create **cascade effects**: Xiaohongshu lifestyle posts are screenshot-captured and shared in LINE groups; TikTok short videos are downloaded and re-uploaded to Facebook; viral posts from PTT's Gossiping board are cited by news media as "netizen perspectives"; Threads discussions are cited as "what young people think." A single narrative enters different generational information spheres through cross-platform transfer, making attribution and detection significantly harder. Discord servers and Telegram channels play a coordination hub role in this ecosystem — distributing operational instructions and content templates without directly facing the public.
-
----
 
 ---
 
