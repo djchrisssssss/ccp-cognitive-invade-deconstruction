@@ -51,7 +51,7 @@ The goal is to help readers understand the mechanics of this operational system 
 **第二部：滲透管道 / Part II: Infiltration Channels**
 
 6. **傳統媒體滲透** — 電視、報紙、廣播、網路新聞 / Traditional Media Infiltration — TV, newspapers, radio, online news
-7. **社群平台滲透** — Facebook、LINE、PTT、Dcard 與跨平台操作 / Social Platform Infiltration — Facebook, LINE, PTT, Dcard & cross-platform operations
+7. **社群平台滲透** — Facebook、LINE、PTT、Dcard、留言區帶風向與跨平台操作 / Social Platform Infiltration — Facebook, LINE, PTT, Dcard, comment astroturfing & cross-platform operations
 
 **第三部：槓桿與收編 / Part III: Leverage & Co-optation**
 
