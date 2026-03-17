@@ -59,7 +59,7 @@ The goal is to help readers understand the mechanics of this operational system 
 
 **第三部：槓桿與收編 / Part III: Leverage & Co-optation**
 
-8. **資金滲透** — 廣告收入、媒體收購、供應鏈武器化、農漁產貿易禁令、觀光與經貿協定 / Capital Infiltration — Advertising, media acquisition, supply chain weaponization, agricultural trade bans, tourism & trade agreements
+8. **資金與制度脅迫** — 廣告收入、媒體收購、供應鏈武器化、農漁產貿易禁令、觀光與經貿協定、「Chinese Taipei」命名認知戰 / Capital & Institutional Coercion — Advertising, media acquisition, supply chain weaponization, agricultural trade bans, tourism & trade agreements, "Chinese Taipei" naming cognitive warfare
 9. **公眾人物操控** — 從收買到脅迫的全光譜策略（KOL、體育、演藝） / Public Figure Manipulation — Full-spectrum from co-optation to coercion (KOLs, sports, entertainment)
 10. **收買官員與軍職人員** — 退休將領赴中參訪與閱兵觀禮、前總統訪中、政務官、公務員、學術界 / Co-opting Officials & Military — Retired generals' China visits & parade attendance, former presidents' visits, political appointees, civil servants, academia
 11. **扶植第三勢力** — 偽裝中立的政治操作 / Cultivating Third Forces — Political manipulation disguised as neutrality
