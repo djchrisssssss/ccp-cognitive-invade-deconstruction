@@ -100,44 +100,65 @@ The economic logic is clear: inmate labor costs approach zero, and the prison en
 
 ---
 
-## III. Account Factories: Phone Number Supply Chains & Southeast Asian Nodes
+## III. Account Factories: Phone Number Supply Chains & Mass Account Production
 
-### 3.1 Core Issue: The Fragility of Platform Verification
+### 3.1 Why Phone Numbers Are the Bottleneck of the Entire Attack Chain
 
-Account registration on Facebook, X (Twitter), Telegram, LINE, Instagram, and other platforms all rely on phone number verification. This makes "phone numbers" a **critical raw material** in cognitive warfare infrastructure.
+Account registration on Facebook, X (Twitter), Telegram, LINE, Instagram, and virtually all major international platforms relies on phone number verification. This makes "phone numbers" the **critical raw material** of cognitive warfare infrastructure — without numbers, there are no accounts; without accounts, the entire automated operations system cannot function. A system that must maintain hundreds of thousands of active accounts faces continuous and massive number demand: accounts banned by platforms must be immediately replenished, new tasks require new identities, and different nationality disguises require numbers from corresponding countries. The stability of the number supply chain directly determines the upper bound of cognitive warfare scale.
 
-### 3.2 Number Sources: A Transnational Gray Market Supply Chain
+### 3.2 Number Sources: From Gray Markets to State-Level Supply
 
-The phone number supply chain is highly internationalized:
+Number acquisition channels form a clear tiered structure — from the lowest-quality gray market sources to the highest-quality state-level allocations. The higher the quality, the higher the account survival rate, and the stronger the operational concealment.
 
-**Southeast Asian scam compounds.** Scam compounds in Myanmar, Cambodia, Laos, the Philippines, and elsewhere simultaneously engage in telecom fraud, with one "byproduct" being large volumes of identity-verified SIM cards. These compounds obtain numbers through:
+#### Bottom Tier: Southeast Asian Gray Markets
 
-- **Bulk registration with fake identities**: Using forged or purchased local identity documents to bulk-activate numbers at telecom carrier outlets.
-- **Corporate number diversion**: Numbers bulk-purchased by corporations are resold to underground markets by insiders.
-- **Local resident acquisition**: Purchasing idle numbers from rural residents for small payments.
-- **Cross-border number resale**: Internationally reselling numbers to China or other operations centers through underground telecommunications dealers.
+Scam compounds in Myanmar, Cambodia, Laos, the Philippines, and elsewhere simultaneously engage in telecom fraud, with one "byproduct" being large volumes of SIM cards. Acquisition methods include: bulk registration with fake identities, corporate numbers resold by insiders, low-price purchases of idle numbers from rural residents, and cross-border resale through underground telecommunications dealers. These numbers are abundant but unstable — sources span multiple countries, number lifespans are short, and they are easily flagged by platform risk control systems as high-risk origins. They are the **basic fuel** of account farms, but not the most effective.
 
-**Chinese state-owned telecom carriers as number suppliers.** China's three major telecom operators — China Mobile, China Telecom, and China Unicom — are all state-owned enterprises, with the State-owned Assets Supervision and Administration Commission (SASAC) of the State Council as their de facto controller. This means the state's authority to allocate number resources is structural — no "infiltration" or "acquisition" is required, because the telecom infrastructure itself is already in state hands. Combined with the compulsory obligation under Article 7 of the National Intelligence Law and the real-name registration requirements of the Cybersecurity Law, state-owned telecom carriers possess both the legal basis and technical capability to directly provide bulk number resources to intelligence or military units. In practice, two pathways exist:
+#### Middle Tier: Virtual Number Platforms & IoT SIM Cards
+
+**SMS verification platforms.** China hosts numerous "SMS verification service" platforms where users pay small fees for one-time verification codes to complete account registration. The number sources behind these platforms are opaque — some may be state-owned telecom carrier resources that have passed through multiple intermediary layers. These platforms provide operators with convenient batch interfaces, but number quality is inconsistent, and the platforms themselves may become traceable leads.
+
+**IoT SIM cards.** Some IoT-purpose SIM cards face less stringent regulation and are repurposed for account registration. These cards are typically not tied to natural person identities, with low barriers but similarly limited survival rates.
+
+#### Top Tier: State-Level Number Supply from Chinese State-Owned Telecom Carriers
+
+China's three major telecom operators — China Mobile, China Telecom, and China Unicom — are all state-owned enterprises, with the State-owned Assets Supervision and Administration Commission (SASAC) of the State Council as their de facto controller. This means the state's authority to allocate number resources is **structural** — no "infiltration" or "acquisition" is required, because the telecom infrastructure itself is already in state hands. Combined with the compulsory cooperation obligation under Article 7 of the National Intelligence Law and the real-name registration framework of the Cybersecurity Law, state-owned telecom carriers possess both the legal basis and technical capability to directly provide bulk number resources to intelligence or military units.
+
+In practice, two pathways exist:
 
 - **State-level allocation**: Intelligence or united front agencies requisition unactivated or special-purpose number blocks from telecom carriers through internal administrative channels. Such allocations bypass public markets, leave no commercial records, and are virtually untraceable externally. To illustrate scale: China Mobile alone had over 980 million subscribers in 2023 — extracting hundreds of thousands of numbers from a pool of that magnitude is statistically invisible.
 - **Internal personnel leakage**: Employees at telecom carrier regional subsidiaries or authorized dealers resell bulk numbers to gray markets. This pathway exists, but given the governance structure of state-owned telecom carriers and the legal framework of the National Intelligence Law, "state-directed allocation" is far more likely than "grassroots individual leakage" — the former is institutionalized resource requisition; the latter is a system vulnerability.
 
-The strategic significance of this channel: it can provide **clean, identity-verified, controllable, and large-volume Chinese and overseas numbers** whose quality and stability far exceed numbers obtained through Southeast Asian gray markets. Platform risk control systems extend higher trust to numbers from legitimate telecom carriers, and accounts registered with such numbers have significantly higher survival rates.
+The strategic value of this channel lies in quality: it provides **clean, identity-verified numbers from legitimate telecom carriers**. Platform risk control systems extend far higher trust to such numbers than to Southeast Asian gray market sources, and accounts registered with them have significantly higher survival rates.
 
-**Domestic virtual number platforms in China.** Some platforms offer "SMS verification services" where users pay small fees for one-time verification codes to complete account registration. The number sources behind these platforms are equally opaque — some may in fact be state-owned telecom carrier numbers that have passed through multiple layers of intermediaries before reaching the end user.
+#### Critical Relay: Hong Kong & Macau Numbers
 
-**IoT SIM card abuse.** Some IoT-purpose SIM cards face less stringent regulation and are repurposed for account registration.
+Within the entire number supply chain, Hong Kong and Macau numbers play a **uniquely high-value role**.
+
+Hong Kong and Macau maintain independent number systems and international dialing codes (+852 for Hong Kong, +853 for Macau) under the "One Country, Two Systems" framework. To international platforms, HK/Macau numbers are classified as "international numbers" rather than mainland Chinese numbers (+86), exempt from any additional risk controls platforms may impose on mainland numbers. Furthermore, as an international financial and commercial hub, Hong Kong numbers carry an extremely high trust rating across global platforms — accounts registered with +852 numbers on Facebook, Instagram, X, Telegram, and similar platforms are virtually never flagged by risk controls based on number origin alone.
+
+However, following the implementation of the National Security Law (2020) and Article 23 legislation under the Basic Law (2024), Hong Kong's telecom operators — including local carriers and mainland Chinese telecom subsidiaries operating in Hong Kong — are legally subject to national security apparatus jurisdiction. Macau's situation is similar: a smaller telecom market, deeper mainland Chinese participation, and a regulatory environment more amenable to compliance. This means:
+
+- **Operators can obtain large volumes of HK/Macau numbers through legitimate channels**: Whether through state-owned telecom carriers' HK/Macau subsidiaries via direct allocation, or through Hong Kong's prepaid SIM card market (Hong Kong prepaid SIM cards only began requiring real-name registration in February 2023; prior to that, anonymous purchase was possible).
+- **HK/Macau numbers provide "identity masking" on international platforms**: Accounts appear to originate from Hong Kong or Macau — an internationalized, non-mainland Chinese source — significantly reducing the probability of attribution to mainland Chinese operations.
+- **Geographic proximity ensures operational convenience**: Shenzhen and Hong Kong are separated by a single river; Zhuhai and Macau are directly connected. The physical transfer and management costs for numbers are minimal.
+
+HK/Macau numbers therefore serve as **high-value assets** in the account factory system — deployed for accounts requiring higher credibility, such as those posing as international users, long-term sleeper accounts, or core accounts used to infiltrate high-value target communities.
 
 ### 3.3 Account Farm "Aging" Process
 
-After obtaining numbers, accounts enter the "aging" phase:
+Numbers are merely the raw material. Converting raw material into usable operational assets requires a systematic "aging" process:
 
-1. **Registration**: Creating accounts on target platforms using numbers from various countries.
-2. **Identity construction**: Filling in fictitious but plausible personal information (name, photo, education/work history). Photos are typically AI-generated or stolen from public image libraries.
+1. **Registration**: Creating accounts on target platforms using numbers from various countries. Number source quality produces immediate differentiation — accounts registered with state-owned telecom carrier and HK/Macau numbers achieve the highest pass rates, while Southeast Asian gray market numbers have the highest registration failure rates.
+2. **Identity construction**: Filling in fictitious but plausible personal information (name, photo, education/work history). Photos are typically AI-generated or stolen from public image libraries. HK/Macau number accounts can be paired with high-credibility identities such as "Taiwanese expat in Hong Kong" or "international business professional."
 3. **Behavioral simulation**: Accounts engage in weeks to months of "normal activity" — adding friends, liking, sharing innocuous content — to build credibility and pass platform risk controls.
-4. **Inventory staging**: Matured accounts are categorized into inventory (by nationality, language, interest tags), awaiting task assignment.
+4. **Inventory staging**: Matured accounts are categorized into inventory (by nationality, language, interest tags, number quality tier), awaiting task assignment.
 
-A mature account farm can manage **tens of thousands to hundreds of thousands of accounts**, forming a virtual population ready for mobilization at any time.
+### 3.4 Scale & Strategic Significance
+
+A mature account farm can manage **tens of thousands to hundreds of thousands of accounts**, forming a virtual population ready for mobilization at any time. Account quality forms a pyramid structure: the base consists of large volumes of low-cost, short-lifecycle gray market accounts used for one-time noise flooding; the middle tier consists of medium-quality accounts used for routine coordinated engagement and opinion steering; the apex consists of a smaller number of high-quality, long-term matured accounts — built on state-owned telecom carrier or HK/Macau numbers — used for infiltrating core communities, playing opinion leader roles, or executing precision operations requiring high credibility.
+
+This layered system ensures operational **resilience**: when bottom-tier accounts are banned en masse, mid-to-top-tier accounts remain unaffected; and the replenishment speed of the bottom tier depends on the stability of the number supply chain — which is precisely where the strategic value of state-owned telecom carriers and the HK/Macau channel lies.
 
 ---
 
@@ -186,14 +207,19 @@ More critically, both platforms can run recommendation experiments **natively** 
 Operations centers are located within China (or Southeast Asian compounds), but through multi-layer VPNs and proxy servers, account IP addresses are spoofed as:
 
 - **Taiwan local IPs**: Making accounts appear to be from local Taiwanese users.
+- **Hong Kong/Macau IPs**: Paired with the HK/Macau number strategy described in Chapter III — accounts registered with HK/Macau numbers also display HK/Macau IP addresses, constructing a complete and consistent "international user" identity. The additional advantage of HK/Macau IPs: they do not trigger platforms' special scrutiny mechanisms for mainland Chinese IPs, while geographic proximity to operations centers (Shenzhen–Hong Kong, Zhuhai–Macau) ensures extremely low network latency, with an operational experience approaching local connectivity.
 - **Japan/US/Europe IPs**: Matching accounts posing as foreign nationals.
 - **Multi-country random hopping**: Increasing the technical cost of platform tracking and attribution.
 
-### 5.2 Residential Proxies
+### 5.2 Hong Kong's Structural Advantage as a Network Relay
+
+Hong Kong holds a structural position in the geographic spoofing system that transcends that of an ordinary VPN node. Hong Kong maintains independent internet infrastructure not subject to the mainland's Great Firewall filtering, with abundant international bandwidth and status as one of the Asia-Pacific region's most important internet exchange points. Numerous international CDNs, cloud service providers, and VPN vendors operate nodes in Hong Kong, making Hong Kong IP addresses high-reputation addresses across the global internet. Operators can easily obtain Hong Kong exit IPs through Shenzhen–Hong Kong cross-border dedicated lines or commercial VPNs, and because Hong Kong natively carries massive volumes of legitimate cross-border internet traffic, such operational traffic blends in and is extremely difficult to identify as anomalous. Macau's situation is similar but smaller in scale, primarily serving as a backup channel.
+
+### 5.3 Residential Proxies
 
 More covert than traditional VPNs are "residential proxy" services: traffic relay through real household network devices implanted with proxy software. Platforms are nearly unable to distinguish such traffic from normal users.
 
-### 5.3 Cloud Jump Nodes
+### 5.4 Cloud Jump Nodes
 
 Leveraging data centers from public clouds like AWS, GCP, and Azure worldwide to establish proxy nodes. Since these platforms simultaneously carry large volumes of legitimate traffic, pure IP-based blocking strategies have limited effectiveness.
 
