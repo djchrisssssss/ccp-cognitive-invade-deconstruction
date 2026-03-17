@@ -649,7 +649,7 @@ Understanding the mechanism is the first step of defense. The second step is sys
 
 [5] Hille, K. (2019). "Taiwan primaries highlight fears over China's political influence." *Financial Times*, 16 July 2019.
 
-[5b] Want Want China Holdings Ltd. 2017/2018 Annual Report (HKEX filing); reported by Apple Daily (2019-04-22) and Taiwan Public Television (2019-04-22).
+[5b] Want Want China Holdings Ltd. 2017/2018 Annual Report (HKEX filing); reported by Taiwan Public Television (PTS) (2019-04-22) and Taiwan News (2019-04-22).
 
 [6] Freedom House. (2022). *Beijing's Global Media Influence 2022: Taiwan Chapter*. Freedom House.
 
