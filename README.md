@@ -20,7 +20,7 @@ The goal is to help readers understand the mechanics of this operational system 
 
 | 文件 | 說明 |
 |------|------|
-| [docs/zh-TW/README.md](docs/zh-TW/README.md) | 繁體中文版 |
+| [docs/zh-TW/README.md](docs/zh-TW/README.md) | 正體中文版 |
 | [docs/en/README.md](docs/en/README.md) | English version |
 
 ## 結構 / Structure
@@ -40,13 +40,17 @@ The goal is to help readers understand the mechanics of this operational system 
 
 ## 內容大綱 / Outline
 
+**起點 / Origins**
+
+- **認知作戰的思想根源與技術演化** — 超限戰、三戰原則、防火長城、網評員、311 基地、制度化加速、AI 轉折 / Ideological Roots & Technical Evolution — Unrestricted Warfare, Three Warfares, Great Firewall, commentators, Base 311, institutionalization, AI inflection
+
 **第一部：作戰機器 / Part I: The War Machine**
 
 1. **指揮架構** — 黨、軍、企、灰的四層嵌套 / Command Structure — Four-layer nesting
 2. **人力引擎** — 網評員體系與監獄網路勞動 / Human Engine — Internet commentators & prison cyber labor
-3. **帳號工廠** — 手機號碼供應鏈與東南亞節點 / Account Factories — Phone number supply chains
+3. **帳號工廠** — 手機號碼供應鏈與帳號量產體系（含港澳號碼） / Account Factories — Phone number supply chains & mass account production (incl. HK/Macau)
 4. **自動化系統** — Bot 網路、LLM 生成內容、平台演算法操縱 / Automation — Botnets, AI-generated content, platform algorithm manipulation
-5. **VPN 跳板** — 地理偽裝技術 / VPN Proxies — Geographic spoofing
+5. **VPN 跳板** — 地理偽裝技術（含港澳網路跳板） / VPN Proxies — Geographic spoofing (incl. HK/Macau relay)
 
 **第二部：滲透管道 / Part II: Infiltration Channels**
 
@@ -78,8 +82,8 @@ All citations in the document have been individually fact-checked by cross-refer
 
 | 驗證報告 | 說明 |
 |----------|------|
-| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 35 條引用逐條核實 |
-| [docs/verification/en.md](docs/verification/en.md) | English report — 35 citations verified line by line |
+| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 44 條引用逐條核實 |
+| [docs/verification/en.md](docs/verification/en.md) | English report — 44 citations verified line by line |
 
 ## 引用研究 / Referenced Research
 
