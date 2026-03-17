@@ -8,6 +8,58 @@ A single Dongfeng missile costs tens of millions of RMB, with limited effect and
 
 This operational system is already running.
 
+But it did not appear from nowhere. This system has a complete trajectory of ideological origins, institutional construction, and technological iteration — traceable at least twenty years back.
+
+---
+
+## Origins: The Ideological Roots & Technical Evolution of Cognitive Warfare
+
+### Ideological Precursors: Unrestricted Warfare and the Three Warfares Doctrine
+
+In 1999, PLA Air Force Senior Colonels **Qiao Liang** and **Wang Xiangsui** published *Unrestricted Warfare* (超限戰), arguing that China could not confront a technologically superior adversary through conventional military means alone and must expand conflict into political, economic, cyber, and informational domains. Published by the PLA Literature and Arts Publishing House, its core thesis was: "The first rule of unrestricted warfare is that there are no rules, with nothing forbidden." This book provided the theoretical legitimacy for all subsequent non-kinetic attack methods — including cognitive warfare [36].
+
+In December 2003, the CCP Central Committee and Central Military Commission approved the revised *Political Work Regulations of the PLA*, formally codifying the **"Three Warfares"** (三戰) into PLA operational doctrine [37]:
+
+- **Public Opinion Warfare** (輿論戰): Combining propaganda with deception to manage target audience perception.
+- **Psychological Warfare** (心理戰): Using propaganda, threats, and coercion to affect adversary decision-making.
+- **Legal Warfare / Lawfare** (法律戰): Leveraging domestic and international law as strategic instruments.
+
+The Three Warfares doctrine was shaped by PLA studies of U.S. military operations in Iraq (1991), Yugoslavia (1999), and Afghanistan (2001), with intellectual roots drawing on both Sun Tzu's *Art of War* and Maoist political warfare traditions. This doctrine provided an institutionalized doctrinal framework for cognitive warfare — public opinion warfare and psychological warfare were no longer "auxiliary operations" but formal operational domains parallel to kinetic strikes.
+
+### The Earliest Infrastructure: The Great Firewall and the Internet Commentator System
+
+The technical infrastructure of cognitive warfare has roots far predating the social media era.
+
+The **Golden Shield Project** was initiated by the Ministry of Public Security in 1998. Its core subproject — the Great Firewall — became operational in November 2003, with major upgrades completed between 2006 and 2008. Originally designed as a database-driven surveillance system linking national security agencies, its focus shifted to content filtering and censorship as China's internet expanded explosively. The Great Firewall serves a dual purpose: it is both the infrastructure for domestic speech control and the technical backbone for outbound information operations — including VPN exit controls, traffic monitoring, and user behavior analytics capabilities [38].
+
+The **internet commentator system** began taking shape in 2004. In October 2004, Changsha's Propaganda Department became one of the first to hire internet commentators, paying 0.5 RMB per post — giving rise to the "50 Cent Party" (五毛黨) label. In March 2005, the Ministry of Education systematically purged university BBS forums and recruited student part-time commentators. In January 2007, Hu Jintao demanded "reinforcement of online ideological and public opinion front construction" at the 38th Politburo collective learning session, instructing major websites and local governments to form "internet commentator teams." By 2009, the Ministry of Culture had established a formal recruitment process including examinations, training sessions, and job certification [39].
+
+### The Taiwan-Dedicated Unit: PLA Base 311
+
+In 2005, the PLA established **Base 311** (Unit 61716) in **Fuzhou, Fujian Province** — directly across the Taiwan Strait — with the official designation "Public Opinion, Psychological Operations, and Legal Warfare Base." The base was created specifically to execute Three Warfares operations against Taiwan, overseeing at least six regiment-level units and operating through civilian front companies, most notably the **China Huayi Broadcasting Corporation (CHBC)** and **Voice of the Straits**. CHBC's CEO, Wang Shu, simultaneously served as Base 311's commander. Researchers Mark Stokes and Russell Hsiao noted that Base 311 "carries roughly as much status as all those six conventional missile brigades [from the Second Artillery Corps' Base 52] that target Taiwan combined" [40]. Subordinate units include Unit 61070, a network propaganda center.
+
+This means that CCP cognitive warfare against Taiwan is not a phenomenon that was only "discovered" after the 2018 election interference — it has had a dedicated military-grade organization, command structure, and execution units since 2005.
+
+### The Institutionalization Acceleration: 2014–2017
+
+In February 2014, the **Central Leading Group for Cyberspace Affairs** was established, with Xi Jinping personally assuming the role of group leader. This was the first time a CCP paramount leader directly oversaw cyberspace strategy, marking the upgrade of cyber operations from a dispersed departmental activity to a core Party strategy. In March 2018, the group was elevated to the **Central Cyberspace Affairs Commission**, further centralizing leadership.
+
+On December 31, 2015, the **PLA Strategic Support Force** was established, integrating space, cyber, and information warfare capabilities under a single service branch. Its Network Systems Department — built on the former General Staff Department's 3rd Department — unified all strategic information operations units, including cyber warfare, electronic warfare, psychological warfare, and technical reconnaissance. In April 2024, the Strategic Support Force was dissolved and split into three independent arms: the **PLA Aerospace Force**, the **PLA Cyberspace Force**, and the **PLA Information Support Force**.
+
+On June 27, 2017, the **National Intelligence Law** was passed. Article 7 stipulates: "All organizations and citizens shall support, assist, and cooperate with national intelligence efforts in accordance with law." Article 14 grants intelligence agencies authority to "demand that concerned organs, organizations, or citizens provide needed support, assistance, and cooperation." The **Cybersecurity Law**, which took effect on June 1, 2017, mandated data localization, real-name registration, and critical infrastructure security reviews. Together, these two laws created a legal framework: any technology company operating within China — including platforms with global user data — is legally obligated to comply with requests from national intelligence and security agencies.
+
+### The Technology Inflection Points: From Manual Operations to AI-Scale Warfare
+
+Taiwan's 2018 local elections were the turning point that exposed the scale of cognitive warfare operations against Taiwan. Investigations revealed that over 60% of disputed messages originated from overseas, with content farms forming transnational networks spanning Taiwan, Singapore, Malaysia, Hong Kong, and China. Closed LINE groups became the primary dissemination channel. The University of Gothenburg's V-Dem project ranked Taiwan as **the liberal democracy most targeted by foreign government disinformation worldwide** [41].
+
+On August 19, 2019, Twitter, Facebook, and YouTube conducted the first large-scale public attribution and removal of Chinese state-backed coordinated accounts — the first time major platforms formally confirmed Chinese government-level information operations. That same year, Google's Mandiant began formally tracking the DRAGONBRIDGE (Spamouflage) network, with activity traceable back to 2017 [42].
+
+The entry of generative AI created a qualitative shift in operational capability. In February 2023, Storm-1376/Spamouflage began deploying AI-generated television news anchors. During the January 2024 Taiwan presidential election, Microsoft's Threat Analysis Center (MTAC) documented this as **"the first time Microsoft Threat Intelligence has witnessed a nation-state actor using AI content in attempts to influence a foreign election"** — methods included over 100 AI deepfake videos, synthesized voice, fabricated candidate endorsements, and AI-generated e-books [43]. In February 2025, OpenAI discovered Chinese operators using ChatGPT for "cyber special operations," with one user's prompts revealing that "approximately 300 operators worked in their province alone" across hundreds of platforms [44].
+
+### Twenty Years of Trajectory
+
+Reviewing this timeline, what becomes clear is that the cognitive warfare system we face today is not the product of any single event, but the result of at least twenty years of continuous construction. From the theoretical foundation of *Unrestricted Warfare* in 1999, the Three Warfares' codification into military doctrine in 2003, the internet commentator system's launch in 2004, Base 311's establishment for dedicated Taiwan operations in 2005, the institutional acceleration of 2014–2017, to the full deployment of AI technology in 2023–2024 — each phase is the natural extension of the one before it. Infrastructure stacks layer upon layer, technological capability grows exponentially, and operational scale continues to expand. Understanding the historical depth of this system is essential for accurately assessing its current threat level — this is not an improvised information war, but a systems engineering project that has undergone over two decades of iterative refinement.
+
 ---
 
 ## Part I: The War Machine — Infrastructure & Capabilities
@@ -548,7 +600,7 @@ For defenders, the key recognitions are:
 
 Understanding the mechanism is the first step of defense. The second step is systematically applying metacognitive analysis to information sources, dissemination paths, and emotional inducement when receiving information.
 
-**This war has been ongoing for more than a decade.**
+**This war — from ideological preparation to full-scale operations — has been underway for at least twenty years.**
 
 ---
 
@@ -625,5 +677,23 @@ Understanding the mechanism is the first step of defense. The second step is sys
 [34] *Reuters*. (2018-04-26). "China demands airlines change Taiwan references." See also *Washington Post*. (2018-01-12). "Marriott apologizes to China after listing Tibet, Taiwan as separate countries."
 
 [35] *Financial Times*. (2024). "China suspends ECFA tariff concessions on 134 Taiwan products." See also *Brookings Institution*. (2024). "ECFA as economic statecraft: origins and implications." See also Taiwan Ministry of Economic Affairs ECFA-related statements (2023–2024).
+
+[36] Qiao, L. & Wang, X. (1999). *Unrestricted Warfare* (超限戰). PLA Literature and Arts Publishing House. See also *Wikipedia*. "Unrestricted Warfare."
+
+[37] CCP Central Committee & Central Military Commission. (2003-12). Revised *Political Work Regulations of the PLA*. See also War on the Rocks. (2018). "China's Three Warfares in Perspective." See also Jamestown Foundation. "The PLA's Latest Strategic Thinking on the Three Warfares."
+
+[38] *Wikipedia*. "Golden Shield Project." See also Stanford CS. "Background on the Great Firewall."
+
+[39] *Wikipedia*. "50 Cent Party." See also King, G., Pan, J., & Roberts, M. E. (2017) [same as citation 1]. See also *Washington Post*. (2016-05-19). "The Chinese government fakes nearly 450 million social media comments a year."
+
+[40] Stokes, M. & Hsiao, R. Project 2049 Institute publications on PLA political warfare. See also *The National Interest*. "Unstoppable: China's Secret Plan to Subvert Taiwan." See also Charon, P. & Jeangène Vilmer, J.-B. (2021). *Chinese Influence Operations: A Machiavellian Moment*. IRSEM.
+
+[41] V-Dem Institute, University of Gothenburg. Digital Society Survey. See also *The Reporter*. "The Content Mill Empire Behind Online Disinformation in Taiwan." See also *Foreign Policy*. (2020-11-23). "Line and the Taiwanese Government Are Beating Disinformation."
+
+[42] Facebook. (2019-08). "Removing Coordinated Inauthentic Behavior From China." See also *NPR*. (2019-09-17). "China Used Twitter to Disrupt Hong Kong Protests." See also Mandiant/Google Cloud. DRAGONBRIDGE tracking report series (2019–2024).
+
+[43] Microsoft Threat Analysis Center (MTAC). (2024-04-04). "Same targets, new playbooks: East Asia threat actors employ unique methods." See also Jamestown Foundation. (2024). "Deepfakes with Chinese Characteristics: PRC Influence Operations in 2024."
+
+[44] OpenAI. (2025-02). Influence operations disruption report. See also *Defense One*. (2024-04). "How China used TikTok, AI, and big data to target Taiwan's elections."
 
 ---
