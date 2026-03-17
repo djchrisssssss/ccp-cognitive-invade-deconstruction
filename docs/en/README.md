@@ -334,7 +334,7 @@ The precision of this mechanism lies in the fact that **those affected are nearl
 
 ## Part III: Leverage & Co-optation — Economy, Culture & Individuals
 
-## VIII. Capital Infiltration: Systematic Construction of Economic Dependency
+## VIII. Capital & Institutional Coercion: From Economic Dependency to Naming Cognitive Warfare
 
 ### 8.1 Media Advertising Revenue Control
 
@@ -391,7 +391,28 @@ Each ban was precisely calculated: the targeted products were concentrated in sp
 
 Tourism and trade agreement sanctions are equally embedded in the cognitive warfare closed loop: reduced Chinese tourist arrivals cause tourism industry distress → media intensively covers the "tourism slump" → co-opted commentators attribute the decline to "the government's refusal to improve cross-strait relations" → the genuine hardship of local businesses is converted into a political attack surface framed as "government incompetence." The ECFA suspension is even more precisely targeted — 134 product categories span petrochemicals, textiles, machinery, and other export-oriented industries, and affected business owners become a direct lobbying force pressuring the government. The design logic of the entire operation: **make Taiwan's internal contradictions do the CCP's political pressure work for it**.
 
-### 8.8 Pattern Summary: The Dual-Track Closed Loop of Economic Coercion × Public Opinion Manipulation
+### 8.8 "Chinese Taipei" — Translation as Cognitive Warfare
+
+Since the 1981 Lausanne Agreement, the IOC has forced Taiwan to compete as "Chinese Taipei" — a mechanism running over 40 years. This is not merely a product of political compromise; it is **cognitive warfare executed through naming itself**.
+
+**The asymmetric translation trap.** In Chinese, "Chinese Taipei" is rendered as "中華台北," borrowing the cultural ambiguity of "中華" to dilute political implications — Taiwanese audiences can at least console themselves that "中華" abbreviates "中華民國" (Republic of China). For English speakers worldwide, however, **"Chinese" maps unambiguously to "China."** "Chinese Taipei" is instinctively parsed as "China's Taipei," following the exact same grammatical logic as "Chinese food," "Chinese government," or "Chinese embassy." No semantic buffer between "中華" and "中國" exists in the English language — **"Chinese Taipei" is cognitively indistinguishable from "China's Taipei,"** precisely achieving the political-attribution framing Beijing desires [19].
+
+**Exposure scenarios and cognitive impact.** This name does not appear only at the Olympics — it is systematically embedded in every scenario where global audiences might encounter Taiwan:
+
+| Scenario | Exposure Scale | Cognitive Effect |
+|----------|---------------|-----------------|
+| **Summer/Winter Olympics** | 3–4 billion viewers per edition | Flag-bearing at opening ceremonies, medal tallies, broadcast captions all display "Chinese Taipei" — the world's largest-scale public identity denial |
+| **International sports federations** (FIFA, FIBA, BWF, WTT, etc.) | Combined annual viewership in the billions | World Cup qualifiers, badminton opens, table tennis tours — daily events continuously reinforcing the impression "Taiwan = part of China" |
+| **World Health Assembly (WHA) / WHO** | Global news coverage | Taiwan denied participation year after year, rejected even as a "Chinese Taipei" observer — particularly absurd during COVID-19 |
+| **International Civil Aviation Organization (ICAO)** | Global aviation industry | Taiwan excluded entirely, unable to directly access civil aviation safety information — safety risks politicized |
+| **Asia-Pacific Economic Cooperation (APEC)** | Global economic leaders' summit | Taiwan may only participate as "Chinese Taipei," the president is barred from attending and must send a "leader's representative" |
+| **Airline booking systems** | Billions of booking queries annually | When travelers search "Taiwan," some systems display "Taiwan, China" or "Chinese Taipei" — micro-level daily identity erosion |
+| **International sports broadcast graphics** | Real-time visuals during every match | Scoreboards, athlete introductions, and flag slots all display "TPE" or "Chinese Taipei," with the plum blossom flag substituted — visually never presented as an independent nation |
+| **Academic & international conferences** | Professional communities | Taiwanese scholars forced to use "Chinese Taipei" in WHO- and ICAO-related academic forums; country designations in academic publications remain persistently contested |
+
+**Cumulative effect.** A single exposure may seem trivial, but the power of this naming regime lies in its **omnipresence and perpetuity**. From billions of Olympic viewers to the individual experience of booking a flight, from international news headlines to sports broadcast scoreboards — every appearance of "Chinese Taipei" executes a micro-dose implantation of "Taiwan belongs to China" in global cognition. Forty years multiplied by hundreds of scenarios multiplied by billions of viewers: this is the largest-scale, longest-running public identity denial project in human history. Its most ingenious feature: **most people don't even realize this is cognitive warfare — they simply assume Taiwan has always been part of China**.
+
+### 8.9 Pattern Summary: The Dual-Track Closed Loop of Economic Coercion × Public Opinion Manipulation
 
 The cases above reveal not isolated incidents but a **systematic architecture deeply integrating economic coercion with cognitive warfare**. Its operational logic unfolds in four phases:
 
@@ -436,32 +457,11 @@ Co-optation is the carrot; pressure is the stick. Both frequently target **the s
 
 The full combination of pressure mechanisms includes: **market denial**, **financial punishment**, **nationalist mobilization**, **forced loyalty statements**, **hostage-style apologies**, **identity erasure**, **institutional co-optation**, and **bystander punishment**.
 
-### 9.4 "Chinese Taipei" — Translation as Cognitive Warfare
-
-Since the 1981 Lausanne Agreement, the IOC has forced Taiwan to compete as "Chinese Taipei" — a mechanism running over 40 years. This is not merely a product of political compromise; it is **cognitive warfare executed through naming itself**.
-
-**The asymmetric translation trap.** In Chinese, "Chinese Taipei" is rendered as "中華台北," borrowing the cultural ambiguity of "中華" to dilute political implications — Taiwanese audiences can at least console themselves that "中華" abbreviates "中華民國" (Republic of China). For English speakers worldwide, however, **"Chinese" maps unambiguously to "China."** "Chinese Taipei" is instinctively parsed as "China's Taipei," following the exact same grammatical logic as "Chinese food," "Chinese government," or "Chinese embassy." No semantic buffer between "中華" and "中國" exists in the English language — **"Chinese Taipei" is cognitively indistinguishable from "China's Taipei,"** precisely achieving the political-attribution framing Beijing desires [19].
-
-**Exposure scenarios and cognitive impact.** This name does not appear only at the Olympics — it is systematically embedded in every scenario where global audiences might encounter Taiwan:
-
-| Scenario | Exposure Scale | Cognitive Effect |
-|----------|---------------|-----------------|
-| **Summer/Winter Olympics** | 3–4 billion viewers per edition | Flag-bearing at opening ceremonies, medal tallies, broadcast captions all display "Chinese Taipei" — the world's largest-scale public identity denial |
-| **International sports federations** (FIFA, FIBA, BWF, WTT, etc.) | Combined annual viewership in the billions | World Cup qualifiers, badminton opens, table tennis tours — daily events continuously reinforcing the impression "Taiwan = part of China" |
-| **World Health Assembly (WHA) / WHO** | Global news coverage | Taiwan denied participation year after year, rejected even as a "Chinese Taipei" observer — particularly absurd during COVID-19 |
-| **International Civil Aviation Organization (ICAO)** | Global aviation industry | Taiwan excluded entirely, unable to directly access civil aviation safety information — safety risks politicized |
-| **Asia-Pacific Economic Cooperation (APEC)** | Global economic leaders' summit | Taiwan may only participate as "Chinese Taipei," the president is barred from attending and must send a "leader's representative" |
-| **Airline booking systems** | Billions of booking queries annually | When travelers search "Taiwan," some systems display "Taiwan, China" or "Chinese Taipei" — micro-level daily identity erosion |
-| **International sports broadcast graphics** | Real-time visuals during every match | Scoreboards, athlete introductions, and flag slots all display "TPE" or "Chinese Taipei," with the plum blossom flag substituted — visually never presented as an independent nation |
-| **Academic & international conferences** | Professional communities | Taiwanese scholars forced to use "Chinese Taipei" in WHO- and ICAO-related academic forums; country designations in academic publications remain persistently contested |
-
-**Cumulative effect.** A single exposure may seem trivial, but the power of this naming regime lies in its **omnipresence and perpetuity**. From billions of Olympic viewers to the individual experience of booking a flight, from international news headlines to sports broadcast scoreboards — every appearance of "Chinese Taipei" executes a micro-dose implantation of "Taiwan belongs to China" in global cognition. Forty years multiplied by hundreds of scenarios multiplied by billions of viewers: this is the largest-scale, longest-running public identity denial project in human history. Its most ingenious feature: **most people don't even realize this is cognitive warfare — they simply assume Taiwan has always been part of China**.
-
-### 9.5 Carrot and Stick: The Compound Effect on Taiwan
+### 9.4 Carrot and Stick: The Compound Effect on Taiwan
 
 Co-optation and coercion do not operate independently — they **target the same groups simultaneously**: Taiwanese entertainers who comply gain Chinese market access (carrot); those who refuse face bans and public shaming (stick). This dual-track manipulation produces three effects. **Globally**: when Hollywood removes Taiwan's flag and celebrities dare not call Taiwan a "country," billions of viewers receive the message that Taiwan's status is political taboo — pushing international identity from normalization toward unspeakability. **Domestically**: when Taiwan's cultural icons are forced to declare "I am Chinese" while trusted KOLs continuously output pro-Beijing narratives, national identity is eroded from both sides simultaneously. **Chilling effect**: every punitive precedent ensures **preemptive silence** becomes the default for global corporations and public figures.
 
-### 9.6 Target Category Coverage
+### 9.5 Target Category Coverage
 
 Manipulation targets span **all domains**, and operational methods are almost always **deployed in combination** — a single target may simultaneously face co-optation, pressure, entrapment, and coercion:
 
