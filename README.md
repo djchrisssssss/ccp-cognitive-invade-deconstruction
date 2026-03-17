@@ -22,12 +22,14 @@ The goal is to help readers understand the mechanics of this operational system 
 |------|------|
 | [docs/zh-TW/README.md](docs/zh-TW/README.md) | 正體中文版 |
 | [docs/en/README.md](docs/en/README.md) | English version |
+| [NON-SUICIDE-DECLARATION.md](NON-SUICIDE-DECLARATION.md) | 不自殺聲明 / Non-Suicide Declaration |
 
 ## 結構 / Structure
 
 ```text
 .
 ├── README.md
+├── NON-SUICIDE-DECLARATION.md
 └── docs
     ├── en
     │   └── README.md
