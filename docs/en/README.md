@@ -334,7 +334,7 @@ The precision of this mechanism lies in the fact that **those affected are nearl
 
 ## Part III: Leverage & Co-optation — Economy, Culture & Individuals
 
-## VIII. Capital Infiltration: Systematic Construction of Economic Dependency
+## VIII. Capital & Institutional Coercion: From Economic Dependency to Naming Cognitive Warfare
 
 ### 8.1 Media Advertising Revenue Control
 
@@ -391,7 +391,28 @@ Each ban was precisely calculated: the targeted products were concentrated in sp
 
 Tourism and trade agreement sanctions are equally embedded in the cognitive warfare closed loop: reduced Chinese tourist arrivals cause tourism industry distress → media intensively covers the "tourism slump" → co-opted commentators attribute the decline to "the government's refusal to improve cross-strait relations" → the genuine hardship of local businesses is converted into a political attack surface framed as "government incompetence." The ECFA suspension is even more precisely targeted — 134 product categories span petrochemicals, textiles, machinery, and other export-oriented industries, and affected business owners become a direct lobbying force pressuring the government. The design logic of the entire operation: **make Taiwan's internal contradictions do the CCP's political pressure work for it**.
 
-### 8.8 Pattern Summary: The Dual-Track Closed Loop of Economic Coercion × Public Opinion Manipulation
+### 8.8 "Chinese Taipei" — Translation as Cognitive Warfare
+
+Since the 1981 Lausanne Agreement, the IOC has forced Taiwan to compete as "Chinese Taipei" — a mechanism running over 40 years. This is not merely a product of political compromise; it is **cognitive warfare executed through naming itself**.
+
+**The asymmetric translation trap.** In Chinese, "Chinese Taipei" is rendered as "中華台北," borrowing the cultural ambiguity of "中華" to dilute political implications — Taiwanese audiences can at least console themselves that "中華" abbreviates "中華民國" (Republic of China). For English speakers worldwide, however, **"Chinese" maps unambiguously to "China."** "Chinese Taipei" is instinctively parsed as "China's Taipei," following the exact same grammatical logic as "Chinese food," "Chinese government," or "Chinese embassy." No semantic buffer between "中華" and "中國" exists in the English language — **"Chinese Taipei" is cognitively indistinguishable from "China's Taipei,"** precisely achieving the political-attribution framing Beijing desires [19].
+
+**Exposure scenarios and cognitive impact.** This name does not appear only at the Olympics — it is systematically embedded in every scenario where global audiences might encounter Taiwan:
+
+| Scenario | Exposure Scale | Cognitive Effect |
+|----------|---------------|-----------------|
+| **Summer/Winter Olympics** | 3–4 billion viewers per edition | Flag-bearing at opening ceremonies, medal tallies, broadcast captions all display "Chinese Taipei" — the world's largest-scale public identity denial |
+| **International sports federations** (FIFA, FIBA, BWF, WTT, etc.) | Combined annual viewership in the billions | World Cup qualifiers, badminton opens, table tennis tours — daily events continuously reinforcing the impression "Taiwan = part of China" |
+| **World Health Assembly (WHA) / WHO** | Global news coverage | Taiwan denied participation year after year, rejected even as a "Chinese Taipei" observer — particularly absurd during COVID-19 |
+| **International Civil Aviation Organization (ICAO)** | Global aviation industry | Taiwan excluded entirely, unable to directly access civil aviation safety information — safety risks politicized |
+| **Asia-Pacific Economic Cooperation (APEC)** | Global economic leaders' summit | Taiwan may only participate as "Chinese Taipei," the president is barred from attending and must send a "leader's representative" |
+| **Airline booking systems** | Billions of booking queries annually | When travelers search "Taiwan," some systems display "Taiwan, China" or "Chinese Taipei" — micro-level daily identity erosion |
+| **International sports broadcast graphics** | Real-time visuals during every match | Scoreboards, athlete introductions, and flag slots all display "TPE" or "Chinese Taipei," with the plum blossom flag substituted — visually never presented as an independent nation |
+| **Academic & international conferences** | Professional communities | Taiwanese scholars forced to use "Chinese Taipei" in WHO- and ICAO-related academic forums; country designations in academic publications remain persistently contested |
+
+**Cumulative effect.** A single exposure may seem trivial, but the power of this naming regime lies in its **omnipresence and perpetuity**. From billions of Olympic viewers to the individual experience of booking a flight, from international news headlines to sports broadcast scoreboards — every appearance of "Chinese Taipei" executes a micro-dose implantation of "Taiwan belongs to China" in global cognition. Forty years multiplied by hundreds of scenarios multiplied by billions of viewers: this is the largest-scale, longest-running public identity denial project in human history. Its most ingenious feature: **most people don't even realize this is cognitive warfare — they simply assume Taiwan has always been part of China**.
+
+### 8.9 Pattern Summary: The Dual-Track Closed Loop of Economic Coercion × Public Opinion Manipulation
 
 The cases above reveal not isolated incidents but a **systematic architecture deeply integrating economic coercion with cognitive warfare**. Its operational logic unfolds in four phases:
 
@@ -430,7 +451,7 @@ Public figure manipulation spans a **continuous spectrum from hard acquisition t
 
 Co-optation is the carrot; pressure is the stick. Both frequently target **the same individuals**. The core mechanism is the **weaponization of market access**: China possesses one of the world's largest box office markets, hundreds of millions of sports viewers, and massive music and gaming consumer markets. Any enterprise or individual dependent on the Chinese market must choose between freedom of expression and revenue. The strategic objective is not to win every conflict, but to make **self-censorship the default behavior**.
 
-**Sports.** After NBA GM Daryl Morey tweeted support for Hong Kong in 2019, CCTV and Tencent suspended broadcasts and all 11 Chinese partners severed ties, costing hundreds of millions; an ESPN internal memo instructed staff to avoid China/Hong Kong topics. Virtually no mainstream sports figure has spoken on Chinese human rights since [17]. Peng Shuai disappeared from public view in 2021 after accusing a former Vice Premier of sexual assault; the WTA suspended China tournaments but ultimately returned without independent safety verification [18]. The IOC has forced Taiwan to compete as "Chinese Taipei" since 1981 — an identity erasure mechanism running over 40 years [19]. Blizzard banned a Hong Kong player and fired two **Taiwanese** casters in 2019 after "Liberate Hong Kong" was shouted at a tournament hosted **in Taiwan** — bystanders punished for another's speech [20].
+**Sports.** After NBA GM Daryl Morey tweeted support for Hong Kong in 2019, CCTV and Tencent suspended broadcasts and all 11 Chinese partners severed ties, costing hundreds of millions; an ESPN internal memo instructed staff to avoid China/Hong Kong topics. Virtually no mainstream sports figure has spoken on Chinese human rights since [17]. Peng Shuai disappeared from public view in 2021 after accusing a former Vice Premier of sexual assault; the WTA suspended China tournaments but ultimately returned without independent safety verification [18]. Blizzard banned a Hong Kong player and fired two **Taiwanese** casters in 2019 after "Liberate Hong Kong" was shouted at a tournament hosted **in Taiwan** — bystanders punished for another's speech [20].
 
 **Entertainment.** Sixteen-year-old Chou Tzuyu was forced to tearfully apologize "There is only one China" in 2016 after holding a ROC flag; academic research showed this influenced approximately 1.34 million young voters [21]. John Cena was forced to apologize in Mandarin in 2021 merely for calling Taiwan a "country" [22]. In 2024, over 70 Taiwanese artists reposted CCTV's "Taiwan independence is a dead end" statement, while those who did **not** repost were publicly called out; academic research found 85% of China's top 218 celebrities reposted official political messages at least once [23]. PEN America documented systematic Hollywood self-censorship: flag removals, character ethnicity changes, and systematic avoidance of sensitive topics [24]. After South Korea deployed THAAD, Korean cultural exports were banned for eight years, with estimated losses of **22 trillion KRW (approximately US$15.3 billion)** [25].
 
