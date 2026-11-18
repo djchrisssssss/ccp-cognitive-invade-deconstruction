@@ -82,8 +82,8 @@ All citations in the document have been individually fact-checked by cross-refer
 
 | 驗證報告 | 說明 |
 |----------|------|
-| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 47 條引用逐條核實 |
-| [docs/verification/en.md](docs/verification/en.md) | English report — 47 citations verified line by line |
+| [docs/verification/zh-TW.md](docs/verification/zh-TW.md) | 中文驗證報告 — 47 條引用逐條查核，其中 [45]、[47] 部分細節待確認（見報告） |
+| [docs/verification/en.md](docs/verification/en.md) | English report — 47 citations checked line by line; some details of [45] and [47] remain unconfirmed (see report) |
 
 ## 引用研究 / Referenced Research
 
@@ -114,10 +114,10 @@ All citations in the document have been individually fact-checked by cross-refer
 - Ahn, J. & Lin, T. (2019). "The politics of apology: The 'Tzuyu Scandal' and transnational dynamics of K-pop." *International Communication Gazette*.
 - Wang, Y. (2020). "Sports in the Transnational Public Sphere: Daryl Morey's Hong Kong Tweet." *The International Journal of the History of Sport*.
 
-- Goldstein, B. & Benson, B. (2025). *The GoLaxy Documents*. Vanderbilt Institute of National Security.
+- Goldstein, B. J. & Benson, B. V. (2025). *The GoLaxy Documents: Inside One Chinese Company's AI-Driven Influence Machine*. Vanderbilt Institute of National Security.
 - Doublethink Lab. (2026). "The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents."
 - OpenAI. (2026). *Disrupting Malicious Uses of AI*. Threat intelligence report.
-- Taiwan National Security Bureau. (2026). *2025 Analysis of CCP Cognitive Warfare Tactics Against Taiwan*.
+- Taiwan National Security Bureau. (2026). *Analysis of China's Cognitive Warfare Tactics Against Taiwan in 2025*.
 
 完整引用清單請參閱各語言版文件底部。/ Full citations available at the bottom of each language version.
 

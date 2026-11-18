@@ -2,7 +2,7 @@
 
 本報告針對《中共對台網路認知作戰：結構、技術與操作鏈全解構》文件中所有引用來源進行逐條事實驗證。驗證過程中發現的錯誤已直接修正於文件中，修正前版本保留於 git 歷史。
 
-驗證日期：2026-03-16
+驗證日期：2026-03-16（[1]–[44]）；2026-11-18（[45]–[47]）
 
 ---
 
@@ -607,6 +607,77 @@
 - **「數百個平台」活動範圍**：與報告描述一致
 
 **驗證狀態**：✅ 正確
+
+---
+
+### 2026-03-18 新增引用 [45]–[47]
+
+[45]–[47] 於 2026-03-18 加入文件（commit `14fd82e`），當時未納入本報告，於 2026-11-18 補驗。
+
+---
+
+### [45] Goldstein & Benson (2025) — GoLaxy 文件（中科天璣）
+
+**引用內容**：中科天璣 399 頁內部文件：2010 年由中科院計算所創立、2021 年獲中科曙光資助；客戶含網信辦、軍委科技委、311 基地、國台辦；中央控制台管理帳號農場；以 DeepSeek 生成的對話式 AI 人設；5,000+ 台灣帳號、政府機構組織圖、大選週報。
+
+- **出處本身**：Vanderbilt Institute of National Security 公開的 *The GoLaxy Documents: Inside One Chinese Company's AI-Driven Influence Machine*，研究者為 Brett J. Goldstein、Brett V. Benson——原引用標題不完整，已補全
+- **首次公開**：2025-08-05 為兩位研究者在《紐約時報》的客座評論（"The Era of A.I. Propaganda Has Arrived, and America Must Act"），《紐約時報》新聞報導為 2025-08-06——原寫「首次由《紐約時報》報導」，已改為客座評論＋新聞報導
+- **399 頁**：*The Record* 寫「399 GoLaxy pages」，Vanderbilt 寫「nearly 400 pages」——一致
+- **2010 年由中科院計算所創立**：《紐約時報》投書寫由「中科院所屬研究所」於 2010 年創立，未指名計算所；計算所之名僅見於二手資料——已改為「中國科學院所屬研究所」
+- **2021 年獲中科曙光資助**：中央社譯《紐約時報》投書：「2021年，中科天璣獲得中科曙光（Sugon）的資助……中科曙光……被美國國防部列為與中國軍方有關聯的企業」——一致
+- **客戶名單（網信辦、軍委科技委、311 基地、國台辦）**：二手分析（部落格與新聞摘要）稱原始文件第 379 頁列出這四個客戶；《紐約時報》投書與 Taipei Times 均未提及；本次未逐頁核對原始文件（113 MB PDF）——⚠️ 待確認，已於文中標註。原寫「黨、軍、企三層在同一份合約中」無出處，已改為「同一份客戶名單」。中科天璣代表否認隸屬任何政府機構（中央社譯文）
+- **中央控制台可管控數量不限的養號子系統**：《紐約時報》投書、*The Record*、Taipei Times、Taiwan News 均未見此描述，僅一篇部落格文章提到「單一中央儀表板」；原始文件未逐頁核對——⚠️ 待確認，已於文中標註
+- **爬蟲 → 心理側寫 → DeepSeek 生成人設**：*The Record*：「scrape millions of data points from social platforms, build psychological profiles, and use generative AI — … DeepSeek — to animate them」——一致
+- **對話式互動**：中央社譯《紐約時報》投書：「這些AI化身能與使用者進行看似真實的對話，內容不僅具真實性、能即時應變」——一致
+- **方言與口音模擬**：Taipei Times、Taiwan News（引 Doublethink Lab）寫中科天璣模擬目標受眾的偏好、認知與語言風格，建立以華語、台語、英語對話的虛擬角色；未見「分析口音用於語音與影片生成」——原句已改寫
+- **超過 5,000 個台灣帳號**：中央社譯《紐約時報》投書：「超過5000個台灣民眾帳號的資料」；Taipei Times 引 Doublethink Lab：「about 5,000 key social media accounts identified as targets」——數字一致。原寫這 5,000 筆涵蓋政治人物、宗教團體與民間組織，實為另計的資料類別，已改寫
+- **政府機構組織圖**：中央社譯《紐約時報》投書：「政府機構的組織圖，詳盡至政治傾向、對中態度與全球衛星定位系統（GPS）座標」——一致。原寫「各機關的人員」，原文未指人員，已改
+- **大選週報**：Taipei Times 引文件中的「Taiwan Online Public Opinion Weekly Report」，2023 年底發布，追蹤 2023-11-25 至 12-01 的 634,448 筆網路內容——週報存在。原寫「Excel 表格」「每週選舉輿論變化」「供客戶（包括 311 基地與國台辦）」無出處，已改為 Taipei Times 的描述
+- **敘事設計（第十三章）**：中央社譯《紐約時報》投書：「建議利用機器人帳號網絡來加劇政黨間的分歧」——一致。原寫「為 311 基地與國台辦定制」無出處，已改
+- **Doublethink Lab (2026-03)**：標題正確；Taipei Times、Taiwan News 於 2026-03-18 已報導其分析，但英文版 Medium 列表顯示 2026-04-02，原頁本次無法讀取——⚠️ 發布日待確認
+- **The Record**：Dina Temple-Raston、Erika Gajda，2025-09-19——標題正確，已補日期
+
+**原始來源**：[Vanderbilt INS](https://www.vanderbilt.edu/national-security/wicked-problems-lab/golaxy/)；[中央社譯《紐約時報》投書](https://www.cna.com.tw/news/aopl/202508060159.aspx)；[The Record](https://therecord.media/golaxy-china-artificial-intelligence-papers)；[Taipei Times 2026-03-18](https://www.taipeitimes.com/News/front/archives/2026/03/18/2003854013)；[Doublethink Lab](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5)
+
+**驗證狀態**：⚠️ 部分修正——客戶名單、中央控制台與 Doublethink Lab 發布日待確認
+
+---
+
+### [46] OpenAI (2026-02) — *Disrupting Malicious Uses of AI*
+
+**引用內容**：一名與中國執法單位有關的使用者以 ChatGPT 潤飾「網路特戰」報告；單一省份 300 名操作員、數千個假帳號、300 多個境外平台；DeepSeek-R1、Qwen2.5、YOLOv8；超過 100 種戰術。
+
+- **報告本身**：OpenAI 威脅情報報告，封面為 "Disrupting malicious uses of our models: an update, February 2026"，37 頁；CNN 於 2026-02-25 報導——一致
+- **「網路特戰」**：報告原文「edit and polish periodic status reports on the conduct of what they termed "cyber special operations"」——一致。原寫「中共執法人員」，報告用語為「an individual associated with Chinese law enforcement」，已改
+- **300 名操作員**：報告原文「One report that this user asked the model to help draft claimed that 300 operators in their province had been engaged in IO」——為使用者自稱，非 OpenAI 查證；OpenAI 依使用者報告推估為「at least hundreds of operators」。原寫「至少 300 名」，已改為 300 名並註明出自使用者報告
+- **假帳號與平台數**：報告原文「utilizing thousands of accounts, many of which were fake」「over 300 different "foreign" social media platforms」（使用者所述）；OpenAI 摘要為「thousands of fake accounts across scores of platforms」——第十三章原寫「1,000+ 假帳號」，已改為「數千個」
+- **DeepSeek-R1、Qwen2.5、YOLOv8**：報告原文「the user claimed that teams in their province had experimented with DeepSeek-R1, Qwen2.5, and YOLOv8. We are not able to independently confirm whether this claim is true」——工具名稱一致。原寫 YOLOv8「用於目標監控的視覺辨識」，報告未說明用途，已刪除
+- **超過 100 種戰術**：報告原文「At different times, they referenced over 100 different tactics」——數字一致。原寫「月報中記錄」，已改為各期報告先後提及
+- **科大訊飛、口音**：報告中無相關內容——已從該句移除 [46]，只引 [47]
+- **CNN**：Sean Lyngaas，2026-02-25——標題一致
+- **DIGITIMES**：Joseph Chen，2026-02-26——標題一致（付費牆，僅讀導言）
+
+**原始來源**：[OpenAI 報告 PDF](https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf)；[CNN（CNN Newsource 轉載）](https://keyt.com/politics/cnn-us-politics/2026/02/25/openai-uncovers-global-chinese-intimidation-operation-through-one-officials-use-of-chatgpt/)；[DIGITIMES](https://apps.digitimes.com/news/a20260226VL214.html)
+
+**驗證狀態**：⚠️ 部分修正——數字改依原文歸屬（使用者自稱或 OpenAI 評估）
+
+---
+
+### [47] 國家安全局 (2026-01-11) —《2025年中共對臺認知作戰操作手法分析》
+
+**引用內容**：網信辦、國安部、解放軍政治工作部指導中科天璣等公司蒐集台灣人士資料；委託科大訊飛等公司建立臺灣口音資料庫；2025 年查報逾 4.5 萬組異常帳號、蒐獲逾 231 萬則爭議訊息。
+
+- **報告本身**：國安局新聞稿附件，正式標題「2025年中共對臺認知作戰操作手法分析」，英文版 "Analysis of China's Cognitive Warfare Tactics Against Taiwan in 2025"；發布日 2026-01-11（依自由時報與 NOWnews 報導，PDF 未印日期）——已補正標題與日期
+- **4.5 萬組異常帳號**：國安局原文「2025 年國安情報團隊查報逾 4.5 萬組異常帳號，較 2024 年增加 1.7 萬餘組」——一致。英文版用語為「inauthentic accounts」，英文本文原寫「suspicious account clusters」，已改
+- **231 萬則**：國安局原文「蒐獲逾 231.4 萬則爭訊」——數字一致。「爭議資訊」改為原文的「爭議訊息」，英文改為國安局英文版用語「disinformation」
+- **網信辦、國安部、解放軍政治工作部與中科天璣**：國安局原文「中共網信辦、國安部及解放軍政治工作部等單位，指導「中科天璣」、「美亞柏科」等科技公司，利用「爬蟲技術」……針對我國政治人物、民意代表與意見領袖，建立基本個資、人際網絡，以及對中共立場等資料庫」——機關名稱一致。原寫「運用」，原文為「指導」；對象原只寫意見領袖，已補政治人物與民意代表
+- **科大訊飛與錄音**：國安局原文「中共另委託「晴數智慧科技」、「科大訊飛」等科技公司，開發智能語音系統，並於我國徵才網站刊登廣告，誘吸不知情臺灣民眾，以國、臺、客語進行線上錄音，建立臺灣口音資料庫，不排除中共擬利用該系統，合成偽冒國人聲線語調」——委託與錄音一致。原寫「網站廣告」，實為徵才網站；原把合成影音寫成既成事實，國安局用「不排除」，已改
+- **自由時報**：「中共對台認知作戰 5大手法曝光」為 2026-01-12 紙本版標題——一致，已補日期
+- **讀賣新聞**：以中、英、日文搜尋，均未找到 2026 年 1 月讀賣關於 AI 模仿台灣口音的報導；找到的讀賣相關報導主題為 GoLaxy 選舉干預——⚠️ 待確認，已於引用標註
+
+**原始來源**：[國安局中文 PDF](https://www.nsb.gov.tw/zh/assets/documents/%E6%96%B0%E8%81%9E%E7%A8%BF/023b202c-8bc9-4b19-a8eb-c0d0b5809f99.pdf)；[國安局英文 PDF](https://www.nsb.gov.tw/en/assets/documents/%E6%96%B0%E8%81%9E%E7%A8%BF/3510977a-3c93-4b15-b1f8-246653335a0d.pdf)；[自由時報紙本](https://news.ltn.com.tw/news/politics/paper/1739528)；[Taipei Times 2026-01-12](https://www.taipeitimes.com/News/front/archives/2026/01/12/2003850442)
+
+**驗證狀態**：⚠️ 部分修正——讀賣新聞報導待確認
 
 ---
 

@@ -2,7 +2,7 @@
 
 This report provides a line-by-line fact-check of every citation used in *CCP Cognitive Warfare Against Taiwan: Deconstructing Structure, Technology & Operational Chains*. Errors discovered during verification have been corrected directly in the document; pre-correction versions are preserved in git history.
 
-Verification date: 2026-03-16
+Verification date: 2026-03-16 ([1]–[44]); 2026-11-18 ([45]–[47])
 
 ---
 
@@ -607,6 +607,77 @@ The following sections contain factual claims without numbered citations, as the
 - **Activity across "hundreds of platforms"**: Consistent with report description
 
 **Verification status**: ✅ Correct
+
+---
+
+### Update of 2026-03-18 — New Citations [45]–[47]
+
+[45]–[47] were added to the document on 2026-03-18 (commit `14fd82e`) and were not covered by this report at the time. They were verified on 2026-11-18.
+
+---
+
+### [45] Goldstein & Benson (2025) — The GoLaxy Documents
+
+**Cited claim**: 399 pages of internal GoLaxy documents: founded in 2010 by the CAS Institute of Computing Technology, funded by Sugon in 2021; clients include the CAC, CMC STC, Base 311 and the TAO; a central control console manages account farms; DeepSeek-generated conversational AI personas; 5,000+ Taiwanese accounts, organizational maps of government institutions, election weekly reports.
+
+- **The source itself**: *The GoLaxy Documents: Inside One Chinese Company's AI-Driven Influence Machine*, published by the Vanderbilt Institute of National Security; researchers Brett J. Goldstein and Brett V. Benson — the original citation's title was incomplete and has been completed
+- **First made public**: 2025-08-05 was the two researchers' *New York Times* guest essay ("The Era of A.I. Propaganda Has Arrived, and America Must Act"); the *New York Times* news report followed on 2025-08-06 — the original "first reported by *The New York Times*" has been corrected to guest essay plus news report
+- **399 pages**: *The Record* says "399 GoLaxy pages"; Vanderbilt says "nearly 400 pages" — consistent
+- **Founded in 2010 by the CAS Institute of Computing Technology**: the NYT essay says founded in 2010 by "a research institute at the state-controlled Chinese Academy of Sciences" and does not name the institute; the Institute of Computing Technology is named only in secondary material — corrected to "a research institute of the Chinese Academy of Sciences"
+- **Funded by Sugon in 2021**: CNA's translation of the NYT essay: GoLaxy received funding from Sugon in 2021; Sugon is "listed by the US Department of Defense as a company linked to the Chinese military" — consistent
+- **Client list (CAC, CMC STC, Base 311, TAO)**: secondary analyses (a blog post and news summaries) say page 379 of the original documents lists these four clients; neither the NYT essay nor Taipei Times mentions them; the original documents (a 113 MB PDF) were not checked page by page this time — ⚠️ unconfirmed, marked in the text. The original "directly linked in a single contractual chain" had no source and now reads "linked on a single client list". A GoLaxy representative denied being affiliated with any government agency (CNA translation)
+- **Central console managing an unlimited number of account-farming subsystems**: not found in the NYT essay, *The Record*, Taipei Times, or Taiwan News; only a blog post mentions "one central dashboard"; the original documents were not checked page by page — ⚠️ unconfirmed, marked in the text
+- **Crawling → psychological profiles → DeepSeek personas**: *The Record*: "scrape millions of data points from social platforms, build psychological profiles, and use generative AI — … DeepSeek — to animate them" — consistent
+- **Conversational interaction**: NYT essay (CNA translation): the AI personas can engage users in what appears to be a real conversation and adapt in real time — consistent
+- **Dialect and accent simulation**: Taipei Times and Taiwan News (citing Doublethink Lab) say GoLaxy simulates target audiences' preferences, cognition and linguistic styles, creating virtual characters that converse in Mandarin, Taiwanese (Hokkien) and English; nothing about "analyzing vocal accents for voice and video generation" — the original sentence has been rewritten
+- **Over 5,000 Taiwanese accounts**: NYT essay (CNA translation): data on more than 5,000 accounts belonging to Taiwanese people; Taipei Times citing Doublethink Lab: "about 5,000 key social media accounts identified as targets" — the figure is consistent. The original said these 5,000 records covered political figures, religious groups and civic organizations; those are separately counted data categories, so the text has been rewritten
+- **Organizational maps of government institutions**: NYT essay (CNA translation): organizational maps of government institutions, detailed down to political leanings, attitudes toward China and GPS coordinates — consistent. The original said "individual personnel"; the source does not refer to personnel, so this has been corrected
+- **Election weekly report**: Taipei Times cites a "Taiwan Online Public Opinion Weekly Report" in the documents, issued at the end of 2023 and tracking 634,448 records of online content posted 2023-11-25 to 12-01 — the weekly report exists. The original "Excel spreadsheets", "weekly shifts in election discourse" and "providing clients (including Base 311 and the TAO)" had no source; the text now follows Taipei Times' description
+- **Narrative design (Chapter XIII)**: NYT essay (CNA translation): GoLaxy recommended using bot networks to deepen divisions between parties — consistent. The original "customized for Base 311 and the Taiwan Affairs Office" had no source and has been corrected
+- **Doublethink Lab (2026-03)**: title correct; Taipei Times and Taiwan News reported its analysis on 2026-03-18, but the English Medium listing shows 2026-04-02 and the page itself could not be read this time — ⚠️ publication date unconfirmed
+- **The Record**: Dina Temple-Raston and Erika Gajda, 2025-09-19 — title correct, date added
+
+**Primary sources**: [Vanderbilt INS](https://www.vanderbilt.edu/national-security/wicked-problems-lab/golaxy/); [CNA translation of the NYT essay](https://www.cna.com.tw/news/aopl/202508060159.aspx); [The Record](https://therecord.media/golaxy-china-artificial-intelligence-papers); [Taipei Times 2026-03-18](https://www.taipeitimes.com/News/front/archives/2026/03/18/2003854013); [Doublethink Lab](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5)
+
+**Verification status**: ⚠️ Partly corrected — client list, central console, and Doublethink Lab publication date unconfirmed
+
+---
+
+### [46] OpenAI (2026-02) — *Disrupting Malicious Uses of AI*
+
+**Cited claim**: A user linked to Chinese law enforcement used ChatGPT to polish "cyber special operations" reports; 300 operators in one province, thousands of fake accounts, 300+ foreign platforms; DeepSeek-R1, Qwen2.5, YOLOv8; over 100 tactics.
+
+- **The report itself**: OpenAI threat intelligence report, cover title "Disrupting malicious uses of our models: an update, February 2026", 37 pages; reported by CNN on 2026-02-25 — consistent
+- **"Cyber special operations"**: report text: "edit and polish periodic status reports on the conduct of what they termed "cyber special operations"" — consistent. The original "a Chinese law enforcement official" has been corrected to the report's wording, "an individual associated with Chinese law enforcement"
+- **300 operators**: report text: "One report that this user asked the model to help draft claimed that 300 operators in their province had been engaged in IO" — this is the user's own claim, not an OpenAI finding; OpenAI's estimate, based on the user's reports, is "at least hundreds of operators". The original "at least 300" has been corrected to 300, attributed to the user's report
+- **Fake accounts and platforms**: report text: "utilizing thousands of accounts, many of which were fake" and "over 300 different "foreign" social media platforms" (per the user); OpenAI's summary: "thousands of fake accounts across scores of platforms" — Chapter XIII's "1,000+ fake accounts" has been corrected to "thousands"
+- **DeepSeek-R1, Qwen2.5, YOLOv8**: report text: "the user claimed that teams in their province had experimented with DeepSeek-R1, Qwen2.5, and YOLOv8. We are not able to independently confirm whether this claim is true" — tool names consistent. The original "YOLOv8 (for visual recognition in target surveillance)" states a purpose the report does not give, so it has been removed
+- **Over 100 tactics**: report text: "At different times, they referenced over 100 different tactics" — number consistent. The original "monthly reports documenting" has been corrected to "referenced across their reports"
+- **iFlytek, accents**: nothing in the report — [46] has been removed from that sentence, which now cites [47] only
+- **CNN**: Sean Lyngaas, 2026-02-25 — title consistent
+- **DIGITIMES**: Joseph Chen, 2026-02-26 — title consistent (paywalled; only the lede was read)
+
+**Primary sources**: [OpenAI report PDF](https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf); [CNN (CNN Newsource copy)](https://keyt.com/politics/cnn-us-politics/2026/02/25/openai-uncovers-global-chinese-intimidation-operation-through-one-officials-use-of-chatgpt/); [DIGITIMES](https://apps.digitimes.com/news/a20260226VL214.html)
+
+**Verification status**: ⚠️ Partly corrected — figures now attributed as in the source (user's claim or OpenAI's assessment)
+
+---
+
+### [47] Taiwan National Security Bureau (2026-01-11) — *Analysis of China's Cognitive Warfare Tactics Against Taiwan in 2025*
+
+**Cited claim**: The CAC, MSS and PLA Political Work Department direct firms such as GoLaxy to collect data on Taiwanese figures; firms such as iFlytek were commissioned to build a Taiwanese accent database; in 2025 the NSB flagged 45,000+ sets of inauthentic accounts and collected 2.31 million+ pieces of disinformation.
+
+- **The report itself**: NSB press release attachment, official title 「2025年中共對臺認知作戰操作手法分析」, English version "Analysis of China's Cognitive Warfare Tactics Against Taiwan in 2025"; released 2026-01-11 (per Liberty Times and NOWnews reporting; the PDF carries no printed date) — title and date corrected
+- **45,000+ sets of accounts**: NSB English text: "the NSB recorded over 45,000 sets of inauthentic accounts, an increase of over 17,000 sets compared to 2024" — consistent. The English text originally said "suspicious account clusters"; corrected to the NSB's wording
+- **2.31 million**: NSB English text: "over 2.314 million pieces of disinformation" — number consistent. "Disputed information" has been corrected to the NSB's term, "disinformation"
+- **CAC, MSS, PLA Political Work Department, and GoLaxy**: NSB English text: these organs "have directed Chinese IT companies such as Golaxy and Meiya Pico to utilize web crawler technology … to build databases profiling Taiwan's political figures, legislators, and opinion leaders, including their interpersonal connections and stances toward China" — agency names consistent. The original "use" has been corrected to "direct", and the targets, originally only opinion leaders, now include political figures and legislators
+- **iFlytek and voice recordings**: NSB English text: "China has commissioned Chinese IT companies such as Magic Data and iFlytek to develop intelligent voice systems and place advertisements on recruitment websites, aiming to entice unwitting Taiwanese users to submit online recordings in Mandarin, Taiwanese Hokkien, and Hakka … We do not rule out the possibility that this system can be used to clone voices mimicking Taiwanese accents" — commissioning and recordings consistent. The original "website advertisements" were on recruitment websites, and the original stated voice synthesis as fact where the NSB says it does "not rule out" the possibility; both corrected
+- **Liberty Times**: 「中共對台認知作戰 5大手法曝光」 is the 2026-01-12 print-edition headline — consistent, date added
+- **Yomiuri Shimbun**: searches in Chinese, English and Japanese found no January 2026 Yomiuri article on AI mimicking Taiwanese accents; the related Yomiuri coverage found was about GoLaxy's election interference — ⚠️ unconfirmed, marked in the citation
+
+**Primary sources**: [NSB Chinese PDF](https://www.nsb.gov.tw/zh/assets/documents/%E6%96%B0%E8%81%9E%E7%A8%BF/023b202c-8bc9-4b19-a8eb-c0d0b5809f99.pdf); [NSB English PDF](https://www.nsb.gov.tw/en/assets/documents/%E6%96%B0%E8%81%9E%E7%A8%BF/3510977a-3c93-4b15-b1f8-246653335a0d.pdf); [Liberty Times print edition](https://news.ltn.com.tw/news/politics/paper/1739528); [Taipei Times 2026-01-12](https://www.taipeitimes.com/News/front/archives/2026/01/12/2003850442)
+
+**Verification status**: ⚠️ Partly corrected — Yomiuri Shimbun article unconfirmed
 
 ---
 
